@@ -1,35 +1,54 @@
-🍕 Pizza Sales Performance Analysis
-🎯 Project Overview
+# 🍕 Analysis  Sales Performance 
 
-This project analyzes historical pizza sales data to generate actionable business insights and support strategic decision-making.
-The main objectives are:
+## 🎯 Project Overview
 
-Clean and prepare raw data (pizza_sales_raw.csv) into an analysis-ready dataset (Data Clean.csv).
+This project provides a comprehensive analysis of historical pizza sales data to generate **actionable business insights** and support strategic decision-making in operations, marketing, and inventory management.
 
-Measure key performance indicators (KPIs) for evaluating sales performance.
+The analysis focuses on measuring key performance indicators (KPIs) and uncovering underlying sales trends to optimize performance.
 
-Derive insights to optimize marketing, inventory, and sales strategies.
+---
 
-🛠️ Tools & Data Process
-Phase	Tool	Description
-Data Cleaning	Google Sheets / Microsoft Excel	Conducted validation, standardization, and error correction to produce a clean dataset.
-Analysis & Modeling	Microsoft Excel	Performed KPI calculations, trend analysis, and data aggregation using Pivot Tables.
-Visualization	Microsoft Excel Dashboard	Built an interactive dashboard to visualize sales performance metrics.
-📊 Key Performance Indicators & Insights
-Metric	Description
-Total Orders	Measures overall customer demand and transaction volume.
-Average Order Value (AOV)	Indicates average revenue per order and sales efficiency.
-Total Revenue	Represents total income generated from pizza sales.
-Quantity Sold per Category	Shows product distribution across pizza categories.
+## 🛠️ Data & Tools
 
-Insights:
+| Phase | Tool | Description |
+| :--- | :--- | :--- |
+| **Data Cleaning & Preparation** | Google Sheets / Microsoft Excel | Conducted validation, standardization, and error correction on `pizza_sales_raw.csv` to produce the analysis-ready dataset (`Data Clean.csv`). |
+| **Analysis & Modeling** | Microsoft Excel | Performed KPI calculations, trend analysis, and data aggregation utilizing **Pivot Tables** and advanced Excel functions. |
+| **Visualization & Reporting** | Microsoft Excel Dashboard | Built an **interactive dashboard** for dynamic visualization of sales performance metrics. |
 
-Sales Trend: Identified clear seasonal patterns and consistent revenue growth over time.
+---
 
-Top Products: Highlighted best-selling pizzas that drive significant sales performance.
+## 📊 Key Performance Indicators (KPIs)
 
-Category & Size Performance: Larger pizzas and classic categories contribute the highest revenue share.
+The following metrics were calculated and tracked to evaluate the overall sales performance:
 
-🖼️ Dashboard Overview
+* **Total Revenue:** Represents the total income generated from all pizza sales.
+* **Total Orders:** Measures the overall customer demand and transaction volume, indicating operational load.
+* **Average Order Value (AOV):** Indicates the average revenue generated per transaction, a key metric for sales efficiency and upselling performance.
+* **Quantity Sold per Category:** Shows the product distribution and popularity across different pizza categories.
 
-Pizza Sales Performance Dashboard — an interactive Excel dashboard visualizing total revenue, AOV, order trends, top products, and category performance.
+---
+
+## ✨ Key Insights & Operational Recommendations
+
+The analysis yielded several critical insights for business optimization:
+
+### 📈 Sales and Demand Trends
+
+* **Seasonal Pattern:** Identified clear **seasonal sales patterns** and consistent revenue growth, allowing for better forecasting and staffing/inventory planning during peak times.
+* **Peak Demand:** High-demand periods were clearly identified (e.g., specific days/months), suggesting targeted marketing and operational resource allocation (e.g., kitchen staffing, delivery optimization).
+
+### 🏆 Product Performance
+
+* **Top Products:** Highlighted best-selling pizzas that contribute significantly to sales. **Recommendation:** Prioritize inventory and marketing efforts for these top-performing SKUs to maximize ROI.
+* **Category & Size Contribution:** **Larger pizzas (L/XL)** and **Classic pizza categories** drive the highest revenue share. **Recommendation:** Focus promotions on larger sizes and ensure consistent availability of ingredients for the Classic category.
+
+### 💡 Operational Efficiency
+
+* The relationship between **Total Orders** and **Average Order Value (AOV)** provides insights into operational efficiency versus revenue quality, crucial for optimizing order processing and delivery logistics.
+
+---
+
+## 🖼️ Dashboard Overview
+
+The final output is an interactive **Pizza Sales Performance Dashboard** built in Excel
