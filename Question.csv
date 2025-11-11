@@ -1,0 +1,9 @@
+;
+Question;Data
+Berapa total pendapatan dari penjualan?;total revenue
+Berapa jumlah total pesanan yang diterima?;total order
+Berapa rata-rata pendapatan per pesanan?;average of order (AOV)
+Berapa jumlah pizza terjual per kategori pizza?;quantity per category
+Apa saja 10 pizza terlaris?;top 10 pizza by quantity
+Bagaimana tren pendapatan dari waktu ke waktu?;revenue trend per month
+Bagaimana pendapatan pizza berdasarkan kategori dan ukuran pizza?;revenue by pizza category and size

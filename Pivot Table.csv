@@ -1,0 +1,63 @@
+Total Revenue;;
+ $366.862,10 ;;
+;;
+Total Order;;
+12736;;
+;;
+AOV ;;
+28,8051272;;
+;;
+;;
+Quantity by Category;;
+;;
+;;
+Row Labels;Sum of quantity;
+Chicken;4932;
+Classic;4057;
+Supreme;4564;
+Veggie;5403;
+Grand Total;18956;
+;;
+;;
+;;
+Top 10 Pizza;;
+Row Labels;Sum of quantity;
+The Four Cheese Pizza;1316;
+The Barbecue Chicken Pizza;992;
+The Classic Deluxe Pizza;473;
+The Calabrese Pizza;276;
+The Greek Pizza;255;
+Grand Total;3312;
+;;
+;;
+;;
+;;
+;;
+;;
+Revenue Trend;;
+Row Labels;Sum of total_price;
+Jan;31584,7;
+Feb;29624,95;
+Mar;32181,9;
+Apr;29776,5;
+May;32233,4;
+Jun;30635,9;
+Jul;32785,9;
+Aug;29565,2;
+Sep;29285,45;
+Oct;28509,9;
+Nov;31531,35;
+Dec;29146,95;
+Grand Total;366862,1;
+;;
+;;
+;;
+;;
+Revenue Pizza Category and Size;;
+Sum of total_price;Column Labels;
+Row Labels;L;Grand Total
+Chicken;99579,25;99579,25
+Classic;73268,5;73268,5
+Supreme;92462,75;92462,75
+Veggie;101551,6;101551,6
+Grand Total;366862,1;366862,1
