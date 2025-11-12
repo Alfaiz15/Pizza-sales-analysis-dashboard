@@ -186,7 +186,7 @@ BEGIN
 END //
 DELIMITER ;
 
--- 🚀 HASIL AKHIR (yang kamu dapat)
+-- 🚀 HASIL AKHIR
 -- Database warehouse_db
 -- 8 tabel fungsional
 -- Data simulasi realistis
@@ -194,3 +194,4 @@ DELIMITER ;
 -- View untuk monitoring stok rendah
 
 -- Procedure untuk automation update stok
+
