@@ -1,4 +1,4 @@
-# 🍕 Data-Driven Operations: Analisis Kinerja Penjualan Pizza (2015)
+# 🍕 Data-Driven Analisis Kinerja Penjualan Pizza (2015)
 
 ## 📌 Ringkasan Eksekutif (Executive Summary)
 
