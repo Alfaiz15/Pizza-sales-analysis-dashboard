@@ -64,8 +64,5 @@ Analisis data menghasilkan temuan yang langsung dapat diimplementasikan untuk me
 | **AOV Potensial** | **Pricing Strategy:** Fokus pada *Upselling* ke ukuran **Large (L)** dan buat *Bundling Packages* yang menguntungkan, karena ukuran L terbukti paling bernilai. |
 | **Fokus Kategori** | **Inventory Management:** Tetapkan **Classic** dan **Supreme** sebagai kategori *Tier 1*. Tingkatkan *buffer stock* untuk mencegah *stock-out* pada *Peak Season*. |
 
----
-
-### Lihat Data Lengkap
 
 * [**Raw Data Pizza Sales**](Data%20Pizza.xlsx%20-%20Raw%20Data%20Pizza%20Sales.csv)
