@@ -1,67 +1,74 @@
 # 🍕 Data-Driven Pizza Sales Performance Analysis
-## 📌(Executive Summary)
 
-Proyek ini mendemonstrasikan kapabilitas **Data Analysis** dengan fokus pada **Operations**, bertujuan mengubah data transaksi mentah selama satu tahun menjadi **wawasan yang dapat ditindaklanjuti** (*actionable insights*). Proses analisis dilakukan secara efisien menggunakan **Microsoft Excel/Google Sheets**, menghasilkan *Dashboard* yang menjadi panduan utama bagi manajemen untuk **Optimalisasi Pendapatan** (*Revenue*), **Forecasting**, dan peningkatan **Efisiensi Inventaris**.
+## 📌 Executive Summary
 
-## 🎯 Tujuan Bisnis (Business Objectives)
-
-Analisis ini didesain untuk menjawab empat pertanyaan bisnis yang paling krusial:
-
-1.  **KPI Performance:** Berapa **Total Revenue**, **Total Order**, dan **Average Order Value (AOV)**?
-2.  **Market Trends:** Bagaimana tren pendapatan bulanan (*Seasonality*) sepanjang tahun?
-3.  **Product Prioritization:** Apa saja **10 Pizza Terlaris** (*Top Sellers*) berdasarkan kuantitas?
-4.  **Pricing Strategy:** Bagaimana kontribusi **Pendapatan** (*Revenue*) berdasarkan **Kategori** dan **Ukuran** pizza?
-
-## 🛠️ Tools dan Data
-
-* **Primary Tool:** Microsoft Excel / Google Sheets
-* **Data Source:** Data Transaksi Penjualan Harian (`Data Pizza.xlsx - Raw Data Pizza Sales.csv`)
+This project demonstrates **Data Analysis** capabilities with a focus on **Operations**, transforming one year of raw transaction data into **actionable insights**. Analysis was performed efficiently using **Microsoft Excel / Google Sheets**, resulting in a **dashboard** that guides management on **Revenue Optimization**, **Forecasting**, and **Inventory Efficiency**.
 
 ---
 
-## ⚙️ Workflow Analisis (Excel/Sheets Focused)
+## 🎯 Business Objectives
 
-### Fase 1: Data Cleansing & Feature Engineering
+This analysis aims to answer four key business questions:
 
-Menciptakan variabel (`Features`) baru dari data mentah—langkah penting sebelum Pivot Table.
+1. **KPI Performance:** What are **Total Revenue**, **Total Orders**, and **Average Order Value (AOV)**?
+2. **Market Trends:** What are the monthly revenue trends (*seasonality*) over the year?
+3. **Product Prioritization:** What are the **Top 10 Selling Pizzas** by quantity?
+4. **Pricing Strategy:** How does **Revenue** contribute by **Category** and **Pizza Size**?
 
-| Kolom Baru | Perhitungan | Fungsi Excel Kunci | Tujuan Bisnis |
+---
+
+## 🛠️ Tools & Data
+
+* **Primary Tool:** Microsoft Excel / Google Sheets  
+* **Data Source:** Daily Sales Transactions (`Data Pizza.xlsx` / `Raw Data Pizza Sales.csv`)
+
+---
+
+## ⚙️ Analysis Workflow (Excel/Sheets Focused)
+
+### Phase 1: Data Cleansing & Feature Engineering
+
+Created new variables (`features`) from raw data, essential before building Pivot Tables.
+
+| New Column | Calculation | Key Excel Formula | Business Purpose |
 | :--- | :--- | :--- | :--- |
-| **Total Revenue** | Harga x Kuantitas | **`= unit_price * quantity`** | Metrik keuangan dasar. |
-| **Nama Bulan** | Ekstraksi Bulan dari tanggal. | **`=TEXT(order_date, "mmmm")`** | Analisis *Seasonality* & *Forecasting*. |
-| **Nama Hari** | Ekstraksi Hari dari tanggal. | **`=TEXT(order_date, "dddd")`** | Analisis *Workload* & Jadwal Staf. |
-| **Total Order Unik** | Agregasi ID pesanan unik. | **`=COUNTA(UNIQUE(order_id_column))`** | Mengukur *Transaction Volume*. |
+| **Total Revenue** | Unit Price x Quantity | `= unit_price * quantity` | Core financial metric. |
+| **Month Name** | Extract month from date | `=TEXT(order_date, "mmmm")` | Seasonal & Forecasting analysis. |
+| **Day Name** | Extract day from date | `=TEXT(order_date, "dddd")` | Workload analysis & staff scheduling. |
+| **Total Unique Orders** | Aggregate unique order IDs | `=COUNTA(UNIQUE(order_id_column))` | Measure transaction volume. |
 
-### Fase 2: Pivot Table (The Engine Room)
+---
 
-Menggunakan **Pivot Table** sebagai mesin analisis untuk merangkum data dan menjawab *Business Questions*.
+### Phase 2: Pivot Table (The Engine Room)
 
-1.  **KPI Summary:** Digunakan untuk menghitung *Total Revenue*, *Total Order*, dan **AOV** ($\frac{\text{Total Revenue}}{\text{Total Order}}$).
-2.  **Revenue & Quantity:** Dibuat *Pivot* terpisah untuk `Nama Bulan` (untuk *Line Chart*) dan `pizza_name` (menggunakan **Value Filter: Top 10**).
-3.  **Segmentasi Kompleks:** Rows: `pizza_category`, Columns: `pizza_size`, Values: `SUM of Total Revenue` (Analisis kontribusi **Size**).
+Pivot Tables summarize data and answer key business questions:
 
-### Fase 3: Dashboard dan Interaktivitas
+1. **KPI Summary:** Calculate **Total Revenue**, **Total Orders**, and **AOV** (`Total Revenue / Total Orders`).  
+2. **Revenue & Quantity:** Separate pivots for `Month Name` (for Line Chart) and `pizza_name` (Top 10 Filter).  
+3. **Complex Segmentation:** Rows: `pizza_category`, Columns: `pizza_size`, Values: `SUM of Total Revenue` (analyzing contribution by size).
 
-Visualisasi yang *clear* dan *concise* untuk komunikasi wawasan yang efektif.
+---
 
-| Visualisasi | Tipe Chart | Wawasan yang Diperkuat |
+### Phase 3: Dashboard & Interactivity
+
+Clear, concise visualization for effective insights communication.
+
+| Visualization | Chart Type | Reinforced Insight |
 | :--- | :--- | :--- |
-| **Tren Revenue Bulanan** | Line Chart | Menunjukkan *Seasonality* jelas (**Puncak Juli**, **Lembah September**) untuk *planning*. |
-| **Quantity per Category** | Donut Chart | Prioritas *Inventory*: **Classic (30%)** dan **Supreme (24%)** mendominasi volume. |
-| **Revenue by Size** | Stacked Bar Chart | Strategi *Upselling*: Ukuran **Large (L)** adalah *Revenue Driver* utama. |
-| **Interaktivitas** | Slicer | Menghubungkan *Slicer* (`pizza_category`) ke semua *chart* untuk *ad-hoc analysis*. |
+| **Monthly Revenue Trend** | Line Chart | Highlights seasonality (**Peak July**, **Low September**) for planning. |
+| **Quantity per Category** | Donut Chart | Inventory prioritization: **Classic (30%)**, **Supreme (24%)** dominate volume. |
+| **Revenue by Size** | Stacked Bar Chart | Upselling strategy: **Large (L)** is the primary revenue driver. |
+| **Interactivity** | Slicer | Connect `pizza_category` slicer to all charts for ad-hoc analysis. |
 
 ---
 
-## 💡 Key Insights & Rekomendasi Strategis
+## 💡 Key Insights & Strategic Recommendations
 
-Analisis data menghasilkan temuan yang langsung dapat diimplementasikan untuk meningkatkan efisiensi dan profit:
+Data analysis produced actionable insights to enhance efficiency and profit:
 
-| Insight | Rekomendasi Strategis (Operations & Revenue) |
+| Insight | Strategic Recommendation (Operations & Revenue) |
 | :--- | :--- |
-| **Seasonal Fluctuation** | **Forecasting & Marketing:** Alokasikan *Marketing Budget* untuk promosi di bulan **September** dan **November** (*Low Season*) untuk menstabilkan **Arus Pendapatan** (*Revenue Stream*). |
-| **Dominasi Produk** | **Operations Efficiency:** Lakukan studi waktu dan gerak (*Time & Motion Study*) pada resep **The Classic Deluxe Pizza** (Top 1) untuk mengurangi *preparation time* dan mengatasi potensi *bottleneck*. |
-| **AOV Potensial** | **Pricing Strategy:** Fokus pada *Upselling* ke ukuran **Large (L)** dan buat *Bundling Packages* yang menguntungkan, karena ukuran L terbukti paling bernilai. |
-| **Fokus Kategori** | **Inventory Management:** Tetapkan **Classic** dan **Supreme** sebagai kategori *Tier 1*. Tingkatkan *buffer stock* untuk mencegah *stock-out* pada *Peak Season*. |
-
----
+| **Seasonal Fluctuation** | **Forecasting & Marketing:** Allocate marketing budget to promote low-season months (**September**, **November**) to stabilize **Revenue Stream**. |
+| **Product Dominance** | **Operations Efficiency:** Conduct *Time & Motion Study* for **The Classic Deluxe Pizza** (Top Seller) to reduce preparation time and mitigate bottlenecks. |
+| **AOV Potential** | **Pricing Strategy:** Focus on **Upselling** to **Large (L)** sizes and create profitable bundling packages. |
+| **Category Focus** | **Inventory Management:** Designate **Classic** and **Supreme** as Tier 1 categories. Increase buffer stock to prevent stock-outs during peak season. |
