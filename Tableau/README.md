@@ -1,57 +1,59 @@
-# ✈️ Root Cause Analysis Keterlambatan Penerbangan: End-to-End Data Workflow (Excel/Sheets - Tableau)
+# ✈️ Flight Delay Root Cause Analysis: End-to-End Data Workflow (Excel/Sheets & Tableau)
 
-## 📌  (Executive Summary)
+## 📌 Executive Summary
 
-Proyek ini adalah studi kasus krusial dalam **Operational Performance** yang bertujuan melakukan **Root Cause Analysis (RCA)** terhadap data historis keterlambatan penerbangan. Sebagai Data Analyst, saya menerapkan *end-to-end data workflow*, mulai dari *Data Cleansing* dan *Feature Engineering* di **Microsoft Excel/Google Sheets** hingga visualisasi *insights* operasional di **Tableau Desktop**. Hasilnya adalah *dashboard* yang memberikan *actionable insights* bagi tim Operasional untuk meningkatkan kinerja ketepatan waktu (*On-Time Performance*).
-
-## 🛠️ Tools dan Data
-
-* **Data Engineering & Cleansing:** Microsoft Excel / Google Sheets
-* **Visualisasi & Dashboarding:** Tableau Desktop
-* **Data Source:** Data penyebab keterlambatan penerbangan (`Airline_Delay_Cause.csv`).
+This project is a critical case study in **Operational Performance**, aiming to perform **Root Cause Analysis (RCA)** on historical flight delay data. As a Data Analyst, I applied an **end-to-end data workflow**, from **Data Cleansing** and **Feature Engineering** in **Microsoft Excel/Google Sheets** to operational **insights visualization** in **Tableau Desktop**. The resulting **dashboard** provides actionable insights for the Operations team to improve **On-Time Performance (OTP)**.
 
 ---
 
-## ⚙️ Fase 1: Data Engineering & Feature Engineering (Detail Excel/Sheets)
+## 🛠️ Tools & Data
 
-Fase ini menggunakan Excel/Sheets untuk membersihkan data dan menciptakan metrik baru (*calculated fields*) yang esensial untuk analisis mendalam.
+* **Data Engineering & Cleansing:** Microsoft Excel / Google Sheets  
+* **Visualization & Dashboarding:** Tableau Desktop  
+* **Data Source:** Flight delay causes (`Airline_Delay_Cause.csv`)  
 
-| Level | Tugas | Rumus Excel/Sheets Kunci | Deskripsi Fungsional |
+---
+
+## ⚙️ Phase 1: Data Engineering & Feature Engineering (Excel/Sheets)
+
+This phase cleanses data and creates **calculated fields** essential for in-depth analysis.
+
+| Level | Task | Key Excel/Sheets Formula | Functional Description |
 | :--- | :--- | :--- | :--- |
-| **Basic** | **Pembersihan Teks** | **`=TRIM(A2)`** | Menghilangkan spasi berlebih pada kolom teks (`airport_name`, `carrier_name`) untuk menjamin *data integrity*. |
-| **Basic** | **Total Waktu Delay** | **`=SUM(I2:M2)`** | Menghitung Total Waktu Delay (dalam menit) per baris dari semua kolom penyebab. (Asumsi I2:M2 adalah kolom delay). |
-| **Intermediate** | **Ekstraksi Tanggal** | **`=DATE(A2, B2, 1)`** | Menggabungkan kolom `year` (A2) dan `month` (B2) menjadi satu kolom Tanggal Bulanan yang seragam untuk analisis *Time Series*. |
-| **Intermediate** | **Persentase Kontribusi** | **`=J2/$N2`** (dengan $N2 dikunci) | Menghitung persentase kontribusi setiap penyebab (misal, `carrier_delay` di J2) terhadap *Total Waktu Delay* (N2) untuk analisis *share of blame*. |
-| **Advance** | **Klasifikasi Risiko** | **`=IF(N2 > 100000, "High Risk", "Normal")`** | Membuat kategori risiko operasional menggunakan `IF` atau `IFS` untuk menandai bandara/maskapai yang total waktu *delay*-nya melebihi ambang batas tertentu. |
-| **Advance** | **Pengecekan Unik** | **`=COUNTA(UNIQUE(E:E))`** | Mengkonfirmasi jumlah unik entitas (maskapai atau bandara) setelah proses *cleansing* (Hanya tersedia di Excel 365/Google Sheets). |
+| **Basic** | **Text Cleaning** | `=TRIM(A2)` | Removes extra spaces in text columns (`airport_name`, `carrier_name`) to ensure **data integrity**. |
+| **Basic** | **Total Delay Time** | `=SUM(I2:M2)` | Computes total delay per row (in minutes) across all delay cause columns (I2:M2). |
+| **Intermediate** | **Date Extraction** | `=DATE(A2, B2, 1)` | Combines `year` (A2) and `month` (B2) into a uniform monthly date column for **Time Series Analysis**. |
+| **Intermediate** | **Contribution Percentage** | `=J2/$N2` | Calculates each cause’s percentage of **Total Delay Time** (`carrier_delay` / N2) for *share of blame* analysis. |
+| **Advanced** | **Risk Classification** | `=IF(N2>100000, "High Risk", "Normal")` | Categorizes operational risk using thresholds to flag airports/carriers with excessive delay minutes. |
+| **Advanced** | **Unique Count Check** | `=COUNTA(UNIQUE(E:E))` | Confirms number of unique entities (airlines or airports) after cleansing (Excel 365/Google Sheets only). |
 
 ---
 
-## 📊 Fase 2: Analisis Kunci dan Visualisasi (Pivot Table & Tableau)
+## 📊 Phase 2: Key Analysis & Visualization (Pivot Tables & Tableau)
 
-### 2.1 Analisis Pivot Table (Excel/Sheets)
+### 2.1 Pivot Table Analysis (Excel/Sheets)
 
-* **KPI Utama:** Menghitung rata-rata *Total Waktu Delay* dan *Total Volume Penerbangan*.
-* **Root Cause Dominan:** Menggunakan kolom **`Penyebab Delay`** sebagai *Column Label* dan **SUM** `Total Waktu Delay` sebagai *Value* untuk mengukur *bottleneck*.
-* **Hotspot Operasional:** Mengidentifikasi **Top 10 Bandara** dan **Maskapai** dengan *delay* tertinggi melalui *Value Filters*.
+* **Main KPIs:** Average **Total Delay Time** and **Total Flight Volume**  
+* **Dominant Root Causes:** Use `Delay Cause` as **Column Label** and SUM of `Total Delay Time` as **Value** to identify bottlenecks  
+* **Operational Hotspots:** Identify **Top 10 Airports** and **Airlines** with highest delays using Value Filters  
 
-### 2.2 Visualisasi Tableau (Detail Calculated Fields)
+### 2.2 Tableau Visualization (Calculated Fields)
 
-Visualisasi dirancang untuk mengkomunikasikan *insights* operasional secara visual dan interaktif.
+Visualizations are designed to communicate operational insights clearly and interactively.
 
-| Visualisasi | Tipe Chart/Metode | Calculated Field (Jika Ada) | Wawasan Operasional Utama |
+| Visualization | Chart Type / Method | Calculated Field | Key Operational Insight |
 | :--- | :--- | :--- | :--- |
-| **Peta Hotspot Keterlambatan** | **Geo-Spatial Map** | N/A (Menggunakan *Field* geografis `city` dan `state` yang sudah ada). | Menunjukkan lokasi bandara/negara bagian dengan **Total Waktu Delay** tertinggi, memfokuskan intervensi geografis. |
-| **Kontribusi Penyebab** | **Stacked Bar Chart** | **`[Delay Tipe Internal] = [carrier_delay]`**<br>**`[Delay Tipe Eksternal] = [weather_delay] + [nas_delay]`** | Membandingkan secara visual *share of blame* masalah **Internal** (*Carrier Delay*) vs **Eksternal** (*Weather/NAS Delay*). |
-| **Tren Musiman** | **Line Chart** | **`DATETRUNC('month', [Date])`** (Digunakan untuk memastikan data agregat per bulan). | Memantau perubahan kinerja bulanan, membantu *forecasting* kebutuhan *buffer time* terutama pada *Peak Season*. |
-| **Perbandingan Kinerja** | **Bar Chart (Top N Filter)** | **`RANK(SUM([Total Waktu Delay]))`** (Digunakan untuk menampilkan *Top 10* maskapai/bandara). | Menentukan maskapai mana yang menjadi *outlier* terburuk dibandingkan kompetitornya. |
+| **Delay Hotspot Map** | Geo-Spatial Map | N/A (using geographic fields `city` and `state`) | Shows airports/states with highest **Total Delay Time**, focusing geographic intervention. |
+| **Cause Contribution** | Stacked Bar Chart | `[Internal Delay] = [carrier_delay]`<br>`[External Delay] = [weather_delay] + [nas_delay]` | Compares **Internal** vs **External** causes visually (*share of blame*). |
+| **Seasonal Trends** | Line Chart | `DATETRUNC('month', [Date])` | Tracks monthly performance changes, supporting **forecasting** and buffer time planning for peak season. |
+| **Performance Comparison** | Bar Chart (Top N Filter) | `RANK(SUM([Total Delay Time]))` | Identifies airline outliers with worst delays compared to peers. |
 
 ---
 
-## 💡 Key Insights & Rekomendasi Strategis
+## 💡 Key Insights & Strategic Recommendations
 
-Analisis ini menghasilkan temuan yang dapat ditindaklanjuti untuk peningkatan kinerja **Operations**:
+This analysis produced actionable insights for improving **Operations Performance**:
 
-1.  **Isu Internal vs Eksternal:** Klarifikasi apakah masalah utama terletak pada *Internal Operations* (jika **Carrier Delay** dominan) atau faktor eksternal (jika **NAS/Weather Delay** dominan).
-2.  **Mitigasi Risiko:** Gunakan data musiman (*Seasonal Trends*) dan *Weather Delay* untuk merekomendasikan penambahan **Buffer Time** yang strategis pada rute dan bulan dengan risiko tertinggi.
-3.  **Targeted Improvement:** Daftar Bandara **Top 10 Delay** menjadi target prioritas untuk *review* alur kerja dan koordinasi *Air Traffic Control* guna mengurangi **NAS Delay**.
+1. **Internal vs External Issues:** Determine if delays are primarily due to **Internal Operations** (Carrier Delay) or **External Factors** (NAS/Weather Delay).  
+2. **Risk Mitigation:** Use seasonal trends and **Weather Delay** data to recommend strategic **Buffer Time** on high-risk routes/months.  
+3. **Targeted Improvement:** The **Top 10 Delay Airports** should be prioritized for workflow review and **Air Traffic Control coordination** to reduce NAS Delays.
