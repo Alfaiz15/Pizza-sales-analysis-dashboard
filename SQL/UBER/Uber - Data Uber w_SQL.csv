@@ -1,0 +1,1180 @@
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,AVG Speed,,,,,,,,,,,,,,,,
+,category,day_type,total_trip,avg_trip_per_day,avg_distance_km,avg_duration_minutes,avg_speed_km,,,,,,,,,,
+,Business,Weekday,796,3.79,25.2,22.64,71.29,,,,,,,,,,
+,Business,Weekend,270,3.55,29.75,23.76,66.94,,,,,,,,,,
+,Personal,Weekday,52,2.36,15.49,15.46,52.35,,,,,,,,,,
+,Personal,Weekend,23,2.3,44.53,31.78,58.3,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,AVG Weekend,,,AVG Weekday,,,,,,,,,,,,,
+,start_hour,count_trip_weekend,,start_hour,count_trip_weekday,,,,,,,,,,,,
+,0.0,8,,0.0,11,,,,,,,,,,,,
+,1.0,3,,1.0,2,,,,,,,,,,,,
+,2.0,2,,3.0,2,,,,,,,,,,,,
+,3.0,1,,5.0,2,,,,,,,,,,,,
+,5.0,2,,6.0,3,,,,,,,,,,,,
+,6.0,1,,7.0,9,,,,,,,,,,,,
+,7.0,4,,8.0,31,,,,,,,,,,,,
+,8.0,4,,9.0,34,,,,,,,,,,,,
+,9.0,17,,10.0,51,,,,,,,,,,,,
+,10.0,14,,11.0,60,,,,,,,,,,,,
+,11.0,12,,12.0,59,,,,,,,,,,,,
+,12.0,18,,13.0,81,,,,,,,,,,,,
+,13.0,13,,14.0,63,,,,,,,,,,,,
+,14.0,26,,15.0,71,,,,,,,,,,,,
+,15.0,27,,16.0,69,,,,,,,,,,,,
+,16.0,19,,17.0,68,,,,,,,,,,,,
+,17.0,27,,18.0,65,,,,,,,,,,,,
+,18.0,29,,19.0,47,,,,,,,,,,,,
+,19.0,21,,20.0,56,,,,,,,,,,,,
+,20.0,15,,21.0,33,,,,,,,,,,,,
+,21.0,17,,22.0,22,,,,,,,,,,,,
+,22.0,8,,23.0,9,,,,,,,,,,,,
+,23.0,5,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,start_date,start_hour,start_minute,end_date,end_hour,end_minute,month,year,CATEGORY,START,STOP,MILES,PURPOSE,duration,speed,day,day_time
+,2016-01-01,21.0,11.0,2016-01-01,21.0,17.0,Jan,2016,Business,Fort Pierce,Fort Pierce,82.076.339.999.999.900,Meal/Entertain,6.0,82.076.339.999.999.900,Friday,Evening
+,2016-01-02,1.0,25.0,2016-01-02,1.0,37.0,Jan,2016,Business,Fort Pierce,Fort Pierce,8.0467,Meal/Entertain,12.0,40.233.499.999.999.900,Saturday,Night
+,2016-01-02,20.0,25.0,2016-01-02,20.0,38.0,Jan,2016,Business,Fort Pierce,Fort Pierce,77.248.319.999.999.900,Errand/Supplies,13.0,35.653.070.769.230.700,Saturday,Evening
+,2016-01-05,17.0,31.0,2016-01-05,17.0,45.0,Jan,2016,Business,Fort Pierce,Fort Pierce,7.563.898,Meeting,14.0,32.416.705.714.285.700,Tuesday,Afternoon
+,2016-01-06,14.0,42.0,2016-01-06,15.0,49.0,Jan,2016,Business,Fort Pierce,West Palm Beach,10.251.495.800.000.000,Customer Visit,67.0,9.180.444,Wednesday,Afternoon
+,2016-01-06,17.0,15.0,2016-01-06,17.0,19.0,Jan,2016,Business,West Palm Beach,West Palm Beach,69.201.619.999.999.900,Meal/Entertain,4.0,10.380.242.999.999.900,Wednesday,Afternoon
+,2016-01-06,17.0,30.0,2016-01-06,17.0,35.0,Jan,2016,Business,West Palm Beach,Palm Beach,11.426.314,Meeting,5.0,137.115.768,Wednesday,Afternoon
+,2016-01-07,13.0,27.0,2016-01-07,13.0,33.0,Jan,2016,Business,Cary,Cary,12.874.720.000.000.000,Meeting,6.0,12.874.720.000.000.000,Thursday,Afternoon
+,2016-01-10,8.0,5.0,2016-01-10,8.0,25.0,Jan,2016,Business,Cary,Morrisville,13.357.522.000.000.000,Meeting,20.0,40.072.566.000.000.000,Sunday,Morning
+,2016-01-10,12.0,17.0,2016-01-10,12.0,44.0,Jan,2016,Business,Jamaica,New York,2.655.411,Customer Visit,27.0,59.009.133.333.333.300,Sunday,Morning
+,2016-01-10,15.0,8.0,2016-01-10,15.0,51.0,Jan,2016,Business,New York,Queens,17.380.872,Meeting,43.0,24.252.379.534.883.700,Sunday,Afternoon
+,2016-01-10,18.0,18.0,2016-01-10,18.0,53.0,Jan,2016,Business,Elmhurst,New York,1.207.005,Meeting,35.0,20.691.514.285.714.200,Sunday,Afternoon
+,2016-01-10,19.0,12.0,2016-01-10,19.0,32.0,Jan,2016,Business,Midtown,East Harlem,99.779.080.000.000.000,Meeting,20.0,29.933.724.000.000.000,Sunday,Evening
+,2016-01-11,8.0,55.0,2016-01-11,9.0,21.0,Jan,2016,Business,East Harlem,NoMad,10.299.776.000.000.000,Temporary Site,26.0,23.768.713.846.153.800,Monday,Morning
+,2016-01-11,11.0,56.0,2016-01-11,12.0,3.0,Jan,2016,Business,Flatiron District,Midtown,25.749.440.000.000.000,Errand/Supplies,7.0,22.070.948.571.428.500,Monday,Morning
+,2016-01-11,13.0,32.0,2016-01-11,13.0,46.0,Jan,2016,Business,Midtown,Midtown East,2.735.878,Meal/Entertain,14.0,11.725.191.428.571.400,Monday,Afternoon
+,2016-01-11,14.0,30.0,2016-01-11,14.0,43.0,Jan,2016,Business,Midtown East,Midtown,3.057.746,Meal/Entertain,13.0,14.112.673.846.153.800,Monday,Afternoon
+,2016-01-12,12.0,33.0,2016-01-12,12.0,49.0,Jan,2016,Business,Midtown,Hudson Square,3.057.746,Meal/Entertain,16.0,11.466.547.499.999.900,Tuesday,Morning
+,2016-01-12,12.0,53.0,2016-01-12,13.0,9.0,Jan,2016,Business,Hudson Square,Lower Manhattan,643.736,Meal/Entertain,16.0,241.401,Tuesday,Morning
+,2016-01-12,14.0,42.0,2016-01-12,14.0,56.0,Jan,2016,Business,Lower Manhattan,Hudson Square,2.896.812,Errand/Supplies,14.0,12.414.908.571.428.500,Tuesday,Afternoon
+,2016-01-12,15.0,13.0,2016-01-12,15.0,28.0,Jan,2016,Business,Hudson Square,Hell's Kitchen,38.624.159.999.999.900,Customer Visit,15.0,15.449.663.999.999.900,Tuesday,Afternoon
+,2016-01-12,15.0,42.0,2016-01-12,15.0,54.0,Jan,2016,Business,Hell's Kitchen,Midtown,321.868,Errand/Supplies,12.0,160.934,Tuesday,Afternoon
+,2016-01-12,16.0,2.0,2016-01-12,17.0,0.0,Jan,2016,Business,New York,Queens County,24.301.033.999.999.900,Meeting,58.0,2.513.900.068.965.510,Tuesday,Afternoon
+,2016-01-13,13.0,54.0,2016-01-13,14.0,7.0,Jan,2016,Business,Downtown,Gulfton,18.024.607.999.999.900,Meeting,13.0,83.190.498.461.538.400,Wednesday,Afternoon
+,2016-01-13,15.0,0.0,2016-01-13,15.0,28.0,Jan,2016,Business,Gulfton,Downtown,18.990.212,Meeting,28.0,40.693.311.428.571.400,Wednesday,Afternoon
+,2016-01-14,16.0,29.0,2016-01-14,17.0,5.0,Jan,2016,Business,Houston,Houston,35.244.546,Customer Visit,36.0,5.874.091,Thursday,Afternoon
+,2016-01-14,21.0,39.0,2016-01-14,21.0,45.0,Jan,2016,Business,Eagan Park,Jamestown Court,6.276.426,Errand/Supplies,6.0,62.764.259.999.999.900,Thursday,Evening
+,2016-01-15,0.0,41.0,2016-01-15,1.0,1.0,Jan,2016,Business,Morrisville,Cary,1.287.472,Errand/Supplies,20.0,3.862.416,Friday,Night
+,2016-01-15,11.0,43.0,2016-01-15,12.0,3.0,Jan,2016,Business,Cary,Durham,16.737.136,Meal/Entertain,20.0,50.211.408,Friday,Morning
+,2016-01-15,13.0,26.0,2016-01-15,13.0,44.0,Jan,2016,Business,Durham,Cary,16.737.136,Meal/Entertain,18.0,55.790.453.333.333.300,Friday,Afternoon
+,2016-01-18,14.0,55.0,2016-01-18,15.0,6.0,Jan,2016,Business,Cary,Cary,77.248.319.999.999.900,Meal/Entertain,11.0,42.135.447.272.727.200,Monday,Afternoon
+,2016-01-18,16.0,13.0,2016-01-18,16.0,24.0,Jan,2016,Business,Farmington Woods,Whitebridge,7.563.898,Meal/Entertain,11.0,41.257.625.454.545.400,Monday,Afternoon
+,2016-01-19,9.0,9.0,2016-01-19,9.0,23.0,Jan,2016,Business,Whitebridge,Lake Wellingborough,11.587.248,Meal/Entertain,14.0,4.965.963.428.571.420,Tuesday,Morning
+,2016-01-19,10.0,55.0,2016-01-19,11.0,9.0,Jan,2016,Business,Lake Wellingborough,Whitebridge,12.230.984,Temporary Site,14.0,52.418.502.857.142.800,Tuesday,Morning
+,2016-01-20,10.0,36.0,2016-01-20,11.0,11.0,Jan,2016,Business,Cary,Raleigh,27.519.714,Meeting,35.0,47.176.652.571.428.500,Wednesday,Morning
+,2016-01-20,11.0,48.0,2016-01-20,12.0,19.0,Jan,2016,Business,Fayetteville Street,Umstead,24.301.033.999.999.900,Meeting,31.0,470.342.593.548.387,Wednesday,Morning
+,2016-01-20,13.0,25.0,2016-01-20,14.0,19.0,Jan,2016,Business,Raleigh,Cary,64.695.468,Customer Visit,54.0,71.883.853.333.333.300,Wednesday,Afternoon
+,2016-01-21,14.0,25.0,2016-01-21,14.0,29.0,Jan,2016,Business,Cary,Cary,25.749.440.000.000.000,Errand/Supplies,4.0,3.862.416,Thursday,Afternoon
+,2016-01-21,14.0,43.0,2016-01-21,14.0,51.0,Jan,2016,Business,Cary,Cary,38.624.159.999.999.900,Meal/Entertain,8.0,2.896.812,Thursday,Afternoon
+,2016-01-21,16.0,1.0,2016-01-21,16.0,6.0,Jan,2016,Business,Cary,Cary,160.934,Meal/Entertain,5.0,1.931.208,Thursday,Afternoon
+,2016-01-26,10.0,41.0,2016-01-26,10.0,50.0,Jan,2016,Business,Whitebridge,Hazelwood,321.868,Meal/Entertain,9.0,21.457.866.666.666.600,Tuesday,Morning
+,2016-01-26,12.0,33.0,2016-01-26,12.0,41.0,Jan,2016,Business,Hazelwood,Whitebridge,37.014.819.999.999.900,Errand/Supplies,8.0,27.761.114.999.999.900,Tuesday,Morning
+,2016-01-26,16.0,24.0,2016-01-26,16.0,32.0,Jan,2016,Business,Whitebridge,Westpark Place,3.057.746,Errand/Supplies,8.0,22.933.094.999.999.900,Tuesday,Afternoon
+,2016-01-26,17.0,17.0,2016-01-26,17.0,22.0,Jan,2016,Business,Cary,Cary,22.530.759.999.999.900,Errand/Supplies,5.0,27.036.911.999.999.900,Tuesday,Afternoon
+,2016-01-26,17.0,27.0,2016-01-26,17.0,29.0,Jan,2016,Business,Cary,Cary,80.467,Errand/Supplies,2.0,241.401,Tuesday,Afternoon
+,2016-01-27,9.0,24.0,2016-01-27,9.0,31.0,Jan,2016,Business,Cary,Cary,2.896.812,Meeting,7.0,24.829.817.142.857.100,Wednesday,Morning
+,2016-01-27,10.0,19.0,2016-01-27,10.0,48.0,Jan,2016,Business,Cary,Raleigh,30.094.658,Customer Visit,29.0,62.264.809.655.172.400,Wednesday,Morning
+,2016-01-27,12.0,34.0,2016-01-27,12.0,44.0,Jan,2016,Business,Fairmont,Meredith Townes,5.471.756,Customer Visit,10.0,32.830.536,Wednesday,Morning
+,2016-01-27,14.0,5.0,2016-01-27,14.0,13.0,Jan,2016,Business,Raleigh,Raleigh,4.345.218,Customer Visit,8.0,32.589.135,Wednesday,Afternoon
+,2016-01-27,14.0,46.0,2016-01-27,15.0,8.0,Jan,2016,Business,Raleigh,Cary,20.760.486,Customer Visit,22.0,56.619.507.272.727.200,Wednesday,Afternoon
+,2016-01-28,12.0,28.0,2016-01-28,13.0,0.0,Jan,2016,Business,Cary,Raleigh,3.057.746,Temporary Site,32.0,573.327.375,Thursday,Morning
+,2016-01-28,15.0,11.0,2016-01-28,15.0,31.0,Jan,2016,Business,Meredith Townes,Leesville Hollow,23.657.297.999.999.900,Meeting,20.0,70.971.893.999.999.900,Thursday,Afternoon
+,2016-01-28,16.0,21.0,2016-01-28,16.0,51.0,Jan,2016,Business,Raleigh,Cary,25.266.638,Meeting,30.0,50.533.276,Thursday,Afternoon
+,2016-01-29,9.0,31.0,2016-01-29,9.0,45.0,Jan,2016,Business,Cary,Cary,7.402.963.999.999.990,Customer Visit,14.0,31.726.988.571.428.500,Friday,Morning
+,2016-01-29,10.0,56.0,2016-01-29,11.0,7.0,Jan,2016,Business,Cary,Cary,8.368.568,Meeting,11.0,45.646.734.545.454.500,Friday,Morning
+,2016-01-29,11.0,43.0,2016-01-29,12.0,3.0,Jan,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Friday,Morning
+,2016-01-29,13.0,24.0,2016-01-29,13.0,47.0,Jan,2016,Business,Durham,Cary,16.254.334,Meeting,23.0,42.402.610.434.782.600,Friday,Afternoon
+,2016-01-29,18.0,31.0,2016-01-29,18.0,52.0,Jan,2016,Business,Cary,Apex,93.341.719.999.999.900,Errand/Supplies,21.0,26.669.062.857.142.800,Friday,Afternoon
+,2016-01-29,21.0,21.0,2016-01-29,21.0,40.0,Jan,2016,Business,Apex,Cary,885.137,Meal/Entertain,19.0,27.951.694.736.842.100,Friday,Evening
+,2016-01-30,16.0,21.0,2016-01-30,16.0,33.0,Jan,2016,Business,Cary,Apex,9.173.238,Errand/Supplies,12.0,45.866.189.999.999.900,Saturday,Afternoon
+,2016-01-30,18.0,9.0,2016-01-30,18.0,24.0,Jan,2016,Business,Apex,Cary,9.173.238,Customer Visit,15.0,36.692.952,Saturday,Afternoon
+,2016-02-01,10.0,35.0,2016-02-01,11.0,15.0,Feb,2016,Business,Cary,Chapel Hill,31.221.196,Customer Visit,40.0,46.831.794,Monday,Morning
+,2016-02-01,12.0,10.0,2016-02-01,12.0,43.0,Feb,2016,Business,Chapel Hill,Cary,37.497.622,Customer Visit,33.0,68.177.494.545.454.500,Monday,Morning
+,2016-02-01,12.0,56.0,2016-02-01,13.0,7.0,Feb,2016,Business,Northwoods,Whitebridge,6.276.426,Meal/Entertain,11.0,34.235.050.909.090.900,Monday,Morning
+,2016-02-02,13.0,4.0,2016-02-02,13.0,23.0,Feb,2016,Business,Whitebridge,Williamsburg Manor,13.357.522.000.000.000,Meeting,19.0,42.181.648.421.052.600,Tuesday,Afternoon
+,2016-02-02,13.0,51.0,2016-02-02,14.0,6.0,Feb,2016,Business,Cary,Cary,965.604,Errand/Supplies,15.0,3.862.416,Tuesday,Afternoon
+,2016-02-02,14.0,38.0,2016-02-02,14.0,42.0,Feb,2016,Business,Cary,Cary,25.749.440.000.000.000,Errand/Supplies,4.0,3.862.416,Tuesday,Afternoon
+,2016-02-04,8.0,40.0,2016-02-04,9.0,1.0,Feb,2016,Business,Cary,Morrisville,8.368.568,Errand/Supplies,21.0,23.910.194.285.714.200,Thursday,Morning
+,2016-02-04,9.0,37.0,2016-02-04,10.0,9.0,Feb,2016,Business,Morrisville,Cary,15.610.598,Meal/Entertain,32.0,29.269.871.249.999.900,Thursday,Morning
+,2016-02-04,10.0,26.0,2016-02-04,10.0,32.0,Feb,2016,Business,Cary,Cary,25.749.440.000.000.000,Meal/Entertain,6.0,25.749.440.000.000.000,Thursday,Morning
+,2016-02-04,15.0,59.0,2016-02-04,16.0,3.0,Feb,2016,Business,Cary,Cary,17.702.740.000.000.000,Meal/Entertain,4.0,2.655.411,Thursday,Afternoon
+,2016-02-04,16.0,35.0,2016-02-04,16.0,39.0,Feb,2016,Business,Cary,Cary,25.749.440.000.000.000,Meal/Entertain,4.0,3.862.416,Thursday,Afternoon
+,2016-02-04,18.0,4.0,2016-02-04,18.0,31.0,Feb,2016,Business,Whitebridge,Macgregor Downs,1.448.406,Meeting,27.0,321.868,Thursday,Afternoon
+,2016-02-04,20.0,36.0,2016-02-04,20.0,55.0,Feb,2016,Business,Cary,Cary,12.391.918,Meeting,19.0,39.132.372.631.578.900,Thursday,Evening
+,2016-02-05,11.0,47.0,2016-02-05,12.0,7.0,Feb,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Friday,Morning
+,2016-02-05,13.0,22.0,2016-02-05,13.0,41.0,Feb,2016,Business,Durham,Cary,16.737.136,Meeting,19.0,52.854.113.684.210.500,Friday,Afternoon
+,2016-02-06,16.0,20.0,2016-02-06,16.0,53.0,Feb,2016,Business,Cary,Raleigh,18.346.476,Between Offices,33.0,33.357.229.090.909.000,Saturday,Afternoon
+,2016-02-06,18.0,57.0,2016-02-06,19.0,21.0,Feb,2016,Business,Raleigh,Cary,1.448.406,Errand/Supplies,24.0,3.621.015,Saturday,Afternoon
+,2016-02-06,19.0,28.0,2016-02-06,19.0,37.0,Feb,2016,Business,Edgehill Farms,Whitebridge,51.498.880.000.000.000,Meal/Entertain,9.0,34.332.586.666.666.600,Saturday,Evening
+,2016-02-07,16.0,49.0,2016-02-07,17.0,1.0,Feb,2016,Business,Cary,Apex,90.123.039.999.999.900,Errand/Supplies,12.0,45.061.519.999.999.900,Sunday,Afternoon
+,2016-02-07,18.0,3.0,2016-02-07,18.0,17.0,Feb,2016,Business,Apex,Cary,9.173.238,Customer Visit,14.0,39.313.877.142.857.100,Sunday,Afternoon
+,2016-02-07,18.0,39.0,2016-02-07,18.0,53.0,Feb,2016,Business,Cary,Morrisville,9.816.974,Temporary Site,14.0,42.072.745.714.285.700,Sunday,Afternoon
+,2016-02-07,20.0,22.0,2016-02-07,20.0,40.0,Feb,2016,Business,Morrisville,Cary,9.816.974,Meeting,18.0,32.723.246.666.666.600,Sunday,Evening
+,2016-02-08,12.0,57.0,2016-02-08,13.0,8.0,Feb,2016,Business,Whitebridge,Edgehill Farms,69.201.619.999.999.900,Meal/Entertain,11.0,37.746.338.181.818.100,Monday,Morning
+,2016-02-08,14.0,0.0,2016-02-08,14.0,10.0,Feb,2016,Business,Edgehill Farms,Whitebridge,4.345.218,Meal/Entertain,10.0,26.071.308.000.000.000,Monday,Afternoon
+,2016-02-09,10.0,54.0,2016-02-09,11.0,7.0,Feb,2016,Personal,Whitebridge,Northwoods,8.529.501.999.999.990,Meal/Entertain,13.0,393.669.323.076.923,Tuesday,Morning
+,2016-02-09,11.0,43.0,2016-02-09,11.0,50.0,Feb,2016,Personal,Northwoods,Tanglewood,482.802,Meal/Entertain,7.0,41.383.028.571.428.500,Tuesday,Morning
+,2016-02-09,13.0,36.0,2016-02-09,13.0,52.0,Feb,2016,Personal,Tanglewood,Preston,82.076.339.999.999.900,Meal/Entertain,16.0,30.778.627.499.999.900,Tuesday,Afternoon
+,2016-02-09,13.0,58.0,2016-02-09,14.0,2.0,Feb,2016,Personal,Preston,Whitebridge,241.401,Meal/Entertain,4.0,36.210.150.000.000.000,Tuesday,Afternoon
+,2016-02-09,18.0,55.0,2016-02-09,19.0,11.0,Feb,2016,Business,Cary,Morrisville,9.816.974,Meal/Entertain,16.0,368.136.525,Tuesday,Afternoon
+,2016-02-09,20.0,24.0,2016-02-09,20.0,40.0,Feb,2016,Business,Morrisville,Cary,9.816.974,Meal/Entertain,16.0,368.136.525,Tuesday,Evening
+,2016-02-11,16.0,28.0,2016-02-11,17.0,10.0,Feb,2016,Business,Cary,Raleigh,27.841.582.000.000.000,Meal/Entertain,42.0,39.773.688.571.428.500,Thursday,Afternoon
+,2016-02-11,17.0,49.0,2016-02-11,18.0,10.0,Feb,2016,Business,Eastgate,Walnut Terrace,9.173.238,Meal/Entertain,21.0,26.209.251.428.571.400,Thursday,Afternoon
+,2016-02-11,18.0,24.0,2016-02-11,18.0,46.0,Feb,2016,Business,Raleigh,Morrisville,2.172.609,Temporary Site,22.0,59.252.972.727.272.700,Thursday,Afternoon
+,2016-02-11,20.0,36.0,2016-02-11,20.0,51.0,Feb,2016,Business,Morrisville,Cary,9.816.974,Temporary Site,15.0,39.267.896,Thursday,Evening
+,2016-02-12,8.0,21.0,2016-02-12,8.0,42.0,Feb,2016,Business,Cary,Durham,1.367.939,Temporary Site,21.0,39.083.971.428.571.400,Friday,Morning
+,2016-02-12,10.0,45.0,2016-02-12,10.0,52.0,Feb,2016,Business,Durham,Morrisville,4.184.284,Temporary Site,7.0,35.865.291.428.571.400,Friday,Morning
+,2016-02-12,11.0,14.0,2016-02-12,11.0,35.0,Feb,2016,Business,Morrisville,Raleigh,2.735.878,Customer Visit,21.0,78.167.942.857.142.800,Friday,Morning
+,2016-02-12,13.0,2.0,2016-02-12,13.0,36.0,Feb,2016,Business,Raleigh,Cary,2.896.812,Meeting,34.0,51.120.211.764.705.800,Friday,Afternoon
+,2016-02-12,14.0,49.0,2016-02-12,15.0,6.0,Feb,2016,Business,Cary,Morrisville,13.518.456,Meeting,17.0,47.712.197.647.058.800,Friday,Afternoon
+,2016-02-12,15.0,33.0,2016-02-12,16.0,6.0,Feb,2016,Business,Morrisville,Cary,1.850.741,Customer Visit,33.0,33.649.836.363.636.300,Friday,Afternoon
+,2016-02-13,14.0,21.0,2016-02-13,14.0,41.0,Feb,2016,Business,Cary,Morrisville,14.323.126,Meeting,20.0,42.969.378.000.000.000,Saturday,Afternoon
+,2016-02-14,0.0,50.0,2016-02-14,1.0,0.0,Feb,2016,Personal,Jackson Heights,East Elmhurst,2.896.812,Meeting,10.0,17.380.872.000.000.000,Sunday,Night
+,2016-02-14,14.0,7.0,2016-02-14,14.0,40.0,Feb,2016,Business,East Elmhurst,New York,13.035.654,Meeting,33.0,23.701.189.090.909.000,Sunday,Afternoon
+,2016-02-14,14.0,46.0,2016-02-14,15.0,3.0,Feb,2016,Business,Midtown,Midtown West,321.868,Meeting,17.0,11.360.047.058.823.500,Sunday,Afternoon
+,2016-02-14,16.0,35.0,2016-02-14,17.0,2.0,Feb,2016,Business,New York,Long Island City,2.092.142,Meeting,27.0,46.492.044.444.444.400,Sunday,Afternoon
+,2016-02-14,17.0,6.0,2016-02-14,17.0,29.0,Feb,2016,Business,Long Island City,Jamaica,22.369.826,Meeting,23.0,58.356.067.826.086.900,Sunday,Afternoon
+,2016-02-16,3.0,21.0,2016-02-16,4.0,13.0,Feb,2016,Business,Katunayaka,Unknown Location,70.328.158,Customer Visit,52.0,81.147.874.615.384.600,Tuesday,Night
+,2016-02-16,8.0,29.0,2016-02-16,9.0,34.0,Feb,2016,Business,Unknown Location,Colombo,22.691.694,Customer Visit,65.0,20.946.179.076.923.000,Tuesday,Morning
+,2016-02-16,10.0,31.0,2016-02-16,10.0,41.0,Feb,2016,Business,Colombo,Colombo,4.184.284,Customer Visit,10.0,25.105.704,Tuesday,Morning
+,2016-02-16,11.0,32.0,2016-02-16,12.0,2.0,Feb,2016,Business,Colombo,Colombo,724.203,Customer Visit,30.0,1.448.406,Tuesday,Morning
+,2016-02-16,12.0,39.0,2016-02-16,12.0,42.0,Feb,2016,Business,Colombo,Colombo,2.735.878,Customer Visit,3.0,5.471.756,Tuesday,Morning
+,2016-02-16,13.0,43.0,2016-02-16,13.0,55.0,Feb,2016,Business,Colombo,Colombo,2.896.812,Temporary Site,12.0,1.448.406,Tuesday,Afternoon
+,2016-02-16,16.0,34.0,2016-02-16,17.0,10.0,Feb,2016,Business,Colombo,Colombo,965.604,Temporary Site,36.0,16.093.400.000.000.000,Tuesday,Afternoon
+,2016-02-16,17.0,17.0,2016-02-16,17.0,26.0,Feb,2016,Business,Colombo,Nugegoda,17.702.740.000.000.000,Meal/Entertain,9.0,11.801.826.666.666.600,Tuesday,Afternoon
+,2016-02-16,17.0,40.0,2016-02-16,17.0,44.0,Feb,2016,Business,Nugegoda,Unknown Location,5.793.624,Errand/Supplies,4.0,86.904.360.000.000.000,Tuesday,Afternoon
+,2016-02-17,13.0,18.0,2016-02-17,14.0,4.0,Feb,2016,Business,Unknown Location,Colombo,23.657.297.999.999.900,Temporary Site,46.0,308.573.452.173.913,Wednesday,Afternoon
+,2016-02-17,15.0,17.0,2016-02-17,15.0,22.0,Feb,2016,Business,Colombo,Colombo,2.735.878,Meal/Entertain,5.0,32.830.536,Wednesday,Afternoon
+,2016-02-17,15.0,33.0,2016-02-17,16.0,17.0,Feb,2016,Business,Colombo,Katunayaka,34.439.876,Temporary Site,44.0,46.963.467.272.727.200,Wednesday,Afternoon
+,2016-02-17,16.0,38.0,2016-02-17,16.0,43.0,Feb,2016,Business,Katunayaka,Katunayaka,80.467,Errand/Supplies,5.0,965.604,Wednesday,Afternoon
+,2016-02-18,8.0,19.0,2016-02-18,8.0,27.0,Feb,2016,Business,Unknown Location,Unknown Location,3.781.949,Temporary Site,8.0,283.646.175,Thursday,Morning
+,2016-02-18,14.0,3.0,2016-02-18,14.0,45.0,Feb,2016,Business,Unknown Location,Islamabad,20.438.617.999.999.900,Temporary Site,42.0,29.198.025.714.285.700,Thursday,Afternoon
+,2016-02-18,15.0,16.0,2016-02-18,15.0,31.0,Feb,2016,Business,Islamabad,Unknown Location,965.604,Temporary Site,15.0,3.862.416,Thursday,Afternoon
+,2016-02-18,18.0,44.0,2016-02-18,18.0,58.0,Feb,2016,Business,Unknown Location,Islamabad,8.368.568,Customer Visit,14.0,35.865.291.428.571.400,Thursday,Afternoon
+,2016-02-18,19.0,27.0,2016-02-18,20.0,8.0,Feb,2016,Business,Islamabad,Unknown Location,160.934,Meeting,41.0,23.551.317.073.170.700,Thursday,Evening
+,2016-02-19,9.0,2.0,2016-02-19,9.0,14.0,Feb,2016,Business,Unknown Location,Unknown Location,29.450.922.000.000.000,Meeting,12.0,14.725.461,Friday,Morning
+,2016-02-19,9.0,21.0,2016-02-19,9.0,51.0,Feb,2016,Business,Unknown Location,Unknown Location,18.024.607.999.999.900,Meeting,30.0,36.049.215.999.999.900,Friday,Morning
+,2016-02-19,10.0,21.0,2016-02-19,10.0,48.0,Feb,2016,Business,Unknown Location,Islamabad,12.230.984,Meeting,27.0,27.179.964.444.444.400,Friday,Morning
+,2016-02-19,11.0,20.0,2016-02-19,11.0,26.0,Feb,2016,Personal,Islamabad,Islamabad,241.401,Meeting,6.0,241.401,Friday,Morning
+,2016-02-19,11.0,45.0,2016-02-19,11.0,50.0,Feb,2016,Personal,Islamabad,Islamabad,160.934,Meeting,5.0,1.931.208,Friday,Morning
+,2016-02-19,12.0,9.0,2016-02-19,12.0,27.0,Feb,2016,Business,Islamabad,Unknown Location,11.748.182,Temporary Site,18.0,39.160.606.666.666.600,Friday,Morning
+,2016-02-19,16.0,26.0,2016-02-19,16.0,45.0,Feb,2016,Business,Unknown Location,Islamabad,563.269,Temporary Site,19.0,1.778.744.210.526.310,Friday,Afternoon
+,2016-02-19,17.0,9.0,2016-02-19,17.0,20.0,Feb,2016,Business,Islamabad,Islamabad,6.759.228,Temporary Site,11.0,36.868.516.363.636.300,Friday,Afternoon
+,2016-02-19,20.0,8.0,2016-02-19,20.0,30.0,Feb,2016,Personal,Islamabad,Unknown Location,21.887.024,Temporary Site,22.0,59.691.883.636.363.600,Friday,Evening
+,2016-02-19,20.0,34.0,2016-02-19,20.0,51.0,Feb,2016,Personal,Unknown Location,Unknown Location,402.335,Temporary Site,17.0,14.200.058.823.529.400,Friday,Evening
+,2016-02-20,7.0,59.0,2016-02-20,8.0,32.0,Feb,2016,Personal,Unknown Location,Islamabad,23.174.496,Temporary Site,33.0,42.135.447.272.727.200,Saturday,Morning
+,2016-02-20,10.0,48.0,2016-02-20,10.0,56.0,Feb,2016,Personal,Islamabad,Islamabad,482.802,Temporary Site,8.0,36.210.150.000.000.000,Saturday,Morning
+,2016-02-20,11.0,45.0,2016-02-20,11.0,53.0,Feb,2016,Personal,Islamabad,Islamabad,241.401,Temporary Site,8.0,18.105.075.000.000.000,Saturday,Morning
+,2016-02-20,12.0,41.0,2016-02-20,13.0,17.0,Feb,2016,Business,Islamabad,R?walpindi,29.611.855.999.999.900,Temporary Site,36.0,49.353.093.333.333.300,Saturday,Morning
+,2016-02-20,14.0,50.0,2016-02-20,15.0,54.0,Feb,2016,Business,R?walpindi,R?walpindi,37.175.754.000.000.000,Meeting,64.0,34.852.269.375.000.000,Saturday,Afternoon
+,2016-02-20,16.0,59.0,2016-02-20,17.0,54.0,Feb,2016,Personal,R?walpindi,Unknown Location,2.655.411,Meeting,55.0,28.968.120.000.000.000,Saturday,Afternoon
+,2016-02-20,18.0,0.0,2016-02-20,18.0,3.0,Feb,2016,Business,Unknown Location,Unknown Location,51.498.880.000.000.000,Errand/Supplies,3.0,10.299.776.000.000.000,Saturday,Afternoon
+,2016-02-20,19.0,28.0,2016-02-20,19.0,49.0,Feb,2016,Business,Unknown Location,Unknown Location,12.391.918,Errand/Supplies,21.0,35.405.480.000.000.000,Saturday,Evening
+,2016-02-21,9.0,7.0,2016-02-21,9.0,46.0,Feb,2016,Business,Unknown Location,Islamabad,2.333.543,Errand/Supplies,39.0,35.900.661.538.461.500,Sunday,Morning
+,2016-02-21,11.0,39.0,2016-02-21,11.0,43.0,Feb,2016,Business,Unknown Location,Islamabad,38.624.159.999.999.900,Errand/Supplies,4.0,5.793.624,Sunday,Morning
+,2016-02-21,11.0,47.0,2016-02-21,12.0,1.0,Feb,2016,Business,Islamabad,Islamabad,7.402.963.999.999.990,Errand/Supplies,14.0,31.726.988.571.428.500,Sunday,Morning
+,2016-02-21,12.0,13.0,2016-02-21,12.0,35.0,Feb,2016,Business,Islamabad,Unknown Location,14.162.192.000.000.000,Meal/Entertain,22.0,3.862.416,Sunday,Morning
+,2016-02-21,12.0,51.0,2016-02-21,13.0,12.0,Feb,2016,Business,Unknown Location,Unknown Location,13.357.522.000.000.000,Temporary Site,21.0,38.164.348.571.428.500,Sunday,Morning
+,2016-02-21,13.0,33.0,2016-02-21,14.0,30.0,Feb,2016,Business,Unknown Location,Unknown Location,36.532.018,Temporary Site,57.0,38.454.755.789.473.600,Sunday,Afternoon
+,2016-02-21,14.0,36.0,2016-02-21,15.0,3.0,Feb,2016,Business,Unknown Location,Islamabad,2.092.142,Temporary Site,27.0,46.492.044.444.444.400,Sunday,Afternoon
+,2016-02-21,15.0,14.0,2016-02-21,15.0,31.0,Feb,2016,Business,Islamabad,Noorpur Shahan,13.035.654,Temporary Site,17.0,46.008.190.588.235.200,Sunday,Afternoon
+,2016-02-21,15.0,36.0,2016-02-21,15.0,41.0,Feb,2016,Business,Noorpur Shahan,Unknown Location,35.405.480.000.000.000,Meal/Entertain,5.0,42.486.576.000.000.000,Sunday,Afternoon
+,2016-02-21,16.0,4.0,2016-02-21,16.0,32.0,Feb,2016,Business,Unknown Location,Unknown Location,15.610.598,Meal/Entertain,28.0,33.451.281.428.571.400,Sunday,Afternoon
+,2016-02-21,23.0,15.0,2016-02-21,23.0,52.0,Feb,2016,Business,Unknown Location,R?walpindi,321.868,Meeting,37.0,52.194.810.810.810.800,Sunday,Evening
+,2016-02-22,21.0,54.0,2016-02-22,22.0,9.0,Feb,2016,Business,Morrisville,Cary,13.035.654,Customer Visit,15.0,52.142.616,Monday,Evening
+,2016-02-24,14.0,30.0,2016-02-24,14.0,35.0,Feb,2016,Business,Whitebridge,Preston,241.401,Customer Visit,5.0,28.968.120.000.000.000,Wednesday,Afternoon
+,2016-02-24,15.0,19.0,2016-02-24,15.0,25.0,Feb,2016,Business,Preston,Whitebridge,2.735.878,Errand/Supplies,6.0,2.735.878,Wednesday,Afternoon
+,2016-02-25,16.0,27.0,2016-02-25,16.0,35.0,Feb,2016,Business,Whitebridge,Heritage Pines,49.889.540.000.000.000,Errand/Supplies,8.0,37.417.155.000.000.000,Thursday,Afternoon
+,2016-02-25,16.0,47.0,2016-02-25,17.0,2.0,Feb,2016,Business,Heritage Pines,Whitebridge,51.498.880.000.000.000,Errand/Supplies,15.0,20.599.552.000.000.000,Thursday,Afternoon
+,2016-02-25,17.0,16.0,2016-02-25,17.0,36.0,Feb,2016,Business,Whitebridge,Tanglewood,965.604,Meal/Entertain,20.0,28.968.120.000.000.000,Thursday,Afternoon
+,2016-02-25,18.0,22.0,2016-02-25,18.0,39.0,Feb,2016,Business,Tanglewood,Whitebridge,93.341.719.999.999.900,Meal/Entertain,17.0,32.944.136.470.588.200,Thursday,Afternoon
+,2016-02-26,9.0,6.0,2016-02-26,9.0,29.0,Feb,2016,Business,Whitebridge,Westpark Place,10.138.842,Meal/Entertain,23.0,26.449.153.043.478.200,Friday,Morning
+,2016-02-26,11.0,5.0,2016-02-26,11.0,11.0,Feb,2016,Personal,Westpark Place,Whitebridge,2.735.878,Meal/Entertain,6.0,2.735.878,Friday,Morning
+,2016-02-26,11.0,35.0,2016-02-26,11.0,59.0,Feb,2016,Business,Cary,Durham,17.059.003.999.999.900,Meeting,24.0,4.264.750.999.999.990,Friday,Morning
+,2016-02-26,13.0,1.0,2016-02-26,13.0,24.0,Feb,2016,Business,Durham,Cary,15.932.466,Meeting,23.0,41.562.954.782.608.600,Friday,Afternoon
+,2016-02-26,14.0,38.0,2016-02-26,14.0,46.0,Feb,2016,Personal,Whitebridge,Westpark Place,3.057.746,Meeting,8.0,22.933.094.999.999.900,Friday,Afternoon
+,2016-02-26,15.0,0.0,2016-02-26,15.0,18.0,Feb,2016,Personal,Westpark Place,Hazelwood,6.759.228,Meeting,18.0,2.253.076,Friday,Afternoon
+,2016-02-26,17.0,1.0,2016-02-26,17.0,12.0,Feb,2016,Personal,Hazelwood,Whitebridge,321.868,Meeting,11.0,17.556.436.363.636.300,Friday,Afternoon
+,2016-02-28,5.0,22.0,2016-02-28,5.0,38.0,Feb,2016,Business,Whitebridge,Waverly Place,12.391.918,Meeting,16.0,464.696.925,Sunday,Night
+,2016-02-28,9.0,26.0,2016-02-28,9.0,42.0,Feb,2016,Business,Waverly Place,Whitebridge,10.943.512,Meeting,16.0,4.103.817,Sunday,Morning
+,2016-02-29,11.0,7.0,2016-02-29,11.0,14.0,Feb,2016,Personal,Whitebridge,Westpark Place,3.379.614,Meeting,7.0,2.896.812,Monday,Morning
+,2016-02-29,11.0,30.0,2016-02-29,11.0,40.0,Feb,2016,Business,Cary,Apex,6.115.492,Meeting,10.0,36.692.952,Monday,Morning
+,2016-02-29,12.0,36.0,2016-02-29,12.0,48.0,Feb,2016,Business,Apex,Cary,90.123.039.999.999.900,Meeting,12.0,45.061.519.999.999.900,Monday,Morning
+,2016-02-29,14.0,55.0,2016-02-29,15.0,3.0,Feb,2016,Business,Whitebridge,Hazelwood,4.184.284,Meeting,8.0,3.138.213,Monday,Afternoon
+,2016-02-29,16.0,40.0,2016-02-29,17.0,0.0,Feb,2016,Business,Hazelwood,Whitebridge,10.621.644,Customer Visit,20.0,31.864.932,Monday,Afternoon
+,2016-03-01,18.0,47.0,2016-03-01,19.0,10.0,Mar,2016,Business,Whitebridge,Wayne Ridge,1.287.472,Meal/Entertain,23.0,33.586.226.086.956.500,Tuesday,Afternoon
+,2016-03-01,21.0,27.0,2016-03-01,21.0,45.0,Mar,2016,Business,Wayne Ridge,Whitebridge,1.287.472,Meeting,18.0,42.915.733.333.333.300,Tuesday,Evening
+,2016-03-03,9.0,45.0,2016-03-03,9.0,52.0,Mar,2016,Personal,Whitebridge,Westpark Place,35.405.480.000.000.000,Meeting,7.0,30.347.554.285.714.200,Thursday,Morning
+,2016-03-03,11.0,4.0,2016-03-03,11.0,10.0,Mar,2016,Business,Westpark Place,Whitebridge,37.014.819.999.999.900,Errand/Supplies,6.0,37.014.819.999.999.900,Thursday,Morning
+,2016-03-03,14.0,44.0,2016-03-03,14.0,58.0,Mar,2016,Business,Whitebridge,Northwoods,8.368.568,Meal/Entertain,14.0,35.865.291.428.571.400,Thursday,Afternoon
+,2016-03-03,15.0,27.0,2016-03-03,15.0,48.0,Mar,2016,Business,Cary,Raleigh,12.230.984,Customer Visit,21.0,3.494.566.857.142.850,Thursday,Afternoon
+,2016-03-03,16.0,2.0,2016-03-03,16.0,42.0,Mar,2016,Business,Raleigh,Cary,27.841.582.000.000.000,Meeting,40.0,41.762.373.000.000.000,Thursday,Afternoon
+,2016-03-04,7.0,47.0,2016-03-04,8.0,6.0,Mar,2016,Business,Cary,Durham,15.932.466,Meeting,19.0,50.313.050.526.315.700,Friday,Morning
+,2016-03-04,9.0,46.0,2016-03-04,10.0,3.0,Mar,2016,Business,Durham,Cary,15.932.466,Customer Visit,17.0,5.623.223.294.117.640,Friday,Morning
+,2016-03-04,11.0,46.0,2016-03-04,12.0,6.0,Mar,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Friday,Morning
+,2016-03-04,13.0,3.0,2016-03-04,13.0,25.0,Mar,2016,Business,Durham,Cary,17.541.806,Meeting,22.0,478.412.890.909.091,Friday,Afternoon
+,2016-03-04,13.0,40.0,2016-03-04,14.0,9.0,Mar,2016,Business,Cary,Raleigh,25.266.638,Customer Visit,29.0,52.275.802.758.620.600,Friday,Afternoon
+,2016-03-04,15.0,56.0,2016-03-04,16.0,8.0,Mar,2016,Business,Raleigh,Raleigh,7.885.766,Meal/Entertain,12.0,3.942.883,Friday,Afternoon
+,2016-03-04,16.0,16.0,2016-03-04,16.0,22.0,Mar,2016,Business,Fayetteville Street,Depot Historic District,12.874.720.000.000.000,Errand/Supplies,6.0,12.874.720.000.000.000,Friday,Afternoon
+,2016-03-04,16.0,43.0,2016-03-04,17.0,12.0,Mar,2016,Business,Raleigh,Cary,2.172.609,Meeting,29.0,44.950.531.034.482.700,Friday,Afternoon
+,2016-03-04,19.0,2.0,2016-03-04,19.0,8.0,Mar,2016,Business,Cary,Morrisville,3.057.746,Temporary Site,6.0,3.057.746,Friday,Evening
+,2016-03-04,19.0,16.0,2016-03-04,19.0,25.0,Mar,2016,Business,Morrisville,Cary,321.868,Meal/Entertain,9.0,21.457.866.666.666.600,Friday,Evening
+,2016-03-05,11.0,44.0,2016-03-05,11.0,59.0,Mar,2016,Business,Cary,Morrisville,1.046.071,Meal/Entertain,15.0,4.184.284,Saturday,Morning
+,2016-03-05,12.0,57.0,2016-03-05,13.0,12.0,Mar,2016,Personal,Weston,Weston,6.759.228,Meal/Entertain,15.0,27.036.912,Saturday,Morning
+,2016-03-05,14.0,8.0,2016-03-05,14.0,18.0,Mar,2016,Personal,Morrisville,Cary,563.269,Meal/Entertain,10.0,3.379.614,Saturday,Afternoon
+,2016-03-05,14.0,39.0,2016-03-05,15.0,1.0,Mar,2016,Business,Whitebridge,Wayne Ridge,12.552.852,Meal/Entertain,22.0,34.235.050.909.090.900,Saturday,Afternoon
+,2016-03-05,16.0,52.0,2016-03-05,17.0,13.0,Mar,2016,Business,Cary,Morrisville,12.552.852,Meal/Entertain,21.0,35.865.291.428.571.400,Saturday,Afternoon
+,2016-03-05,17.0,23.0,2016-03-05,17.0,34.0,Mar,2016,Business,Morrisville,Cary,6.276.426,Meal/Entertain,11.0,34.235.050.909.090.900,Saturday,Afternoon
+,2016-03-07,9.0,10.0,2016-03-07,9.0,20.0,Mar,2016,Business,Whitebridge,Edgehill Farms,45.061.519.999.999.900,Errand/Supplies,10.0,27.036.911.999.999.900,Monday,Morning
+,2016-03-07,9.0,23.0,2016-03-07,9.0,47.0,Mar,2016,Business,Cary,Raleigh,19.955.816.000.000.000,Customer Visit,24.0,49.889.540.000.000.000,Monday,Morning
+,2016-03-07,12.0,10.0,2016-03-07,12.0,26.0,Mar,2016,Business,Fayetteville Street,Meredith Townes,9.495.106,Customer Visit,16.0,356.066.475,Monday,Morning
+,2016-03-07,13.0,57.0,2016-03-07,14.0,18.0,Mar,2016,Business,Meredith Townes,Leesville Hollow,15.127.796,Meeting,21.0,43.222.274.285.714.200,Monday,Afternoon
+,2016-03-07,15.0,19.0,2016-03-07,15.0,45.0,Mar,2016,Business,Raleigh,Cary,19.151.146,Between Offices,26.0,44.194.952.307.692.300,Monday,Afternoon
+,2016-03-08,14.0,38.0,2016-03-08,14.0,55.0,Mar,2016,Business,Whitebridge,Waverly Place,11.587.248,Between Offices,17.0,4.089.616.941.176.470,Tuesday,Afternoon
+,2016-03-08,15.0,35.0,2016-03-08,16.0,0.0,Mar,2016,Business,Waverly Place,Whitebridge,12.230.984,Meal/Entertain,25.0,29.354.361.599.999.900,Tuesday,Afternoon
+,2016-03-08,16.0,13.0,2016-03-08,16.0,25.0,Mar,2016,Personal,Whitebridge,Whitebridge,25.749.440.000.000.000,Meal/Entertain,12.0,12.874.720.000.000.000,Tuesday,Afternoon
+,2016-03-10,3.0,36.0,2016-03-10,3.0,53.0,Mar,2016,Business,Cary,Morrisville,13.518.456,Meeting,17.0,47.712.197.647.058.800,Thursday,Night
+,2016-03-10,10.0,8.0,2016-03-10,10.0,37.0,Mar,2016,Business,East Austin,West University,20.599.552.000.000.000,Meeting,29.0,42.619.762.758.620.600,Thursday,Morning
+,2016-03-10,14.0,39.0,2016-03-10,14.0,55.0,Mar,2016,Business,West University,South Congress,37.014.819.999.999.900,Meeting,16.0,13.880.557.499.999.900,Thursday,Afternoon
+,2016-03-10,16.0,18.0,2016-03-10,16.0,28.0,Mar,2016,Business,South Congress,Arts District,25.749.440.000.000.000,Meeting,10.0,15.449.664.000.000.000,Thursday,Afternoon
+,2016-03-11,9.0,47.0,2016-03-11,9.0,59.0,Mar,2016,Business,The Drag,Congress Ave District,321.868,Meal/Entertain,12.0,160.934,Friday,Morning
+,2016-03-11,10.0,29.0,2016-03-11,10.0,36.0,Mar,2016,Business,Congress Ave District,Downtown,12.874.720.000.000.000,Meal/Entertain,7.0,11.035.474.285.714.200,Friday,Morning
+,2016-03-11,11.0,57.0,2016-03-11,12.0,4.0,Mar,2016,Business,Downtown,Red River District,19.312.079.999.999.900,Meal/Entertain,7.0,16.553.211.428.571.400,Friday,Morning
+,2016-03-11,13.0,43.0,2016-03-11,13.0,51.0,Mar,2016,Business,Red River District,Downtown,160.934,Meal/Entertain,8.0,1.207.005,Friday,Afternoon
+,2016-03-11,19.0,21.0,2016-03-11,19.0,35.0,Mar,2016,Business,South Congress,The Drag,3.379.614,Meal/Entertain,14.0,1.448.406,Friday,Evening
+,2016-03-12,9.0,13.0,2016-03-12,9.0,22.0,Mar,2016,Business,The Drag,South Congress,35.405.480.000.000.000,Meal/Entertain,9.0,23.603.653.333.333.300,Saturday,Morning
+,2016-03-12,18.0,27.0,2016-03-12,18.0,37.0,Mar,2016,Personal,South Congress,The Drag,3.057.746,Meal/Entertain,10.0,18.346.476,Saturday,Afternoon
+,2016-03-13,9.0,7.0,2016-03-13,9.0,37.0,Mar,2016,Business,The Drag,Convention Center District,9.173.238,Meal/Entertain,30.0,18.346.476,Sunday,Morning
+,2016-03-13,18.0,23.0,2016-03-13,18.0,43.0,Mar,2016,Business,South Congress,North Austin,13.518.456,Meal/Entertain,20.0,40.555.368,Sunday,Afternoon
+,2016-03-13,20.0,7.0,2016-03-13,20.0,28.0,Mar,2016,Business,Georgian Acres,The Drag,99.779.080.000.000.000,Meal/Entertain,21.0,28.508.308.571.428.500,Sunday,Evening
+,2016-03-13,20.0,39.0,2016-03-13,20.0,58.0,Mar,2016,Business,The Drag,North Austin,1.689.807,Meal/Entertain,19.0,53.362.326.315.789.400,Sunday,Evening
+,2016-03-13,21.0,11.0,2016-03-13,21.0,23.0,Mar,2016,Business,North Austin,Coxville,11.587.248,Meal/Entertain,12.0,5.793.624,Sunday,Evening
+,2016-03-13,22.0,19.0,2016-03-13,22.0,39.0,Mar,2016,Business,Coxville,The Drag,2.011.675,Meal/Entertain,20.0,6.035.025,Sunday,Evening
+,2016-03-14,8.0,34.0,2016-03-14,8.0,49.0,Mar,2016,Business,The Drag,South Congress,321.868,Errand/Supplies,15.0,1.287.472,Monday,Morning
+,2016-03-14,18.0,39.0,2016-03-14,18.0,55.0,Mar,2016,Business,South Congress,The Drag,4.345.218,Errand/Supplies,16.0,162.945.675,Monday,Afternoon
+,2016-03-15,8.0,45.0,2016-03-15,8.0,57.0,Mar,2016,Business,The Drag,Convention Center District,321.868,Meal/Entertain,12.0,160.934,Tuesday,Morning
+,2016-03-15,20.0,48.0,2016-03-15,21.0,1.0,Mar,2016,Business,Downtown,The Drag,45.061.519.999.999.900,Meal/Entertain,13.0,2.079.762.461.538.460,Tuesday,Evening
+,2016-03-16,11.0,34.0,2016-03-16,11.0,45.0,Mar,2016,Business,The Drag,Congress Ave District,2.735.878,Meal/Entertain,11.0,1.492.297.090.909.090,Wednesday,Morning
+,2016-03-16,14.0,44.0,2016-03-16,14.0,55.0,Mar,2016,Business,Convention Center District,West University,321.868,Meal/Entertain,11.0,17.556.436.363.636.300,Wednesday,Afternoon
+,2016-03-16,18.0,43.0,2016-03-16,18.0,56.0,Mar,2016,Business,West University,Congress Ave District,3.379.614,Meal/Entertain,13.0,15.598.218.461.538.400,Wednesday,Afternoon
+,2016-03-17,0.0,33.0,2016-03-17,0.0,44.0,Mar,2016,Personal,Downtown,The Drag,2.735.878,Meal/Entertain,11.0,1.492.297.090.909.090,Thursday,Night
+,2016-03-17,12.0,52.0,2016-03-17,15.0,11.0,Mar,2016,Business,Austin,Katy,21.887.024,Customer Visit,139.0,94.476.362.589.928.000,Thursday,Morning
+,2016-03-17,15.0,16.0,2016-03-17,15.0,58.0,Mar,2016,Business,Katy,Houston,48.602.067.999.999.900,Meeting,42.0,69.431.525.714.285.700,Thursday,Afternoon
+,2016-03-17,17.0,20.0,2016-03-17,18.0,2.0,Mar,2016,Business,Midtown,Alief,2.494.477,Meal/Entertain,42.0,35.635.385.714.285.700,Thursday,Afternoon
+,2016-03-17,18.0,47.0,2016-03-17,19.0,9.0,Mar,2016,Personal,Houston,Houston,7.885.766,Meal/Entertain,22.0,21.506.634.545.454.500,Thursday,Afternoon
+,2016-03-17,20.0,57.0,2016-03-17,21.0,28.0,Mar,2016,Personal,Houston,Houston,20.277.684,Meal/Entertain,31.0,39.247.130.322.580.600,Thursday,Evening
+,2016-03-17,21.0,48.0,2016-03-17,22.0,4.0,Mar,2016,Personal,Sharpstown,Midtown,16.737.136,Meal/Entertain,16.0,6.276.426,Thursday,Evening
+,2016-03-18,7.0,15.0,2016-03-18,7.0,21.0,Mar,2016,Business,Midtown,Midtown,17.702.740.000.000.000,Meal/Entertain,6.0,1.770.274,Friday,Morning
+,2016-03-18,8.0,35.0,2016-03-18,8.0,43.0,Mar,2016,Business,Midtown,Midtown,17.702.740.000.000.000,Meal/Entertain,8.0,13.277.055,Friday,Morning
+,2016-03-18,18.0,24.0,2016-03-18,19.0,8.0,Mar,2016,Business,Midtown,Sharpstown,21.243.288,Meeting,44.0,28.968.120.000.000.000,Friday,Afternoon
+,2016-03-18,19.0,23.0,2016-03-18,19.0,29.0,Mar,2016,Business,Sharpstown,Sharpstown,160.934,Errand/Supplies,6.0,160.934,Friday,Evening
+,2016-03-18,21.0,1.0,2016-03-18,21.0,15.0,Mar,2016,Business,Sharpstown,Midtown,14.805.927.999.999.900,Customer Visit,14.0,63.453.977.142.857.100,Friday,Evening
+,2016-03-19,9.0,10.0,2016-03-19,9.0,25.0,Mar,2016,Business,Midtown,Sharpstown,15.127.796,Meal/Entertain,15.0,60.511.184,Saturday,Morning
+,2016-03-19,12.0,50.0,2016-03-19,13.0,13.0,Mar,2016,Business,Houston,Sugar Land,1.931.208,Customer Visit,23.0,50.379.339.130.434.700,Saturday,Morning
+,2016-03-19,14.0,1.0,2016-03-19,14.0,57.0,Mar,2016,Business,Sugar Land,Houston,56.487.834,Customer Visit,56.0,60.522.679.285.714.200,Saturday,Afternoon
+,2016-03-19,15.0,34.0,2016-03-19,16.0,38.0,Mar,2016,Business,Houston,Galveston,5.874.091,Meal/Entertain,64.0,55.069.603.125,Saturday,Afternoon
+,2016-03-19,17.0,17.0,2016-03-19,17.0,32.0,Mar,2016,Business,Galveston,Port Bolivar,49.889.540.000.000.000,Meal/Entertain,15.0,19.955.816.000.000.000,Saturday,Afternoon
+,2016-03-19,17.0,37.0,2016-03-19,17.0,47.0,Mar,2016,Business,Port Bolivar,Port Bolivar,3.379.614,Errand/Supplies,10.0,20.277.684,Saturday,Afternoon
+,2016-03-19,17.0,52.0,2016-03-19,18.0,0.0,Mar,2016,Business,Port Bolivar,Port Bolivar,19.312.079.999.999.900,Errand/Supplies,8.0,1.448.406,Saturday,Afternoon
+,2016-03-19,18.0,53.0,2016-03-19,19.0,29.0,Mar,2016,Business,Port Bolivar,Galveston,1.207.005,Meeting,36.0,2.011.675,Saturday,Afternoon
+,2016-03-19,19.0,33.0,2016-03-19,20.0,39.0,Mar,2016,Business,Galveston,Houston,9.173.238,Customer Visit,66.0,83.393.072.727.272.700,Saturday,Evening
+,2016-03-20,7.0,37.0,2016-03-20,7.0,48.0,Mar,2016,Business,Midtown,Washington Avenue,9.495.106,Meeting,11.0,51.791.487.272.727.200,Sunday,Morning
+,2016-03-20,11.0,42.0,2016-03-20,11.0,56.0,Mar,2016,Business,Washington Avenue,Midtown,99.779.080.000.000.000,Meeting,14.0,42.762.462.857.142.800,Sunday,Morning
+,2016-03-20,17.0,8.0,2016-03-20,17.0,34.0,Mar,2016,Business,Midtown,Sharpstown,16.737.136,Meeting,26.0,38.624.159.999.999.900,Sunday,Afternoon
+,2016-03-20,18.0,34.0,2016-03-20,18.0,40.0,Mar,2016,Personal,Sharpstown,Briar Meadow,19.312.079.999.999.900,Meeting,6.0,19.312.079.999.999.900,Sunday,Afternoon
+,2016-03-20,18.0,45.0,2016-03-20,19.0,6.0,Mar,2016,Business,Briar Meadow,Midtown,15.449.663.999.999.900,Customer Visit,21.0,4.414.189.714.285.710,Sunday,Afternoon
+,2016-03-21,10.0,21.0,2016-03-21,10.0,26.0,Mar,2016,Personal,Midtown,Downtown,160.934,Customer Visit,5.0,1.931.208,Monday,Morning
+,2016-03-21,16.0,5.0,2016-03-21,16.0,13.0,Mar,2016,Business,Downtown,Midtown,1.448.406,Meal/Entertain,8.0,10.863.045.000.000.000,Monday,Afternoon
+,2016-03-21,18.0,59.0,2016-03-21,19.0,15.0,Mar,2016,Business,Midtown,Sharpstown,14.162.192.000.000.000,Meal/Entertain,16.0,5.310.822,Monday,Afternoon
+,2016-03-21,20.0,18.0,2016-03-21,20.0,55.0,Mar,2016,Business,Sharpstown,Midtown,41.199.104.000.000.000,Meal/Entertain,37.0,66.809.357.837.837.800,Monday,Evening
+,2016-03-22,6.0,17.0,2016-03-22,6.0,43.0,Mar,2016,Business,Midtown,Greater Greenspoint,3.701.482,Meal/Entertain,26.0,85.418.815.384.615.300,Tuesday,Night
+,2016-03-22,12.0,6.0,2016-03-22,12.0,24.0,Mar,2016,Personal,Morrisville,Cary,13.035.654,Meal/Entertain,18.0,4.345.218,Tuesday,Morning
+,2016-03-22,19.0,12.0,2016-03-22,19.0,25.0,Mar,2016,Personal,Whitebridge,Whitebridge,22.530.759.999.999.900,Meal/Entertain,13.0,10.398.812.307.692.300,Tuesday,Evening
+,2016-03-23,14.0,37.0,2016-03-23,14.0,42.0,Mar,2016,Personal,Whitebridge,Preston,2.735.878,Meal/Entertain,5.0,32.830.536,Wednesday,Afternoon
+,2016-03-23,14.0,53.0,2016-03-23,14.0,59.0,Mar,2016,Personal,Preston,Whitebridge,25.749.440.000.000.000,Meal/Entertain,6.0,25.749.440.000.000.000,Wednesday,Afternoon
+,2016-03-24,19.0,47.0,2016-03-24,19.0,54.0,Mar,2016,Personal,Whitebridge,Westpark Place,321.868,Meal/Entertain,7.0,27.588.685.714.285.700,Thursday,Evening
+,2016-03-24,20.0,34.0,2016-03-24,20.0,40.0,Mar,2016,Business,Westpark Place,Whitebridge,35.405.480.000.000.000,Meal/Entertain,6.0,3.540.548,Thursday,Evening
+,2016-03-25,13.0,24.0,2016-03-25,16.0,22.0,Mar,2016,Business,Cary,Latta,23.174.496,Customer Visit,178.0,78.116.278.651.685.300,Friday,Afternoon
+,2016-03-25,16.0,52.0,2016-03-25,22.0,22.0,Mar,2016,Business,Latta,Jacksonville,49.937.820.200.000.000,Customer Visit,330.0,90.796.036.727.272.700,Friday,Afternoon
+,2016-03-26,14.0,5.0,2016-03-26,14.0,29.0,Mar,2016,Personal,Couples Glen,Isles of Buena Vista,10.782.578,Meeting,24.0,26.956.445.000.000.000,Saturday,Afternoon
+,2016-03-26,15.0,19.0,2016-03-26,15.0,49.0,Mar,2016,Personal,Kissimmee,Orlando,14.162.192.000.000.000,Meeting,30.0,28.324.384.000.000.000,Saturday,Afternoon
+,2016-03-26,16.0,26.0,2016-03-26,16.0,30.0,Mar,2016,Personal,Lake Reams,Lake Reams,19.312.079.999.999.900,Meeting,4.0,2.896.812,Saturday,Afternoon
+,2016-03-27,0.0,31.0,2016-03-27,0.0,40.0,Mar,2016,Business,Lake Reams,Lake Reams,3.379.614,Errand/Supplies,9.0,2.253.076,Sunday,Night
+,2016-03-27,1.0,11.0,2016-03-27,1.0,23.0,Mar,2016,Business,Orlando,Kissimmee,10.621.644,Meal/Entertain,12.0,53.108.219.999.999.900,Sunday,Night
+,2016-03-27,15.0,31.0,2016-03-27,15.0,56.0,Mar,2016,Business,Kissimmee,Orlando,9.816.974,Customer Visit,25.0,235.607.376,Sunday,Afternoon
+,2016-03-27,21.0,26.0,2016-03-27,21.0,41.0,Mar,2016,Personal,Orlando,Orlando,11.104.446.000.000.000,Customer Visit,15.0,44.417.784.000.000.000,Sunday,Evening
+,2016-03-27,23.0,4.0,2016-03-27,23.0,18.0,Mar,2016,Personal,Orlando,Kissimmee,11.748.182,Customer Visit,14.0,50.349.351.428.571.400,Sunday,Evening
+,2016-03-28,12.0,29.0,2016-03-28,12.0,42.0,Mar,2016,Personal,Kissimmee,Orlando,5.793.624,Customer Visit,13.0,26.739.803.076.923.000,Monday,Morning
+,2016-03-28,19.0,30.0,2016-03-28,20.0,23.0,Mar,2016,Personal,Couples Glen,Vista East,43.774.048,Customer Visit,53.0,49.555.526.037.735.800,Monday,Evening
+,2016-03-28,22.0,55.0,2016-03-28,23.0,26.0,Mar,2016,Personal,Orlando,Kissimmee,41.360.037.999.999.900,Customer Visit,31.0,80.051.686.451.612.800,Monday,Evening
+,2016-03-29,15.0,27.0,2016-03-29,16.0,11.0,Mar,2016,Personal,Kissimmee,Orlando,21.887.024,Customer Visit,44.0,29.845.941.818.181.800,Tuesday,Afternoon
+,2016-03-29,18.0,20.0,2016-03-29,18.0,39.0,Mar,2016,Personal,Sand Lake Commons,Sky Lake,99.779.080.000.000.000,Customer Visit,19.0,31.509.183.157.894.700,Tuesday,Afternoon
+,2016-03-29,20.0,29.0,2016-03-29,20.0,44.0,Mar,2016,Personal,Sky Lake,Sand Lake Commons,965.604,Customer Visit,15.0,3.862.416,Tuesday,Evening
+,2016-03-29,23.0,4.0,2016-03-29,23.0,21.0,Mar,2016,Personal,Orlando,Kissimmee,22.208.892.000.000.000,Customer Visit,17.0,78.384.324.705.882.300,Tuesday,Evening
+,2016-03-30,22.0,5.0,2016-03-30,22.0,55.0,Mar,2016,Business,Orlando,Kissimmee,46.348.992,Meal/Entertain,50.0,556.187.904,Wednesday,Evening
+,2016-03-31,12.0,47.0,2016-03-31,13.0,22.0,Mar,2016,Business,Kissimmee,Orlando,25.910.374,Temporary Site,35.0,44.417.784,Thursday,Morning
+,2016-03-31,14.0,37.0,2016-03-31,15.0,9.0,Mar,2016,Business,Orlando,Kissimmee,26.393.175.999.999.900,Meal/Entertain,32.0,49.487.204.999.999.900,Thursday,Afternoon
+,2016-04-01,13.0,43.0,2016-04-01,14.0,1.0,April,2016,Business,Kissimmee,Kissimmee,1.770.274,Meeting,18.0,59.009.133.333.333.300,Friday,Afternoon
+,2016-04-01,14.0,36.0,2016-04-01,15.0,24.0,April,2016,Business,Kissimmee,Orlando,2.494.477,Customer Visit,48.0,31.180.962.499.999.900,Friday,Afternoon
+,2016-04-01,16.0,1.0,2016-04-01,16.0,49.0,April,2016,Business,Orlando,Kissimmee,32.669.602,Meeting,48.0,408.370.025,Friday,Afternoon
+,2016-04-01,16.0,52.0,2016-04-01,16.0,57.0,April,2016,Personal,Kissimmee,Kissimmee,11.265.379.999.999.900,Meeting,5.0,13.518.455.999.999.900,Friday,Afternoon
+,2016-04-02,8.0,48.0,2016-04-02,9.0,4.0,April,2016,Personal,Kissimmee,Kissimmee,885.137,Meeting,16.0,331.926.375,Saturday,Morning
+,2016-04-02,11.0,1.0,2016-04-02,11.0,16.0,April,2016,Personal,Kissimmee,Kissimmee,82.076.339.999.999.900,Meeting,15.0,32.830.535.999.999.900,Saturday,Morning
+,2016-04-02,12.0,21.0,2016-04-02,14.0,47.0,April,2016,Business,Kissimmee,Daytona Beach,12.440.198.199.999.900,Customer Visit,146.0,51.124.102.191.780.800,Saturday,Morning
+,2016-04-02,16.0,57.0,2016-04-02,18.0,9.0,April,2016,Business,Daytona Beach,Jacksonville,12.955.187,Customer Visit,72.0,10.795.989.166.666.600,Saturday,Afternoon
+,2016-04-02,19.0,38.0,2016-04-02,22.0,36.0,April,2016,Business,Jacksonville,Ridgeland,28.034.702.799.999.900,Customer Visit,178.0,94.498.998.202.247.100,Saturday,Evening
+,2016-04-03,2.0,0.0,2016-04-03,4.0,16.0,April,2016,Business,Florence,Cary,256.367.862,Meeting,136.0,11.310.346.852.941.100,Sunday,Night
+,2016-04-05,21.0,39.0,2016-04-05,21.0,55.0,April,2016,Business,Whitebridge,Wayne Ridge,12.713.786,Meal/Entertain,16.0,476.766.975,Tuesday,Evening
+,2016-04-06,0.0,19.0,2016-04-06,0.0,39.0,April,2016,Business,Wayne Ridge,Whitebridge,1.287.472,Meal/Entertain,20.0,3.862.416,Wednesday,Night
+,2016-04-07,18.0,20.0,2016-04-07,18.0,39.0,April,2016,Business,Cary,Morrisville,9.816.974,Meal/Entertain,19.0,3.100.097.052.631.570,Thursday,Afternoon
+,2016-04-07,19.0,45.0,2016-04-07,20.0,0.0,April,2016,Business,Morrisville,Cary,9.816.974,Errand/Supplies,15.0,39.267.896,Thursday,Evening
+,2016-04-08,12.0,30.0,2016-04-08,12.0,48.0,April,2016,Business,Cary,Durham,1.689.807,Meeting,18.0,563.269,Friday,Morning
+,2016-04-08,13.0,34.0,2016-04-08,13.0,51.0,April,2016,Business,Durham,Cary,14.001.257.999.999.900,Meal/Entertain,17.0,4.941.620.470.588.230,Friday,Afternoon
+,2016-04-08,13.0,55.0,2016-04-08,14.0,3.0,April,2016,Business,Westpark Place,Whitebridge,2.896.812,Errand/Supplies,8.0,21.726.090.000.000.000,Friday,Afternoon
+,2016-04-08,14.0,43.0,2016-04-08,15.0,20.0,April,2016,Business,Cary,Raleigh,30.738.394.000.000.000,Meeting,37.0,49.846.044.324.324.300,Friday,Afternoon
+,2016-04-08,16.0,5.0,2016-04-08,16.0,47.0,April,2016,Business,Raleigh,Cary,29.933.724,Meeting,42.0,42.762.462.857.142.800,Friday,Afternoon
+,2016-04-12,9.0,15.0,2016-04-12,9.0,26.0,April,2016,Business,Whitebridge,Edgehill Farms,45.061.519.999.999.900,Errand/Supplies,11.0,24.579.010.909.090.900,Tuesday,Morning
+,2016-04-12,9.0,34.0,2016-04-12,9.0,53.0,April,2016,Business,Cary,Raleigh,14.323.126,Meeting,19.0,45.230.924.210.526.300,Tuesday,Morning
+,2016-04-12,10.0,58.0,2016-04-12,11.0,18.0,April,2016,Business,Meredith,Cedar Hill,1.207.005,Customer Visit,20.0,36.210.150.000.000.000,Tuesday,Morning
+,2016-04-12,12.0,22.0,2016-04-12,12.0,44.0,April,2016,Business,Raleigh,Morrisville,25.588.506,Meeting,22.0,69.786.834.545.454.500,Tuesday,Morning
+,2016-04-12,13.0,42.0,2016-04-12,14.0,1.0,April,2016,Business,Morrisville,Cary,1.046.071,Meal/Entertain,19.0,33.033.821.052.631.500,Tuesday,Afternoon
+,2016-04-14,7.0,29.0,2016-04-14,8.0,9.0,April,2016,Business,Cary,Holly Springs,24.622.902,Temporary Site,40.0,36.934.353,Thursday,Morning
+,2016-04-14,16.0,0.0,2016-04-14,16.0,43.0,April,2016,Business,Holly Springs,Cary,22.047.957.999.999.900,Temporary Site,43.0,3.076.459.255.813.950,Thursday,Afternoon
+,2016-04-15,11.0,36.0,2016-04-15,12.0,7.0,April,2016,Business,Cary,Raleigh,19.151.146,Temporary Site,31.0,37.066.734.193.548.300,Friday,Morning
+,2016-04-15,12.0,29.0,2016-04-15,12.0,32.0,April,2016,Business,Meredith Townes,Harden Place,22.530.759.999.999.900,Errand/Supplies,3.0,45.061.519.999.999.900,Friday,Morning
+,2016-04-15,14.0,31.0,2016-04-15,15.0,1.0,April,2016,Business,Raleigh,Cary,24.461.968,Meeting,30.0,48.923.936,Friday,Afternoon
+,2016-04-16,12.0,59.0,2016-04-16,13.0,17.0,April,2016,Business,Cary,Morrisville,965.604,Errand/Supplies,18.0,32.186.800.000.000.000,Saturday,Morning
+,2016-04-16,15.0,10.0,2016-04-16,15.0,26.0,April,2016,Business,Morrisville,Cary,9.816.974,Meal/Entertain,16.0,368.136.525,Saturday,Afternoon
+,2016-04-19,17.0,44.0,2016-04-19,18.0,8.0,April,2016,Business,Whitebridge,Wayne Ridge,13.196.587.999.999.900,Meal/Entertain,24.0,32.991.469.999.999.900,Tuesday,Afternoon
+,2016-04-19,19.0,57.0,2016-04-19,20.0,19.0,April,2016,Business,Wayne Ridge,Whitebridge,1.287.472,Meal/Entertain,22.0,3.511.287.272.727.270,Tuesday,Evening
+,2016-04-22,8.0,25.0,2016-04-22,9.0,4.0,April,2016,Business,Cary,Raleigh,21.887.024,Meeting,39.0,33.672.344.615.384.600,Friday,Morning
+,2016-04-22,10.0,10.0,2016-04-22,10.0,40.0,April,2016,Business,Raleigh,Cary,3.621.015,Meeting,30.0,724.203,Friday,Morning
+,2016-04-22,12.0,8.0,2016-04-22,12.0,28.0,April,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Friday,Morning
+,2016-04-22,13.0,2.0,2016-04-22,13.0,26.0,April,2016,Business,Durham,Cary,160.934,Meeting,24.0,40.233.499.999.999.900,Friday,Afternoon
+,2016-04-23,17.0,3.0,2016-04-23,17.0,16.0,April,2016,Business,Whitebridge,Tanglewood,965.604,Meal/Entertain,13.0,44.566.338.461.538.400,Saturday,Afternoon
+,2016-04-23,18.0,49.0,2016-04-23,19.0,5.0,April,2016,Business,Tanglewood,Whitebridge,1.046.071,Meal/Entertain,16.0,392.276.625,Saturday,Afternoon
+,2016-04-24,19.0,7.0,2016-04-24,19.0,16.0,April,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Errand/Supplies,9.0,33.259.693.333.333.300,Sunday,Evening
+,2016-04-24,19.0,46.0,2016-04-24,19.0,52.0,April,2016,Business,Chessington,Chessington,3.057.746,Errand/Supplies,6.0,3.057.746,Sunday,Evening
+,2016-04-24,21.0,41.0,2016-04-24,21.0,50.0,April,2016,Business,Morrisville,Cary,6.759.228,Between Offices,9.0,4.506.152,Sunday,Evening
+,2016-04-27,13.0,30.0,2016-04-27,13.0,40.0,April,2016,Business,Whitebridge,Burtrose,7.885.766,Between Offices,10.0,47.314.596,Wednesday,Afternoon
+,2016-04-27,14.0,13.0,2016-04-27,14.0,25.0,April,2016,Business,Burtrose,Whitebridge,77.248.319.999.999.900,Between Offices,12.0,38.624.159.999.999.900,Wednesday,Afternoon
+,2016-04-28,12.0,9.0,2016-04-28,12.0,34.0,April,2016,Business,Cary,Raleigh,19.955.816.000.000.000,Customer Visit,25.0,478.939.584,Thursday,Morning
+,2016-04-28,13.0,30.0,2016-04-28,13.0,49.0,April,2016,Business,Raleigh,Cary,52.786.351.999.999.900,Customer Visit,19.0,16.669.374.315.789.400,Thursday,Afternoon
+,2016-04-28,22.0,10.0,2016-04-28,22.0,28.0,April,2016,Business,Morrisville,Cary,885.137,Customer Visit,18.0,29.504.566.666.666.600,Thursday,Evening
+,2016-04-29,11.0,44.0,2016-04-29,12.0,1.0,April,2016,Business,Cary,Durham,15.932.466,Meeting,17.0,5.623.223.294.117.640,Friday,Morning
+,2016-04-29,13.0,13.0,2016-04-29,13.0,34.0,April,2016,Business,Durham,Cary,160.934,Meeting,21.0,45.981.142.857.142.800,Friday,Afternoon
+,2016-04-29,18.0,46.0,2016-04-29,19.0,18.0,April,2016,Business,Cary,Durham,22.852.628,Customer Visit,32.0,428.486.775,Friday,Afternoon
+,2016-04-29,22.0,44.0,2016-04-29,23.0,19.0,April,2016,Business,Durham,Cary,29.289.987.999.999.900,Meeting,35.0,50.211.407.999.999.900,Friday,Evening
+,2016-04-30,18.0,42.0,2016-04-30,18.0,57.0,April,2016,Business,Whitebridge,Waverly Place,12.391.918,Meal/Entertain,15.0,49.567.672,Saturday,Afternoon
+,2016-04-30,22.0,16.0,2016-04-30,22.0,34.0,April,2016,Business,Waverly Place,Whitebridge,10.943.512,Meal/Entertain,18.0,36.478.373.333.333.300,Saturday,Evening
+,2016-05-01,13.0,45.0,2016-05-01,13.0,53.0,May,2016,Business,Whitebridge,Westpark Place,3.379.614,Meal/Entertain,8.0,25.347.105.000.000.000,Sunday,Afternoon
+,2016-05-01,14.0,26.0,2016-05-01,14.0,31.0,May,2016,Business,Westpark Place,Whitebridge,37.014.819.999.999.900,Meal/Entertain,5.0,44.417.784,Sunday,Afternoon
+,2016-05-01,17.0,33.0,2016-05-01,17.0,45.0,May,2016,Business,Whitebridge,Tanglewood,99.779.080.000.000.000,Between Offices,12.0,49.889.540.000.000.000,Sunday,Afternoon
+,2016-05-01,17.0,54.0,2016-05-01,18.0,10.0,May,2016,Business,Tanglewood,Parkway,1.207.005,Meeting,16.0,452.626.875,Sunday,Afternoon
+,2016-05-01,22.0,38.0,2016-05-01,22.0,49.0,May,2016,Business,Parkway,Whitebridge,49.889.540.000.000.000,Errand/Supplies,11.0,2.721.247.636.363.630,Sunday,Evening
+,2016-05-02,14.0,14.0,2016-05-02,14.0,21.0,May,2016,Business,Whitebridge,Westpark Place,35.405.480.000.000.000,Errand/Supplies,7.0,30.347.554.285.714.200,Monday,Afternoon
+,2016-05-02,15.0,37.0,2016-05-02,15.0,48.0,May,2016,Business,Westpark Place,Whitebridge,6.276.426,Meal/Entertain,11.0,34.235.050.909.090.900,Monday,Afternoon
+,2016-05-03,22.0,20.0,2016-05-03,22.0,28.0,May,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,8.0,30.175.124.999.999.900,Tuesday,Evening
+,2016-05-04,15.0,16.0,2016-05-04,15.0,37.0,May,2016,Business,Cary,Morrisville,14.001.257.999.999.900,Meal/Entertain,21.0,40.003.594.285.714.200,Wednesday,Afternoon
+,2016-05-04,20.0,55.0,2016-05-04,21.0,14.0,May,2016,Business,Mcvan,Capitol One,2.333.543,Errand/Supplies,19.0,73.690.831.578.947.300,Wednesday,Evening
+,2016-05-04,21.0,30.0,2016-05-04,21.0,36.0,May,2016,Business,Capitol One,University District,724.203,Meal/Entertain,6.0,724.203,Wednesday,Evening
+,2016-05-04,22.0,19.0,2016-05-04,22.0,27.0,May,2016,Business,University District,Capitol One,8.0467,Meal/Entertain,8.0,60.350.249.999.999.900,Wednesday,Evening
+,2016-05-05,21.0,24.0,2016-05-05,21.0,36.0,May,2016,Business,Seattle,Redmond,22.852.628,Meal/Entertain,12.0,11.426.313.999.999.900,Thursday,Evening
+,2016-05-05,22.0,34.0,2016-05-05,22.0,40.0,May,2016,Business,Redmond,Bellevue,46.670.859.999.999.900,Errand/Supplies,6.0,4.667.085.999.999.990,Thursday,Evening
+,2016-05-06,5.0,47.0,2016-05-06,6.0,2.0,May,2016,Business,Capitol One,Mcvan,23.174.496,Meeting,15.0,92.697.984,Friday,Night
+,2016-05-06,16.0,45.0,2016-05-06,16.0,59.0,May,2016,Business,Chapel Hill,Morrisville,2.735.878,Meeting,14.0,11.725.191.428.571.400,Friday,Afternoon
+,2016-05-06,17.0,18.0,2016-05-06,17.0,44.0,May,2016,Business,Morrisville,Cary,12.713.786,Customer Visit,26.0,29.339.506.153.846.100,Friday,Afternoon
+,2016-05-09,6.0,8.0,2016-05-09,6.0,25.0,May,2016,Business,Cary,Morrisville,13.518.456,Customer Visit,17.0,47.712.197.647.058.800,Monday,Night
+,2016-05-09,14.0,39.0,2016-05-09,15.0,6.0,May,2016,Business,San Francisco,Palo Alto,3.299.147,Between Offices,27.0,73.314.377.777.777.700,Monday,Afternoon
+,2016-05-09,17.0,58.0,2016-05-09,18.0,26.0,May,2016,Business,Palo Alto,Sunnyvale,15.771.532,Customer Visit,28.0,3.379.614,Monday,Afternoon
+,2016-05-09,19.0,35.0,2016-05-09,19.0,59.0,May,2016,Business,Sunnyvale,Newark,28.324.384.000.000.000,Customer Visit,24.0,7.081.096,Monday,Evening
+,2016-05-10,9.0,3.0,2016-05-10,9.0,20.0,May,2016,Business,Newark,Menlo Park,14.966.862,Customer Visit,17.0,52.824.218.823.529.400,Tuesday,Morning
+,2016-05-10,17.0,19.0,2016-05-10,17.0,31.0,May,2016,Business,Menlo Park,Newark,12.713.786,Customer Visit,12.0,6.356.893,Tuesday,Afternoon
+,2016-05-11,8.0,35.0,2016-05-11,9.0,12.0,May,2016,Business,Newark,San Francisco,41.199.104.000.000.000,Meeting,37.0,66.809.357.837.837.800,Wednesday,Morning
+,2016-05-11,21.0,47.0,2016-05-11,22.0,4.0,May,2016,Business,Morrisville,Cary,13.035.654,Meeting,17.0,46.008.190.588.235.200,Wednesday,Evening
+,2016-05-14,18.0,35.0,2016-05-14,18.0,39.0,May,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Meal/Entertain,4.0,74.834.310.000.000.000,Saturday,Afternoon
+,2016-05-14,23.0,1.0,2016-05-14,23.0,5.0,May,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Meal/Entertain,4.0,74.834.310.000.000.000,Saturday,Evening
+,2016-05-17,13.0,15.0,2016-05-17,13.0,23.0,May,2016,Business,Whitebridge,Preston,45.061.519.999.999.900,Errand/Supplies,8.0,33.796.139.999.999.900,Tuesday,Afternoon
+,2016-05-17,13.0,56.0,2016-05-17,14.0,8.0,May,2016,Business,Preston,Westpark Place,4.345.218,Errand/Supplies,12.0,2.172.609,Tuesday,Afternoon
+,2016-05-17,14.0,34.0,2016-05-17,14.0,40.0,May,2016,Business,Westpark Place,Whitebridge,3.057.746,Errand/Supplies,6.0,3.057.746,Tuesday,Afternoon
+,2016-05-18,9.0,11.0,2016-05-18,9.0,41.0,May,2016,Business,Cary,Morrisville,13.518.456,Customer Visit,30.0,27.036.912,Wednesday,Morning
+,2016-05-18,13.0,0.0,2016-05-18,13.0,2.0,May,2016,Business,Morrisville,Raleigh,12.230.984,Customer Visit,2.0,36.692.951.999.999.900,Wednesday,Afternoon
+,2016-05-19,14.0,37.0,2016-05-19,15.0,1.0,May,2016,Business,Old City,Parkway Museums,46.670.859.999.999.900,Meal/Entertain,24.0,11.667.714.999.999.900,Thursday,Afternoon
+,2016-05-20,10.0,56.0,2016-05-20,11.0,7.0,May,2016,Business,Old City,Hog Island,18.024.607.999.999.900,Meeting,11.0,98.316.043.636.363.600,Friday,Morning
+,2016-05-20,15.0,43.0,2016-05-20,16.0,12.0,May,2016,Business,Morrisville,Cary,13.196.587.999.999.900,Meal/Entertain,29.0,27.303.285.517.241.300,Friday,Afternoon
+,2016-05-22,15.0,39.0,2016-05-22,15.0,46.0,May,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,7.0,41.383.028.571.428.500,Sunday,Afternoon
+,2016-05-22,18.0,46.0,2016-05-22,18.0,53.0,May,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,7.0,34.485.857.142.857.100,Sunday,Afternoon
+,2016-05-23,20.0,19.0,2016-05-23,20.0,27.0,May,2016,Business,Whitebridge,Savon Height,5.793.624,Meal/Entertain,8.0,43.452.180.000.000.000,Monday,Evening
+,2016-05-23,21.0,9.0,2016-05-23,21.0,21.0,May,2016,Business,Savon Height,Whitebridge,5.793.624,Errand/Supplies,12.0,2.896.812,Monday,Evening
+,2016-05-27,20.0,26.0,2016-05-27,20.0,30.0,May,2016,Business,Whitebridge,Kildaire Farms,724.203,Errand/Supplies,4.0,10.863.045,Friday,Evening
+,2016-05-27,20.0,47.0,2016-05-27,20.0,53.0,May,2016,Business,Savon Height,Kilarney Woods,19.312.079.999.999.900,Errand/Supplies,6.0,19.312.079.999.999.900,Friday,Evening
+,2016-05-27,22.0,11.0,2016-05-27,22.0,14.0,May,2016,Business,Kilarney Woods,Kildaire Farms,2.735.878,Errand/Supplies,3.0,5.471.756,Friday,Evening
+,2016-05-28,0.0,15.0,2016-05-28,0.0,21.0,May,2016,Business,Kilarney Woods,Whitebridge,7.563.898,Errand/Supplies,6.0,75.638.979.999.999.900,Saturday,Night
+,2016-05-28,12.0,52.0,2016-05-28,13.0,6.0,May,2016,Business,Cary,Morrisville,9.816.974,Meal/Entertain,14.0,42.072.745.714.285.700,Saturday,Morning
+,2016-05-28,14.0,35.0,2016-05-28,15.0,4.0,May,2016,Business,Morrisville,Cary,18.185.542,Customer Visit,29.0,37.625.259.310.344.800,Saturday,Afternoon
+,2016-05-31,13.0,54.0,2016-05-31,14.0,41.0,May,2016,Business,Cary,Raleigh,23.979.166,Meeting,47.0,30.611.701.276.595.700,Tuesday,Afternoon
+,2016-05-31,16.0,2.0,2016-05-31,16.0,39.0,May,2016,Business,Raleigh,Cary,2.253.076,Meeting,37.0,36.536.367.567.567.500,Tuesday,Afternoon
+,2016-05-31,17.0,50.0,2016-05-31,17.0,59.0,May,2016,Business,Westpark Place,Whitebridge,2.896.812,Meeting,9.0,1.931.208,Tuesday,Afternoon
+,2016-06-01,10.0,19.0,2016-06-01,10.0,47.0,June,2016,Business,Cary,Morrisville,10.782.578,Customer Visit,28.0,23.105.524.285.714.200,Wednesday,Morning
+,2016-06-01,13.0,10.0,2016-06-01,13.0,39.0,June,2016,Business,Morrisville,Cary,15.449.663.999.999.900,Meeting,29.0,31.964.822.068.965.500,Wednesday,Afternoon
+,2016-06-03,11.0,29.0,2016-06-03,11.0,49.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Friday,Morning
+,2016-06-03,13.0,8.0,2016-06-03,13.0,38.0,June,2016,Business,Durham,Cary,15.932.466,Meeting,30.0,31.864.932,Friday,Afternoon
+,2016-06-03,15.0,31.0,2016-06-03,15.0,54.0,June,2016,Business,Cary,Morrisville,965.604,Meal/Entertain,23.0,25.189.669.565.217.300,Friday,Afternoon
+,2016-06-03,18.0,14.0,2016-06-03,18.0,29.0,June,2016,Business,Townes at Everett Crossing,Chessington,5.310.822,Errand/Supplies,15.0,21.243.288,Friday,Afternoon
+,2016-06-03,18.0,41.0,2016-06-03,18.0,53.0,June,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Errand/Supplies,12.0,24.944.770.000.000.000,Friday,Afternoon
+,2016-06-03,19.0,36.0,2016-06-03,19.0,42.0,June,2016,Business,Huntington Woods,Weston,2.735.878,Errand/Supplies,6.0,2.735.878,Friday,Evening
+,2016-06-03,22.0,47.0,2016-06-03,23.0,6.0,June,2016,Business,Morrisville,Cary,643.736,Between Offices,19.0,20.328.505.263.157.800,Friday,Evening
+,2016-06-05,14.0,3.0,2016-06-05,14.0,33.0,June,2016,Business,Whitebridge,Savon Height,12.552.852,Customer Visit,30.0,25.105.704,Sunday,Afternoon
+,2016-06-05,15.0,6.0,2016-06-05,15.0,22.0,June,2016,Business,Cary,Morrisville,12.552.852,Customer Visit,16.0,47.073.195,Sunday,Afternoon
+,2016-06-05,15.0,57.0,2016-06-05,16.0,8.0,June,2016,Business,Weston,Weston,6.115.492,Meal/Entertain,11.0,33.357.229.090.909.000,Sunday,Afternoon
+,2016-06-05,18.0,5.0,2016-06-05,18.0,14.0,June,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,9.0,26.822.333.333.333.300,Sunday,Afternoon
+,2016-06-05,21.0,53.0,2016-06-05,22.0,5.0,June,2016,Business,Cary,Durham,15.932.466,Meeting,12.0,7.966.233,Sunday,Evening
+,2016-06-06,15.0,36.0,2016-06-06,15.0,45.0,June,2016,Business,Whitebridge,Hazelwood,482.802,Errand/Supplies,9.0,32.186.800.000.000.000,Monday,Afternoon
+,2016-06-06,16.0,16.0,2016-06-06,16.0,24.0,June,2016,Business,Hazelwood,Whitebridge,38.624.159.999.999.900,Errand/Supplies,8.0,2.896.812,Monday,Afternoon
+,2016-06-06,20.0,6.0,2016-06-06,20.0,20.0,June,2016,Business,Cary,Apex,9.173.238,Meal/Entertain,14.0,39.313.877.142.857.100,Monday,Evening
+,2016-06-06,21.0,8.0,2016-06-06,21.0,37.0,June,2016,Business,Apex,Cary,11.587.248,Meal/Entertain,29.0,23.973.616.551.724.100,Monday,Evening
+,2016-06-06,21.0,41.0,2016-06-06,22.0,0.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,19.0,52.854.113.684.210.500,Monday,Evening
+,2016-06-06,23.0,34.0,2016-06-06,23.0,48.0,June,2016,Business,Durham,Cary,15.932.466,Meeting,14.0,68.281.997.142.857.100,Monday,Evening
+,2016-06-07,21.0,42.0,2016-06-07,22.0,0.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,18.0,55.790.453.333.333.300,Tuesday,Evening
+,2016-06-08,8.0,23.0,2016-06-08,8.0,53.0,June,2016,Business,Cary,Morrisville,14.001.257.999.999.900,Meal/Entertain,30.0,28.002.515.999.999.900,Wednesday,Morning
+,2016-06-08,12.0,4.0,2016-06-08,13.0,1.0,June,2016,Business,Jamaica,New York,35.888.282.000.000.000,Errand/Supplies,57.0,37.777.138.947.368.400,Wednesday,Morning
+,2016-06-08,13.0,12.0,2016-06-08,13.0,29.0,June,2016,Business,Seaport,Gramercy-Flatiron,5.310.822,Meal/Entertain,17.0,18.744.077.647.058.800,Wednesday,Afternoon
+,2016-06-08,14.0,31.0,2016-06-08,14.0,37.0,June,2016,Business,Medical Centre,Tudor City,11.265.379.999.999.900,Errand/Supplies,6.0,11.265.379.999.999.900,Wednesday,Afternoon
+,2016-06-08,16.0,55.0,2016-06-08,17.0,11.0,June,2016,Business,Rose Hill,Soho,402.335,Meal/Entertain,16.0,15.087.562.499.999.900,Wednesday,Afternoon
+,2016-06-08,17.0,16.0,2016-06-08,17.0,18.0,June,2016,Business,Soho,Tribeca,80.467,Errand/Supplies,2.0,241.401,Wednesday,Afternoon
+,2016-06-08,17.0,59.0,2016-06-08,18.0,5.0,June,2016,Business,Tribeca,Financial District,1.448.406,Errand/Supplies,6.0,1.448.406,Wednesday,Afternoon
+,2016-06-08,20.0,11.0,2016-06-08,20.0,25.0,June,2016,Business,Financial District,Kips Bay,77.248.319.999.999.900,Errand/Supplies,14.0,33.106.422.857.142.800,Wednesday,Evening
+,2016-06-10,15.0,19.0,2016-06-10,16.0,28.0,June,2016,Business,New York,Jamaica,26.232.242,Meeting,69.0,22.810.645.217.391.300,Friday,Afternoon
+,2016-06-10,21.0,47.0,2016-06-10,22.0,4.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,17.0,59.072.244.705.882.300,Friday,Evening
+,2016-06-11,17.0,8.0,2016-06-11,17.0,16.0,June,2016,Business,Cary,Morrisville,59.545.580.000.000.000,Errand/Supplies,8.0,44.659.185,Saturday,Afternoon
+,2016-06-11,17.0,34.0,2016-06-11,17.0,39.0,June,2016,Business,Morrisville,Cary,7.402.963.999.999.990,Meal/Entertain,5.0,88.835.568,Saturday,Afternoon
+,2016-06-11,17.0,50.0,2016-06-11,17.0,56.0,June,2016,Business,Westpark Place,Whitebridge,2.735.878,Meal/Entertain,6.0,2.735.878,Saturday,Afternoon
+,2016-06-11,21.0,45.0,2016-06-11,22.0,4.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,19.0,52.854.113.684.210.500,Saturday,Evening
+,2016-06-12,19.0,53.0,2016-06-12,19.0,56.0,June,2016,Business,Cary,Morrisville,402.335,Meal/Entertain,3.0,80.466.999.999.999.900,Sunday,Evening
+,2016-06-12,20.0,5.0,2016-06-12,20.0,16.0,June,2016,Business,Morrisville,Cary,69.201.619.999.999.900,Errand/Supplies,11.0,37.746.338.181.818.100,Sunday,Evening
+,2016-06-12,21.0,58.0,2016-06-12,22.0,19.0,June,2016,Business,Parkway,Whitebridge,45.061.519.999.999.900,Errand/Supplies,21.0,12.874.719.999.999.900,Sunday,Evening
+,2016-06-13,5.0,23.0,2016-06-13,5.0,42.0,June,2016,Business,Cary,Morrisville,13.518.456,Meal/Entertain,19.0,42.689.861.052.631.500,Monday,Night
+,2016-06-13,14.0,17.0,2016-06-13,14.0,46.0,June,2016,Business,Oakland,Emeryville,21.243.288,Meeting,29.0,43.951.630.344.827.500,Monday,Afternoon
+,2016-06-13,18.0,8.0,2016-06-13,18.0,47.0,June,2016,Business,Emeryville,Berkeley,6.276.426,Meal/Entertain,39.0,96.560.399.999.999.900,Monday,Afternoon
+,2016-06-13,18.0,54.0,2016-06-13,19.0,23.0,June,2016,Business,Berkeley,Oakland,82.076.339.999.999.900,Meal/Entertain,29.0,16.981.311.724.137.900,Monday,Afternoon
+,2016-06-13,20.0,0.0,2016-06-13,20.0,5.0,June,2016,Business,Oakland,Unknown Location,8.368.568,Customer Visit,5.0,100.422.816,Monday,Evening
+,2016-06-14,12.0,3.0,2016-06-14,12.0,21.0,June,2016,Business,Emeryville,San Francisco,15.771.532,Customer Visit,18.0,5.257.177.333.333.330,Tuesday,Morning
+,2016-06-14,16.0,9.0,2016-06-14,16.0,39.0,June,2016,Business,San Francisco,Emeryville,18.668.343.999.999.900,Meeting,30.0,37.336.687.999.999.900,Tuesday,Afternoon
+,2016-06-14,17.0,15.0,2016-06-14,17.0,24.0,June,2016,Business,Emeryville,Oakland,82.076.339.999.999.900,Meeting,9.0,54.717.559.999.999.900,Tuesday,Afternoon
+,2016-06-14,17.0,27.0,2016-06-14,17.0,57.0,June,2016,Business,Downtown,Bay Farm Island,14.966.862,Errand/Supplies,30.0,29.933.724,Tuesday,Afternoon
+,2016-06-15,1.0,46.0,2016-06-15,2.0,6.0,June,2016,Business,Kenner,New Orleans,19.955.816.000.000.000,Between Offices,20.0,5.986.744.800.000.000,Wednesday,Night
+,2016-06-15,15.0,26.0,2016-06-15,15.0,34.0,June,2016,Business,CBD,Lower Garden District,3.057.746,Between Offices,8.0,22.933.094.999.999.900,Wednesday,Afternoon
+,2016-06-15,16.0,37.0,2016-06-15,17.0,2.0,June,2016,Business,Lower Garden District,Lakeview,10.299.776.000.000.000,Customer Visit,25.0,247.194.624,Wednesday,Afternoon
+,2016-06-15,17.0,29.0,2016-06-15,17.0,49.0,June,2016,Personal,Lakeview,Storyville,885.137,Customer Visit,20.0,26.554.109.999.999.900,Wednesday,Afternoon
+,2016-06-15,19.0,52.0,2016-06-15,19.0,58.0,June,2016,Business,Storyville,Faubourg Marigny,241.401,Meal/Entertain,6.0,241.401,Wednesday,Evening
+,2016-06-16,13.0,36.0,2016-06-16,14.0,30.0,June,2016,Business,New Orleans,Metairie,2.333.543,Meal/Entertain,54.0,25.928.255.555.555.500,Thursday,Afternoon
+,2016-06-16,14.0,42.0,2016-06-16,14.0,46.0,June,2016,Business,Metairie,Kenner,4.345.218,Meal/Entertain,4.0,6.517.827,Thursday,Afternoon
+,2016-06-16,15.0,17.0,2016-06-16,15.0,41.0,June,2016,Business,Kenner,New Orleans,241.401,Meal/Entertain,24.0,60.350.249.999.999.900,Thursday,Afternoon
+,2016-06-16,19.0,39.0,2016-06-16,19.0,56.0,June,2016,Business,New Orleans,Kenner,20.760.486,Meal/Entertain,17.0,73.272.303.529.411.700,Thursday,Evening
+,2016-06-16,21.0,43.0,2016-06-16,21.0,56.0,June,2016,Business,Kenner,New Orleans,21.887.024,Meal/Entertain,13.0,10.101.703.384.615.300,Thursday,Evening
+,2016-06-17,16.0,11.0,2016-06-17,16.0,44.0,June,2016,Business,New Orleans,Kenner,19.633.948,Meal/Entertain,33.0,35.698.087.272.727.200,Friday,Afternoon
+,2016-06-18,0.0,29.0,2016-06-18,0.0,51.0,June,2016,Business,Morrisville,Cary,14.001.257.999.999.900,Meal/Entertain,22.0,38.185.249.090.909.000,Saturday,Night
+,2016-06-19,2.0,39.0,2016-06-19,2.0,50.0,June,2016,Business,Cary,Raleigh,965.604,Meal/Entertain,11.0,526.693.090.909.091,Sunday,Night
+,2016-06-19,5.0,51.0,2016-06-19,6.0,0.0,June,2016,Business,Raleigh,Cary,9.495.106,Meal/Entertain,9.0,6.330.070.666.666.660,Sunday,Night
+,2016-06-21,15.0,39.0,2016-06-21,16.0,8.0,June,2016,Business,Cary,Raleigh,31.060.262,Meal/Entertain,29.0,64.262.611.034.482.700,Tuesday,Afternoon
+,2016-06-21,17.0,11.0,2016-06-21,18.0,2.0,June,2016,Business,Raleigh,Cary,26.715.044.000.000.000,Meal/Entertain,51.0,3.142.946.352.941.170,Tuesday,Afternoon
+,2016-06-24,10.0,41.0,2016-06-24,10.0,57.0,June,2016,Business,Whitebridge,Waverly Place,11.426.314,Meal/Entertain,16.0,428.486.775,Friday,Morning
+,2016-06-24,11.0,54.0,2016-06-24,12.0,1.0,June,2016,Business,Waverly Place,Macgregor Downs,3.379.614,Meal/Entertain,7.0,2.896.812,Friday,Morning
+,2016-06-24,12.0,19.0,2016-06-24,12.0,37.0,June,2016,Business,Cary,Raleigh,13.840.323.999.999.900,Errand/Supplies,18.0,46.134.413.333.333.300,Friday,Morning
+,2016-06-24,12.0,50.0,2016-06-24,13.0,12.0,June,2016,Business,Raleigh,Morrisville,1.448.406,Errand/Supplies,22.0,39.501.981.818.181.800,Friday,Morning
+,2016-06-24,13.0,18.0,2016-06-24,13.0,27.0,June,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Errand/Supplies,9.0,33.259.693.333.333.300,Friday,Afternoon
+,2016-06-24,14.0,1.0,2016-06-24,14.0,20.0,June,2016,Business,Cary,Morrisville,13.518.456,Temporary Site,19.0,42.689.861.052.631.500,Friday,Afternoon
+,2016-06-24,20.0,44.0,2016-06-24,21.0,2.0,June,2016,Business,Kenner,New Orleans,20.599.552.000.000.000,Temporary Site,18.0,68.665.173.333.333.300,Friday,Evening
+,2016-06-25,9.0,3.0,2016-06-25,9.0,12.0,June,2016,Business,CBD,Bywater,724.203,Temporary Site,9.0,482.802,Saturday,Morning
+,2016-06-25,9.0,15.0,2016-06-25,10.0,8.0,June,2016,Business,New Orleans,Chalmette,18.990.212,Between Offices,53.0,21.498.353.207.547.100,Saturday,Morning
+,2016-06-25,10.0,18.0,2016-06-25,10.0,25.0,June,2016,Business,Chalmette,Arabi,17.702.740.000.000.000,Errand/Supplies,7.0,15.173.777.142.857.100,Saturday,Morning
+,2016-06-25,10.0,50.0,2016-06-25,11.0,18.0,June,2016,Business,Arabi,Metairie,2.735.878,Meal/Entertain,28.0,58.625.957.142.857.100,Saturday,Morning
+,2016-06-25,11.0,25.0,2016-06-25,11.0,34.0,June,2016,Business,Pontchartrain Shores,Pontchartrain Shores,2.735.878,Meeting,9.0,18.239.186.666.666.600,Saturday,Morning
+,2016-06-25,11.0,53.0,2016-06-25,13.0,21.0,June,2016,Business,Metairie,New Orleans,2.494.477,Meeting,88.0,17.007.797.727.272.700,Saturday,Morning
+,2016-06-25,19.0,47.0,2016-06-25,19.0,58.0,June,2016,Business,Storyville,Marigny,25.749.440.000.000.000,Meeting,11.0,14.045.149.090.909.000,Saturday,Evening
+,2016-06-25,23.0,19.0,2016-06-25,23.0,26.0,June,2016,Business,Marigny,Storyville,241.401,Meeting,7.0,20.691.514.285.714.200,Saturday,Evening
+,2016-06-26,17.0,43.0,2016-06-26,18.0,18.0,June,2016,Business,New Orleans,Kenner,20.277.684,Meeting,35.0,34.761.744,Sunday,Afternoon
+,2016-06-26,18.0,45.0,2016-06-26,19.0,12.0,June,2016,Business,Pontchartrain Shores,Pontchartrain Shores,77.248.319.999.999.900,Meeting,27.0,17.166.293.333.333.300,Sunday,Afternoon
+,2016-06-26,19.0,41.0,2016-06-26,19.0,50.0,June,2016,Business,Kenner,Kenner,35.405.480.000.000.000,Meeting,9.0,23.603.653.333.333.300,Sunday,Evening
+,2016-06-26,21.0,14.0,2016-06-26,21.0,42.0,June,2016,Business,Kenner,New Orleans,2.092.142,Meeting,28.0,44.831.614.285.714.200,Sunday,Evening
+,2016-06-27,7.0,37.0,2016-06-27,8.0,48.0,June,2016,Business,New Orleans,Covington,75.478.045.999.999.900,Meeting,71.0,637.842.642.253.521,Monday,Morning
+,2016-06-27,8.0,51.0,2016-06-27,9.0,0.0,June,2016,Business,Covington,Covington,402.335,Meeting,9.0,26.822.333.333.333.300,Monday,Morning
+,2016-06-27,9.0,5.0,2016-06-27,9.0,33.0,June,2016,Business,Covington,Covington,13.840.323.999.999.900,Meeting,28.0,2.965.783.714.285.710,Monday,Morning
+,2016-06-27,9.0,43.0,2016-06-27,10.0,8.0,June,2016,Business,Covington,Covington,8.368.568,Meeting,25.0,20.084.563.199.999.900,Monday,Morning
+,2016-06-27,10.0,22.0,2016-06-27,10.0,39.0,June,2016,Business,Covington,Covington,12.230.984,Meeting,17.0,43.168.178.823.529.400,Monday,Morning
+,2016-06-27,10.0,51.0,2016-06-27,10.0,58.0,June,2016,Business,Covington,Covington,2.896.812,Meeting,7.0,24.829.817.142.857.100,Monday,Morning
+,2016-06-27,11.0,6.0,2016-06-27,11.0,24.0,June,2016,Business,Covington,Mandeville,7.563.898,Meeting,18.0,25.212.993.333.333.300,Monday,Morning
+,2016-06-27,11.0,30.0,2016-06-27,11.0,42.0,June,2016,Business,Mandeville,Mandeville,45.061.519.999.999.900,Meeting,12.0,22.530.759.999.999.900,Monday,Morning
+,2016-06-27,12.0,22.0,2016-06-27,13.0,2.0,June,2016,Business,Mandeville,Metairie,482.802,Meeting,40.0,72.420.300.000.000.000,Monday,Morning
+,2016-06-27,13.0,56.0,2016-06-27,14.0,5.0,June,2016,Business,Metairie,Kenner,70.810.960.000.000.000,Meeting,9.0,47.207.306.666.666.600,Monday,Afternoon
+,2016-06-27,21.0,9.0,2016-06-27,21.0,19.0,June,2016,Business,Jamestown Court,Jamestown Court,160.934,Meeting,10.0,965.604,Monday,Evening
+,2016-06-28,0.0,48.0,2016-06-28,1.0,5.0,June,2016,Business,Morrisville,Cary,13.196.587.999.999.900,Customer Visit,17.0,46.576.192.941.176.400,Tuesday,Night
+,2016-06-28,20.0,13.0,2016-06-28,20.0,33.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,20.0,50.211.408,Tuesday,Evening
+,2016-06-28,23.0,34.0,2016-06-28,23.0,59.0,June,2016,Business,Durham,Cary,15.932.466,Meeting,25.0,382.379.184,Tuesday,Evening
+,2016-06-28,23.0,34.0,2016-06-28,23.0,59.0,June,2016,Business,Durham,Cary,15.932.466,Meeting,25.0,382.379.184,Tuesday,Evening
+,2016-06-29,8.0,56.0,2016-06-29,9.0,24.0,June,2016,Business,Cary,Morrisville,11.748.182,Meeting,28.0,25.174.675.714.285.700,Wednesday,Morning
+,2016-06-29,10.0,22.0,2016-06-29,10.0,38.0,June,2016,Business,Morrisville,Cary,11.909.116.000.000.000,Meeting,16.0,44.659.185,Wednesday,Morning
+,2016-06-29,11.0,49.0,2016-06-29,11.0,51.0,June,2016,Business,Whitebridge,Westpark Place,25.749.440.000.000.000,Meeting,2.0,7.724.832,Wednesday,Morning
+,2016-06-29,12.0,11.0,2016-06-29,12.0,16.0,June,2016,Business,Westpark Place,Whitebridge,2.896.812,Meeting,5.0,34.761.744.000.000.000,Wednesday,Morning
+,2016-06-29,20.0,11.0,2016-06-29,20.0,29.0,June,2016,Business,Cary,Durham,16.737.136,Meeting,18.0,55.790.453.333.333.300,Wednesday,Evening
+,2016-06-30,20.0,9.0,2016-06-30,20.0,26.0,June,2016,Business,Cary,Durham,15.932.466,Meeting,17.0,5.623.223.294.117.640,Thursday,Evening
+,2016-07-01,0.0,0.0,2016-07-01,0.0,25.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,25.0,382.379.184,Friday,Night
+,2016-07-01,9.0,34.0,2016-07-01,9.0,57.0,July,2016,Business,Cary,Raleigh,21.404.222,Meeting,23.0,55.837.100.869.565.200,Friday,Morning
+,2016-07-01,12.0,36.0,2016-07-01,13.0,0.0,July,2016,Business,Raleigh,Cary,18.185.542,Meeting,24.0,45.463.855,Friday,Morning
+,2016-07-01,20.0,6.0,2016-07-01,20.0,24.0,July,2016,Business,Cary,Durham,1.689.807,Meeting,18.0,563.269,Friday,Evening
+,2016-07-02,20.0,18.0,2016-07-02,20.0,36.0,July,2016,Business,Cary,Durham,16.254.334,Meeting,18.0,54.181.113.333.333.300,Saturday,Evening
+,2016-07-03,0.0,28.0,2016-07-03,0.0,38.0,July,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Errand/Supplies,10.0,29.933.724.000.000.000,Sunday,Night
+,2016-07-03,3.0,2.0,2016-07-03,3.0,8.0,July,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Errand/Supplies,6.0,49.889.540.000.000.000,Sunday,Night
+,2016-07-03,20.0,0.0,2016-07-03,20.0,18.0,July,2016,Business,Cary,Durham,15.932.466,Meeting,18.0,5.310.822,Sunday,Evening
+,2016-07-04,0.0,32.0,2016-07-04,0.0,47.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,15.0,63.729.864,Monday,Night
+,2016-07-04,17.0,31.0,2016-07-04,17.0,49.0,July,2016,Business,Whitebridge,Summerwinds,14.162.192.000.000.000,Meeting,18.0,47.207.306.666.666.600,Monday,Afternoon
+,2016-07-04,18.0,23.0,2016-07-04,18.0,49.0,July,2016,Business,Summerwinds,Whitebridge,14.001.257.999.999.900,Temporary Site,26.0,32.310.595.384.615.300,Monday,Afternoon
+,2016-07-04,20.0,0.0,2016-07-04,20.0,17.0,July,2016,Business,Cary,Durham,18.990.212,Meeting,17.0,67.024.277.647.058.800,Monday,Evening
+,2016-07-05,0.0,0.0,2016-07-05,0.0,5.0,July,2016,Business,Parkwood,Parkwood,19.312.079.999.999.900,Errand/Supplies,5.0,23.174.495.999.999.900,Tuesday,Night
+,2016-07-05,0.0,8.0,2016-07-05,0.0,28.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,20.0,47.797.398,Tuesday,Night
+,2016-07-05,16.0,48.0,2016-07-05,16.0,52.0,July,2016,Business,Whitebridge,Whitebridge,96.560.399.999.999.900,Errand/Supplies,4.0,1.448.406,Tuesday,Afternoon
+,2016-07-05,20.0,6.0,2016-07-05,20.0,26.0,July,2016,Business,Cary,Durham,15.932.466,Errand/Supplies,20.0,47.797.398,Tuesday,Evening
+,2016-07-05,22.0,41.0,2016-07-05,23.0,2.0,July,2016,Business,Durham,Morrisville,13.840.323.999.999.900,Errand/Supplies,21.0,39.543.782.857.142.800,Tuesday,Evening
+,2016-07-06,0.0,33.0,2016-07-06,0.0,53.0,July,2016,Business,Morrisville,Cary,10.138.842,Meal/Entertain,20.0,30.416.526,Wednesday,Night
+,2016-07-06,9.0,6.0,2016-07-06,9.0,25.0,July,2016,Business,Cary,Durham,15.932.466,Meeting,19.0,50.313.050.526.315.700,Wednesday,Morning
+,2016-07-06,12.0,48.0,2016-07-06,13.0,8.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,20.0,47.797.398,Wednesday,Morning
+,2016-07-06,20.0,4.0,2016-07-06,20.0,14.0,July,2016,Business,Cary,Morrisville,5.310.822,Meal/Entertain,10.0,31.864.932,Wednesday,Evening
+,2016-07-06,23.0,46.0,2016-07-06,23.0,59.0,July,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Customer Visit,13.0,23.025.941.538.461.500,Wednesday,Evening
+,2016-07-07,8.0,22.0,2016-07-07,8.0,50.0,July,2016,Business,Cary,Morrisville,12.713.786,Temporary Site,28.0,27.243.827.142.857.100,Thursday,Morning
+,2016-07-07,10.0,27.0,2016-07-07,10.0,33.0,July,2016,Business,Morrisville,Cary,14.323.126,Temporary Site,6.0,14.323.126,Thursday,Morning
+,2016-07-07,12.0,59.0,2016-07-07,13.0,35.0,July,2016,Business,Kenner,New Orleans,20.599.552.000.000.000,Temporary Site,36.0,34.332.586.666.666.600,Thursday,Morning
+,2016-07-08,9.0,50.0,2016-07-08,10.0,13.0,July,2016,Business,CBD,Pontchartrain Beach,12.391.918,Temporary Site,23.0,32.326.742.608.695.600,Friday,Morning
+,2016-07-08,10.0,51.0,2016-07-08,11.0,12.0,July,2016,Business,Pontchartrain Beach,CBD,1.126.538,Temporary Site,21.0,32.186.800.000.000.000,Friday,Morning
+,2016-07-08,13.0,48.0,2016-07-08,14.0,11.0,July,2016,Business,New Orleans,Metairie,2.011.675,Temporary Site,23.0,52.478.478.260.869.500,Friday,Afternoon
+,2016-07-08,17.0,11.0,2016-07-08,17.0,30.0,July,2016,Business,Kenner,New Orleans,21.243.288,Temporary Site,19.0,6.708.406.736.842.100,Friday,Afternoon
+,2016-07-09,9.0,3.0,2016-07-09,9.0,46.0,July,2016,Business,New Orleans,Kenner,2.092.142,Temporary Site,43.0,29.192.679.069.767.400,Saturday,Morning
+,2016-07-09,9.0,52.0,2016-07-09,10.0,6.0,July,2016,Business,Kenner,Metairie,7.885.766,Temporary Site,14.0,3.379.614,Saturday,Morning
+,2016-07-09,10.0,15.0,2016-07-09,10.0,33.0,July,2016,Business,Metairie,New Orleans,1.367.939,Temporary Site,18.0,45.597.966.666.666.600,Saturday,Morning
+,2016-07-10,14.0,10.0,2016-07-10,14.0,17.0,July,2016,Business,CBD,St Thomas,2.092.142,Temporary Site,7.0,17.932.645.714.285.700,Sunday,Afternoon
+,2016-07-10,16.0,4.0,2016-07-10,16.0,15.0,July,2016,Business,St Thomas,CBD,2.896.812,Temporary Site,11.0,15.800.792.727.272.700,Sunday,Afternoon
+,2016-07-10,18.0,5.0,2016-07-10,18.0,21.0,July,2016,Business,New Orleans,Kenner,21.887.024,Temporary Site,16.0,8.207.634,Sunday,Afternoon
+,2016-07-10,19.0,51.0,2016-07-10,20.0,8.0,July,2016,Business,Kenner,New Orleans,21.565.156,Temporary Site,17.0,7.611.231.529.411.760,Sunday,Evening
+,2016-07-12,16.0,10.0,2016-07-12,16.0,45.0,July,2016,Business,New Orleans,Kenner,19.794.882,Temporary Site,35.0,33.934.083.428.571.400,Tuesday,Afternoon
+,2016-07-12,19.0,21.0,2016-07-12,19.0,26.0,July,2016,Personal,Kenner,Kenner,22.530.759.999.999.900,Temporary Site,5.0,27.036.911.999.999.900,Tuesday,Evening
+,2016-07-13,12.0,39.0,2016-07-13,13.0,20.0,July,2016,Personal,Cary,Morrisville,3.781.949,Temporary Site,41.0,5.534.559.512.195.120,Wednesday,Morning
+,2016-07-13,13.0,25.0,2016-07-13,13.0,39.0,July,2016,Personal,Morrisville,Morrisville,35.405.480.000.000.000,Temporary Site,14.0,15.173.777.142.857.100,Wednesday,Afternoon
+,2016-07-13,13.0,42.0,2016-07-13,13.0,54.0,July,2016,Personal,Morrisville,Cary,70.810.960.000.000.000,Temporary Site,12.0,3.540.548,Wednesday,Afternoon
+,2016-07-14,15.0,51.0,2016-07-14,15.0,59.0,July,2016,Personal,Cary,Morrisville,5.310.822,Temporary Site,8.0,39.831.165,Thursday,Afternoon
+,2016-07-14,16.0,3.0,2016-07-14,16.0,34.0,July,2016,Business,Morrisville,Morrisville,18.990.212,Errand/Supplies,31.0,36.755.249.032.258.000,Thursday,Afternoon
+,2016-07-14,16.0,39.0,2016-07-14,20.0,5.0,July,2016,Business,Morrisville,Banner Elk,314.304.102,Errand/Supplies,206.0,915.448.840.776.699,Thursday,Afternoon
+,2016-07-15,11.0,32.0,2016-07-15,11.0,53.0,July,2016,Personal,Banner Elk,Banner Elk,13.357.522.000.000.000,Errand/Supplies,21.0,38.164.348.571.428.500,Friday,Morning
+,2016-07-15,12.0,9.0,2016-07-15,12.0,19.0,July,2016,Personal,Banner Elk,Banner Elk,51.498.880.000.000.000,Errand/Supplies,10.0,30.899.328.000.000.000,Friday,Morning
+,2016-07-15,12.0,35.0,2016-07-15,13.0,15.0,July,2016,Personal,Banner Elk,Elk Park,36.049.215.999.999.900,Errand/Supplies,40.0,54.073.823.999.999.900,Friday,Morning
+,2016-07-15,15.0,3.0,2016-07-15,15.0,33.0,July,2016,Personal,Elk Park,Banner Elk,19.633.948,Errand/Supplies,30.0,39.267.896,Friday,Afternoon
+,2016-07-15,15.0,40.0,2016-07-15,15.0,52.0,July,2016,Personal,Banner Elk,Banner Elk,724.203,Errand/Supplies,12.0,3.621.015,Friday,Afternoon
+,2016-07-16,13.0,14.0,2016-07-16,14.0,10.0,July,2016,Personal,Banner Elk,Newland,45.222.454,Errand/Supplies,56.0,48.452.629.285.714.200,Saturday,Afternoon
+,2016-07-16,14.0,14.0,2016-07-16,14.0,30.0,July,2016,Personal,Newland,Newland,6.115.492,Errand/Supplies,16.0,22.933.094.999.999.900,Saturday,Afternoon
+,2016-07-16,15.0,29.0,2016-07-16,16.0,57.0,July,2016,Personal,Newland,Boone,67.431.345.999.999.900,Errand/Supplies,88.0,45.975.917.727.272.700,Saturday,Afternoon
+,2016-07-16,19.0,42.0,2016-07-16,20.0,35.0,July,2016,Personal,Boone,Banner Elk,38.302.292,Errand/Supplies,53.0,43.361.085.283.018.800,Saturday,Evening
+,2016-07-16,21.0,45.0,2016-07-16,22.0,18.0,July,2016,Personal,Banner Elk,Banner Elk,2.092.142,Errand/Supplies,33.0,38.038.945.454.545.400,Saturday,Evening
+,2016-07-16,22.0,50.0,2016-07-16,23.0,3.0,July,2016,Business,Banner Elk,Banner Elk,70.810.960.000.000.000,Errand/Supplies,13.0,32.681.981.538.461.500,Saturday,Evening
+,2016-07-17,11.0,23.0,2016-07-17,11.0,50.0,July,2016,Personal,Banner Elk,Boone,24.301.033.999.999.900,Charity ($),27.0,5.400.229.777.777.770,Sunday,Morning
+,2016-07-17,12.0,20.0,2016-07-17,15.0,25.0,July,2016,Personal,Boone,Cary,290.003.068,Commute,185.0,94.055.049.081.081.000,Sunday,Morning
+,2016-07-18,10.0,37.0,2016-07-18,10.0,49.0,July,2016,Personal,Cary,Morrisville,65.982.939.999.999.900,Moving,12.0,32.991.469.999.999.900,Monday,Morning
+,2016-07-18,10.0,54.0,2016-07-18,11.0,15.0,July,2016,Personal,Morrisville,Cary,9.816.974,Moving,21.0,28.048.497.142.857.100,Monday,Morning
+,2016-07-18,11.0,25.0,2016-07-18,11.0,36.0,July,2016,Personal,Northwoods,Preston,5.310.822,Moving,11.0,28.968.120.000.000.000,Monday,Morning
+,2016-07-18,11.0,40.0,2016-07-18,11.0,56.0,July,2016,Personal,Preston,Whitebridge,7.563.898,Moving,16.0,283.646.175,Monday,Morning
+,2016-07-18,17.0,12.0,2016-07-18,17.0,33.0,July,2016,Business,Cary,Apex,11.587.248,Meeting,21.0,3.310.642.285.714.280,Monday,Afternoon
+,2016-07-18,18.0,32.0,2016-07-18,18.0,47.0,July,2016,Business,Apex,Cary,885.137,Meal/Entertain,15.0,3.540.548,Monday,Afternoon
+,2016-07-18,19.0,7.0,2016-07-18,19.0,14.0,July,2016,Business,Cary,Morrisville,5.310.822,Meal/Entertain,7.0,45.521.331.428.571.400,Monday,Evening
+,2016-07-18,20.0,28.0,2016-07-18,20.0,32.0,July,2016,Business,Hazelwood,Weston,1.448.406,Errand/Supplies,4.0,21.726.090.000.000.000,Monday,Evening
+,2016-07-18,21.0,11.0,2016-07-18,21.0,19.0,July,2016,Business,Morrisville,Cary,6.115.492,Meal/Entertain,8.0,45.866.189.999.999.900,Monday,Evening
+,2016-07-19,10.0,35.0,2016-07-19,10.0,51.0,July,2016,Business,Whitebridge,Stonewater,10.299.776.000.000.000,Customer Visit,16.0,3.862.416,Tuesday,Morning
+,2016-07-19,10.0,56.0,2016-07-19,11.0,11.0,July,2016,Business,Stonewater,Lexington Park at Amberly,482.802,Meeting,15.0,1.931.208,Tuesday,Morning
+,2016-07-19,11.0,30.0,2016-07-19,12.0,0.0,July,2016,Business,Lexington Park at Amberly,Whitebridge,14.001.257.999.999.900,Meal/Entertain,30.0,28.002.515.999.999.900,Tuesday,Morning
+,2016-07-19,17.0,14.0,2016-07-19,17.0,24.0,July,2016,Business,Whitebridge,Chessington,6.276.426,Errand/Supplies,10.0,37.658.556.000.000.000,Tuesday,Afternoon
+,2016-07-19,17.0,50.0,2016-07-19,18.0,8.0,July,2016,Personal,Chessington,Whitebridge,77.248.319.999.999.900,Errand/Supplies,18.0,2.574.944,Tuesday,Afternoon
+,2016-07-20,17.0,12.0,2016-07-20,17.0,24.0,July,2016,Personal,Whitebridge,Edgehill Farms,45.061.519.999.999.900,Errand/Supplies,12.0,22.530.759.999.999.900,Wednesday,Afternoon
+,2016-07-20,17.0,50.0,2016-07-20,17.0,57.0,July,2016,Personal,Edgehill Farms,Preston,22.530.759.999.999.900,Errand/Supplies,7.0,19.312.079.999.999.900,Wednesday,Afternoon
+,2016-07-20,18.0,16.0,2016-07-20,18.0,20.0,July,2016,Personal,Preston,Whitebridge,22.530.759.999.999.900,Errand/Supplies,4.0,33.796.139.999.999.900,Wednesday,Afternoon
+,2016-07-21,17.0,17.0,2016-07-21,17.0,23.0,July,2016,Business,Whitebridge,Edgehill Farms,4.345.218,Errand/Supplies,6.0,4.345.218,Thursday,Afternoon
+,2016-07-21,17.0,42.0,2016-07-21,17.0,51.0,July,2016,Business,Edgehill Farms,Burtrose,37.014.819.999.999.900,Errand/Supplies,9.0,24.676.546.666.666.600,Thursday,Afternoon
+,2016-07-21,18.0,27.0,2016-07-21,18.0,42.0,July,2016,Business,Cary,Morrisville,59.545.580.000.000.000,Errand/Supplies,15.0,23.818.232.000.000.000,Thursday,Afternoon
+,2016-07-21,19.0,30.0,2016-07-21,19.0,39.0,July,2016,Business,Morrisville,Cary,46.670.859.999.999.900,Errand/Supplies,9.0,31.113.906.666.666.600,Thursday,Evening
+,2016-07-22,10.0,42.0,2016-07-22,10.0,53.0,July,2016,Business,Cary,Morrisville,6.115.492,Errand/Supplies,11.0,33.357.229.090.909.000,Friday,Morning
+,2016-07-22,11.0,11.0,2016-07-22,11.0,25.0,July,2016,Business,Morrisville,Cary,82.076.339.999.999.900,Errand/Supplies,14.0,35.175.574.285.714.200,Friday,Morning
+,2016-07-22,11.0,37.0,2016-07-22,12.0,0.0,July,2016,Business,Hazelwood,Lexington Park at Amberly,14.644.993.999.999.900,Errand/Supplies,23.0,38.204.332.173.913.000,Friday,Morning
+,2016-07-22,12.0,14.0,2016-07-22,12.0,31.0,July,2016,Business,Cary,Durham,1.287.472,Errand/Supplies,17.0,45.440.188.235.294.100,Friday,Morning
+,2016-07-22,13.0,21.0,2016-07-22,13.0,42.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,21.0,45.521.331.428.571.400,Friday,Afternoon
+,2016-07-22,14.0,27.0,2016-07-22,14.0,43.0,July,2016,Business,Cary,Morrisville,9.816.974,Meal/Entertain,16.0,368.136.525,Friday,Afternoon
+,2016-07-22,15.0,49.0,2016-07-22,16.0,22.0,July,2016,Business,Morrisville,Cary,19.633.948,Meal/Entertain,33.0,35.698.087.272.727.200,Friday,Afternoon
+,2016-07-22,18.0,33.0,2016-07-22,18.0,51.0,July,2016,Business,Wayne Ridge,Whitebridge,1.287.472,Meal/Entertain,18.0,42.915.733.333.333.300,Friday,Afternoon
+,2016-07-23,14.0,27.0,2016-07-23,14.0,44.0,July,2016,Business,Cary,Morrisville,643.736,Meal/Entertain,17.0,22.720.094.117.647.000,Saturday,Afternoon
+,2016-07-23,14.0,48.0,2016-07-23,15.0,12.0,July,2016,Business,Morrisville,Cary,1.528.873,Meal/Entertain,24.0,38.221.824.999.999.900,Saturday,Afternoon
+,2016-07-23,15.0,15.0,2016-07-23,15.0,27.0,July,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,12.0,241.401,Saturday,Afternoon
+,2016-07-23,15.0,50.0,2016-07-23,16.0,10.0,July,2016,Business,Morrisville,Cary,10.138.842,Meal/Entertain,20.0,30.416.526,Saturday,Afternoon
+,2016-07-23,20.0,17.0,2016-07-23,20.0,33.0,July,2016,Business,Cary,Durham,16.737.136,Meeting,16.0,6.276.426,Saturday,Evening
+,2016-07-23,23.0,18.0,2016-07-23,23.0,43.0,July,2016,Business,Durham,Cary,15.932.466,Meeting,25.0,382.379.184,Saturday,Evening
+,2016-07-25,10.0,35.0,2016-07-25,10.0,41.0,July,2016,Business,Whitebridge,Parkway,241.401,Meeting,6.0,241.401,Monday,Morning
+,2016-07-25,10.0,47.0,2016-07-25,10.0,58.0,July,2016,Business,Cary,Morrisville,7.885.766,Meeting,11.0,430.132.690.909.091,Monday,Morning
+,2016-07-25,11.0,4.0,2016-07-25,11.0,33.0,July,2016,Business,Morrisville,Cary,12.713.786,Meeting,29.0,26.304.384.827.586.200,Monday,Morning
+,2016-07-25,11.0,37.0,2016-07-25,11.0,44.0,July,2016,Business,Parkway,Whitebridge,2.735.878,Meeting,7.0,23.450.382.857.142.800,Monday,Morning
+,2016-07-26,15.0,43.0,2016-07-26,15.0,49.0,July,2016,Business,Whitebridge,Westpark Place,35.405.480.000.000.000,Meeting,6.0,3.540.548,Tuesday,Afternoon
+,2016-07-26,17.0,14.0,2016-07-26,17.0,24.0,July,2016,Business,Westpark Place,Whitebridge,3.379.614,Meeting,10.0,20.277.684,Tuesday,Afternoon
+,2016-07-26,20.0,52.0,2016-07-26,21.0,0.0,July,2016,Business,Cary,Morrisville,402.335,Meal/Entertain,8.0,30.175.124.999.999.900,Tuesday,Evening
+,2016-07-26,22.0,31.0,2016-07-26,22.0,39.0,July,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,8.0,30.175.124.999.999.900,Tuesday,Evening
+,2016-07-27,19.0,8.0,2016-07-27,19.0,20.0,July,2016,Business,Cary,Morrisville,45.061.519.999.999.900,Meal/Entertain,12.0,22.530.759.999.999.900,Wednesday,Evening
+,2016-07-27,21.0,34.0,2016-07-27,21.0,57.0,July,2016,Business,Morrisville,Raleigh,23.657.297.999.999.900,Meal/Entertain,23.0,617.146.904.347.826,Wednesday,Evening
+,2016-07-27,22.0,0.0,2016-07-27,22.0,26.0,July,2016,Business,Raleigh,Morrisville,23.496.364,Meal/Entertain,26.0,54.222.378.461.538.400,Wednesday,Evening
+,2016-07-28,0.0,4.0,2016-07-28,0.0,9.0,July,2016,Business,Morrisville,Cary,37.014.819.999.999.900,Meal/Entertain,5.0,44.417.784,Thursday,Night
+,2016-07-29,15.0,45.0,2016-07-29,15.0,47.0,July,2016,Business,Whitebridge,Westpark Place,35.405.480.000.000.000,Meal/Entertain,2.0,10.621.644,Friday,Afternoon
+,2016-07-29,17.0,27.0,2016-07-29,17.0,45.0,July,2016,Business,Westpark Place,Whitebridge,35.405.480.000.000.000,Meal/Entertain,18.0,11.801.826.666.666.600,Friday,Afternoon
+,2016-07-30,17.0,2.0,2016-07-30,17.0,27.0,July,2016,Business,Cary,Durham,2.253.076,Meal/Entertain,25.0,54.073.824,Saturday,Afternoon
+,2016-07-30,21.0,16.0,2016-07-30,21.0,41.0,July,2016,Business,Durham,Cary,21.404.222,Meal/Entertain,25.0,513.701.328,Saturday,Evening
+,2016-07-31,17.0,30.0,2016-07-31,17.0,37.0,July,2016,Business,Westpark Place,Whitebridge,2.896.812,Meal/Entertain,7.0,24.829.817.142.857.100,Sunday,Afternoon
+,2016-08-01,12.0,47.0,2016-08-01,13.0,4.0,Aug,2016,Business,Whitebridge,Arlington Park at Amberly,99.779.080.000.000.000,Meal/Entertain,17.0,35.216.145.882.352.900,Monday,Morning
+,2016-08-01,13.0,8.0,2016-08-01,13.0,19.0,Aug,2016,Business,Arlington Park at Amberly,Lexington Park at Amberly,2.092.142,Meal/Entertain,11.0,11.411.683.636.363.600,Monday,Afternoon
+,2016-08-01,13.0,28.0,2016-08-01,13.0,46.0,Aug,2016,Business,Lexington Park at Amberly,Westpark Place,3.057.746,Meal/Entertain,18.0,10.192.486.666.666.600,Monday,Afternoon
+,2016-08-01,13.0,52.0,2016-08-01,14.0,14.0,Aug,2016,Business,Cary,Apex,11.104.446.000.000.000,Meal/Entertain,22.0,30.284.852.727.272.700,Monday,Afternoon
+,2016-08-01,15.0,40.0,2016-08-01,15.0,47.0,Aug,2016,Business,Apex,Cary,7.402.963.999.999.990,Meal/Entertain,7.0,63.453.977.142.857.100,Monday,Afternoon
+,2016-08-01,16.0,18.0,2016-08-01,16.0,25.0,Aug,2016,Business,Whitebridge,Edgehill Farms,45.061.519.999.999.900,Meal/Entertain,7.0,38.624.159.999.999.900,Monday,Afternoon
+,2016-08-01,16.0,29.0,2016-08-01,16.0,59.0,Aug,2016,Business,Cary,Morrisville,14.644.993.999.999.900,Meal/Entertain,30.0,29.289.987.999.999.900,Monday,Afternoon
+,2016-08-01,17.0,23.0,2016-08-01,17.0,55.0,Aug,2016,Business,Morrisville,Cary,13.035.654,Meal/Entertain,32.0,2.444.185.125,Monday,Afternoon
+,2016-08-02,8.0,11.0,2016-08-02,8.0,32.0,Aug,2016,Business,Cary,Morrisville,13.518.456,Meeting,21.0,3.862.416,Tuesday,Morning
+,2016-08-02,11.0,51.0,2016-08-02,12.0,15.0,Aug,2016,Business,Arlington,Washington,7.885.766,Meeting,24.0,19.714.415,Tuesday,Morning
+,2016-08-02,19.0,15.0,2016-08-02,19.0,23.0,Aug,2016,Business,Kalorama Triangle,K Street,160.934,Meeting,8.0,1.207.005,Tuesday,Evening
+,2016-08-02,21.0,23.0,2016-08-02,21.0,29.0,Aug,2016,Business,K Street,Kalorama Triangle,160.934,Meeting,6.0,160.934,Tuesday,Evening
+,2016-08-03,12.0,46.0,2016-08-03,13.0,0.0,Aug,2016,Business,West End,Northwest Rectangle,321.868,Meeting,14.0,13.794.342.857.142.800,Wednesday,Morning
+,2016-08-03,14.0,59.0,2016-08-03,15.0,3.0,Aug,2016,Business,K Street,Kalorama Triangle,17.702.740.000.000.000,Meeting,4.0,2.655.411,Wednesday,Afternoon
+,2016-08-03,16.0,0.0,2016-08-03,16.0,4.0,Aug,2016,Business,Kalorama Triangle,Downtown,241.401,Meeting,4.0,36.210.150.000.000.000,Wednesday,Afternoon
+,2016-08-05,17.0,23.0,2016-08-05,17.0,30.0,Aug,2016,Business,Connecticut Avenue,Kalorama Triangle,2.092.142,Meeting,7.0,17.932.645.714.285.700,Friday,Afternoon
+,2016-08-05,18.0,17.0,2016-08-05,18.0,21.0,Aug,2016,Business,Kalorama Triangle,Columbia Heights,2.896.812,Meeting,4.0,43.452.180.000.000.000,Friday,Afternoon
+,2016-08-05,19.0,17.0,2016-08-05,19.0,27.0,Aug,2016,Business,Columbia Heights,Kalorama Triangle,241.401,Meeting,10.0,14.484.060.000.000.000,Friday,Evening
+,2016-08-06,6.0,40.0,2016-08-06,6.0,58.0,Aug,2016,Business,Washington,Arlington,10.621.644,Meeting,18.0,35.405.480.000.000.000,Saturday,Night
+,2016-08-06,9.0,31.0,2016-08-06,9.0,53.0,Aug,2016,Business,Morrisville,Cary,1.287.472,Meeting,22.0,3.511.287.272.727.270,Saturday,Morning
+,2016-08-07,17.0,14.0,2016-08-07,17.0,23.0,Aug,2016,Business,Whitebridge,Edgehill Farms,4.345.218,Meeting,9.0,28.968.120.000.000.000,Sunday,Afternoon
+,2016-08-07,17.0,28.0,2016-08-07,17.0,43.0,Aug,2016,Business,Edgehill Farms,Whitebridge,4.345.218,Customer Visit,15.0,17.380.872,Sunday,Afternoon
+,2016-08-07,18.0,17.0,2016-08-07,18.0,23.0,Aug,2016,Business,Cary,Morrisville,402.335,Customer Visit,6.0,40.233.499.999.999.900,Sunday,Afternoon
+,2016-08-07,20.0,15.0,2016-08-07,20.0,23.0,Aug,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,8.0,30.175.124.999.999.900,Sunday,Evening
+,2016-08-08,16.0,17.0,2016-08-08,16.0,31.0,Aug,2016,Business,Whitebridge,Farmington Woods,8.368.568,Meal/Entertain,14.0,35.865.291.428.571.400,Monday,Afternoon
+,2016-08-08,16.0,37.0,2016-08-08,16.0,50.0,Aug,2016,Business,Farmington Woods,Edgehill Farms,643.736,Meal/Entertain,13.0,29.710.892.307.692.300,Monday,Afternoon
+,2016-08-08,17.0,2.0,2016-08-08,17.0,13.0,Aug,2016,Business,Edgehill Farms,Whitebridge,4.345.218,Customer Visit,11.0,23.701.189.090.909.000,Monday,Afternoon
+,2016-08-08,21.0,50.0,2016-08-08,22.0,15.0,Aug,2016,Business,Cary,Morrisville,77.248.319.999.999.900,Customer Visit,25.0,18.539.596.799.999.900,Monday,Evening
+,2016-08-08,23.0,28.0,2016-08-08,23.0,37.0,Aug,2016,Business,Morrisville,Cary,51.498.880.000.000.000,Customer Visit,9.0,34.332.586.666.666.600,Monday,Evening
+,2016-08-09,14.0,20.0,2016-08-09,14.0,38.0,Aug,2016,Business,Whitebridge,Waverly Place,11.104.446.000.000.000,Customer Visit,18.0,37.014.820.000.000.000,Tuesday,Afternoon
+,2016-08-09,15.0,15.0,2016-08-09,15.0,36.0,Aug,2016,Business,Cary,Raleigh,23.979.166,Customer Visit,21.0,68.511.902.857.142.800,Tuesday,Afternoon
+,2016-08-09,16.0,4.0,2016-08-09,16.0,37.0,Aug,2016,Business,Raleigh,Cary,28.002.515.999.999.900,Customer Visit,33.0,50.913.665.454.545.400,Tuesday,Afternoon
+,2016-08-10,16.0,56.0,2016-08-10,17.0,24.0,Aug,2016,Business,Cary,Durham,20.760.486,Customer Visit,28.0,44.486.755.714.285.700,Wednesday,Afternoon
+,2016-08-10,17.0,53.0,2016-08-10,18.0,28.0,Aug,2016,Business,Durham,Apex,24.622.902,Customer Visit,35.0,42.210.689.142.857.100,Wednesday,Afternoon
+,2016-08-10,18.0,49.0,2016-08-10,18.0,50.0,Aug,2016,Business,Apex,Apex,160.934,Customer Visit,1.0,965.604,Wednesday,Afternoon
+,2016-08-10,19.0,47.0,2016-08-10,20.0,2.0,Aug,2016,Business,Apex,Cary,965.604,Customer Visit,15.0,3.862.416,Wednesday,Evening
+,2016-08-11,12.0,53.0,2016-08-11,13.0,0.0,Aug,2016,Business,Whitebridge,Heritage Pines,35.405.480.000.000.000,Customer Visit,7.0,30.347.554.285.714.200,Thursday,Morning
+,2016-08-11,13.0,14.0,2016-08-11,13.0,28.0,Aug,2016,Business,Heritage Pines,Edgehill Farms,70.810.960.000.000.000,Customer Visit,14.0,30.347.554.285.714.200,Thursday,Afternoon
+,2016-08-11,13.0,32.0,2016-08-11,13.0,42.0,Aug,2016,Business,Edgehill Farms,Whitebridge,45.061.519.999.999.900,Customer Visit,10.0,27.036.911.999.999.900,Thursday,Afternoon
+,2016-08-11,18.0,37.0,2016-08-11,19.0,29.0,Aug,2016,Business,Cary,Wake Forest,51.016.078,Customer Visit,52.0,58.864.705.384.615.300,Thursday,Afternoon
+,2016-08-11,20.0,59.0,2016-08-11,21.0,44.0,Aug,2016,Business,Wake Forest,Cary,51.337.945.999.999.900,Customer Visit,45.0,6.845.059.466.666.660,Thursday,Evening
+,2016-08-12,18.0,49.0,2016-08-12,18.0,52.0,Aug,2016,Business,Whitebridge,Westpark Place,3.057.746,Customer Visit,3.0,6.115.492,Friday,Afternoon
+,2016-08-12,18.0,56.0,2016-08-12,19.0,5.0,Aug,2016,Business,Westpark Place,Whitebridge,2.896.812,Customer Visit,9.0,1.931.208,Friday,Afternoon
+,2016-08-13,15.0,35.0,2016-08-13,15.0,58.0,Aug,2016,Business,Cary,Morrisville,13.518.456,Meeting,23.0,35.265.537.391.304.300,Saturday,Afternoon
+,2016-08-15,9.0,5.0,2016-08-15,9.0,52.0,Aug,2016,Business,R?walpindi,Unknown Location,25.105.704,Meeting,47.0,32.049.834.893.617.000,Monday,Morning
+,2016-08-15,15.0,20.0,2016-08-15,15.0,47.0,Aug,2016,Business,Unknown Location,Unknown Location,22.691.694,Meeting,27.0,5.042.598.666.666.660,Monday,Afternoon
+,2016-08-15,16.0,52.0,2016-08-15,17.0,30.0,Aug,2016,Business,Unknown Location,Unknown Location,25.266.638,Meeting,38.0,39.894.691.578.947.300,Monday,Afternoon
+,2016-08-15,19.0,8.0,2016-08-15,20.0,30.0,Aug,2016,Business,Unknown Location,Unknown Location,41.681.906,Temporary Site,82.0,30.498.955.609.756.000,Monday,Evening
+,2016-08-16,7.0,58.0,2016-08-16,8.0,11.0,Aug,2016,Business,Unknown Location,Unknown Location,12.713.786,Temporary Site,13.0,58.679.012.307.692.300,Tuesday,Morning
+,2016-08-16,8.0,16.0,2016-08-16,8.0,23.0,Aug,2016,Business,Unknown Location,Unknown Location,4.345.218,Temporary Site,7.0,37.244.725.714.285.700,Tuesday,Morning
+,2016-08-16,8.0,46.0,2016-08-16,8.0,53.0,Aug,2016,Business,Unknown Location,Unknown Location,885.137,Temporary Site,7.0,7.586.888.571.428.570,Tuesday,Morning
+,2016-08-16,10.0,6.0,2016-08-16,10.0,27.0,Aug,2016,Business,Unknown Location,Islamabad,9.173.238,Temporary Site,21.0,26.209.251.428.571.400,Tuesday,Morning
+,2016-08-16,10.0,31.0,2016-08-16,10.0,38.0,Aug,2016,Business,Islamabad,Islamabad,19.312.079.999.999.900,Temporary Site,7.0,16.553.211.428.571.400,Tuesday,Morning
+,2016-08-16,11.0,47.0,2016-08-16,12.0,3.0,Aug,2016,Business,Islamabad,Unknown Location,9.173.238,Temporary Site,16.0,343.996.425,Tuesday,Morning
+,2016-08-16,15.0,13.0,2016-08-16,15.0,36.0,Aug,2016,Business,Unknown Location,Unknown Location,26.071.308,Temporary Site,23.0,68.012.107.826.086.900,Tuesday,Afternoon
+,2016-08-17,10.0,17.0,2016-08-17,10.0,41.0,Aug,2016,Business,Unknown Location,Unknown Location,4.184.284,Temporary Site,24.0,10.460.709.999.999.900,Wednesday,Morning
+,2016-08-17,10.0,57.0,2016-08-17,11.0,20.0,Aug,2016,Business,Unknown Location,Unknown Location,19.473.014,Temporary Site,23.0,50.799.166.956.521.700,Wednesday,Morning
+,2016-08-17,14.0,45.0,2016-08-17,14.0,50.0,Aug,2016,Business,Unknown Location,R?walpindi,22.530.759.999.999.900,Temporary Site,5.0,27.036.911.999.999.900,Wednesday,Afternoon
+,2016-08-17,15.0,32.0,2016-08-17,15.0,47.0,Aug,2016,Business,R?walpindi,Islamabad,10.299.776.000.000.000,Temporary Site,15.0,41.199.104.000.000.000,Wednesday,Afternoon
+,2016-08-17,16.0,29.0,2016-08-17,16.0,50.0,Aug,2016,Business,Islamabad,Unknown Location,11.748.182,Temporary Site,21.0,33.566.234.285.714.200,Wednesday,Afternoon
+,2016-08-17,16.0,54.0,2016-08-17,17.0,0.0,Aug,2016,Business,Unknown Location,Unknown Location,8.529.501.999.999.990,Temporary Site,6.0,8.529.501.999.999.990,Wednesday,Afternoon
+,2016-08-17,17.0,5.0,2016-08-17,17.0,34.0,Aug,2016,Business,Unknown Location,Unknown Location,885.137,Temporary Site,29.0,18.313.179.310.344.800,Wednesday,Afternoon
+,2016-08-17,18.0,38.0,2016-08-17,18.0,57.0,Aug,2016,Business,Unknown Location,Unknown Location,12.391.918,Temporary Site,19.0,39.132.372.631.578.900,Wednesday,Afternoon
+,2016-08-18,18.0,40.0,2016-08-18,19.0,7.0,Aug,2016,Business,Unknown Location,Unknown Location,12.230.984,Temporary Site,27.0,27.179.964.444.444.400,Thursday,Afternoon
+,2016-08-19,8.0,24.0,2016-08-19,8.0,45.0,Aug,2016,Business,Unknown Location,Noorpur Shahan,12.230.984,Temporary Site,21.0,3.494.566.857.142.850,Friday,Morning
+,2016-08-19,8.0,54.0,2016-08-19,9.0,7.0,Aug,2016,Business,Noorpur Shahan,Islamabad,5.310.822,Temporary Site,13.0,24.511.486.153.846.100,Friday,Morning
+,2016-08-19,9.0,27.0,2016-08-19,9.0,47.0,Aug,2016,Business,Islamabad,R?walpindi,1.046.071,Temporary Site,20.0,31.382.130.000.000.000,Friday,Morning
+,2016-08-19,10.0,57.0,2016-08-19,11.0,6.0,Aug,2016,Business,R?walpindi,Unknown Location,321.868,Temporary Site,9.0,21.457.866.666.666.600,Friday,Morning
+,2016-08-19,12.0,7.0,2016-08-19,12.0,24.0,Aug,2016,Business,Unknown Location,Islamabad,9.173.238,Temporary Site,17.0,32.376.134.117.647.000,Friday,Morning
+,2016-08-19,15.0,51.0,2016-08-19,16.0,6.0,Aug,2016,Business,Islamabad,Islamabad,51.498.880.000.000.000,Temporary Site,15.0,20.599.552.000.000.000,Friday,Afternoon
+,2016-08-19,17.0,12.0,2016-08-19,17.0,52.0,Aug,2016,Business,Islamabad,Unknown Location,2.011.675,Temporary Site,40.0,30.175.125,Friday,Afternoon
+,2016-08-21,10.0,0.0,2016-08-21,10.0,29.0,Aug,2016,Business,Unknown Location,Unknown Location,12.230.984,Airport/Travel,29.0,25.305.484.137.931.000,Sunday,Morning
+,2016-08-21,14.0,5.0,2016-08-21,14.0,34.0,Aug,2016,Business,Unknown Location,Unknown Location,12.391.918,Airport/Travel,29.0,2.563.845.103.448.270,Sunday,Afternoon
+,2016-08-21,16.0,30.0,2016-08-21,17.0,2.0,Aug,2016,Business,Unknown Location,Islamabad,19.633.948,Airport/Travel,32.0,368.136.525,Sunday,Afternoon
+,2016-08-21,18.0,10.0,2016-08-21,18.0,17.0,Aug,2016,Business,Islamabad,Islamabad,22.530.759.999.999.900,Airport/Travel,7.0,19.312.079.999.999.900,Sunday,Afternoon
+,2016-08-21,18.0,48.0,2016-08-21,19.0,24.0,Aug,2016,Business,Islamabad,Unknown Location,32.508.668,Airport/Travel,36.0,54.181.113.333.333.300,Sunday,Afternoon
+,2016-08-22,10.0,0.0,2016-08-22,10.0,44.0,Aug,2016,Business,Unknown Location,Islamabad,15.771.532,Airport/Travel,44.0,21.506.634.545.454.500,Monday,Morning
+,2016-08-22,11.0,7.0,2016-08-22,11.0,23.0,Aug,2016,Business,Islamabad,Unknown Location,10.138.842,Airport/Travel,16.0,380.206.575,Monday,Morning
+,2016-08-22,12.0,36.0,2016-08-22,12.0,49.0,Aug,2016,Business,Unknown Location,Islamabad,7.885.766,Airport/Travel,13.0,36.395.843.076.923.000,Monday,Morning
+,2016-08-22,13.0,2.0,2016-08-22,13.0,11.0,Aug,2016,Business,Islamabad,Islamabad,241.401,Airport/Travel,9.0,16.093.400.000.000.000,Monday,Afternoon
+,2016-08-22,14.0,7.0,2016-08-22,14.0,31.0,Aug,2016,Business,Islamabad,Unknown Location,17.541.806,Airport/Travel,24.0,43.854.515,Monday,Afternoon
+,2016-08-22,15.0,14.0,2016-08-22,15.0,49.0,Aug,2016,Business,Unknown Location,Unknown Location,3.057.746,Airport/Travel,35.0,52.418.502.857.142.800,Monday,Afternoon
+,2016-08-22,15.0,59.0,2016-08-22,17.0,16.0,Aug,2016,Business,Unknown Location,Unknown Location,3.057.746,Airport/Travel,77.0,23.826.592.207.792.200,Monday,Afternoon
+,2016-08-22,19.0,58.0,2016-08-22,20.0,50.0,Aug,2016,Business,Unknown Location,R?walpindi,12.713.786,Airport/Travel,52.0,14.669.753.076.923.000,Monday,Evening
+,2016-08-22,20.0,53.0,2016-08-22,21.0,31.0,Aug,2016,Business,R?walpindi,R?walpindi,65.982.939.999.999.900,Airport/Travel,38.0,1.041.835.894.736.840,Monday,Evening
+,2016-08-22,22.0,31.0,2016-08-22,23.0,0.0,Aug,2016,Business,R?walpindi,Unknown Location,30.094.658,Airport/Travel,29.0,62.264.809.655.172.400,Monday,Evening
+,2016-08-23,8.0,10.0,2016-08-23,8.0,25.0,Aug,2016,Business,Unknown Location,Noorpur Shahan,14.001.257.999.999.900,Airport/Travel,15.0,56.005.031.999.999.900,Tuesday,Morning
+,2016-08-23,9.0,35.0,2016-08-23,10.0,9.0,Aug,2016,Business,Noorpur Shahan,Unknown Location,1.207.005,Airport/Travel,34.0,21.300.088.235.294.100,Tuesday,Morning
+,2016-08-23,12.0,59.0,2016-08-23,13.0,15.0,Aug,2016,Business,Unknown Location,Noorpur Shahan,12.391.918,Airport/Travel,16.0,464.696.925,Tuesday,Morning
+,2016-08-23,13.0,19.0,2016-08-23,13.0,30.0,Aug,2016,Business,Noorpur Shahan,Islamabad,70.810.960.000.000.000,Airport/Travel,11.0,3.862.416,Tuesday,Afternoon
+,2016-08-23,13.0,49.0,2016-08-23,14.0,4.0,Aug,2016,Business,Islamabad,Unknown Location,8.0467,Airport/Travel,15.0,321.868,Tuesday,Afternoon
+,2016-08-23,15.0,7.0,2016-08-23,15.0,12.0,Aug,2016,Business,Unknown Location,Unknown Location,3.057.746,Airport/Travel,5.0,36.692.952,Tuesday,Afternoon
+,2016-08-23,15.0,15.0,2016-08-23,17.0,16.0,Aug,2016,Business,Unknown Location,Unknown Location,12.713.786,Airport/Travel,121.0,6.304.356.694.214.870,Tuesday,Afternoon
+,2016-08-23,17.0,42.0,2016-08-23,18.0,31.0,Aug,2016,Business,Unknown Location,Unknown Location,28.485.318,Airport/Travel,49.0,34.879.981.224.489.700,Tuesday,Afternoon
+,2016-08-24,12.0,5.0,2016-08-24,12.0,56.0,Aug,2016,Business,Unknown Location,Unknown Location,40.555.368,Airport/Travel,51.0,47.712.197.647.058.800,Wednesday,Morning
+,2016-08-24,13.0,1.0,2016-08-24,15.0,25.0,Aug,2016,Business,Unknown Location,Unknown Location,154.818.508,Airport/Travel,144.0,6.450.771.166.666.660,Wednesday,Afternoon
+,2016-08-25,15.0,17.0,2016-08-25,16.0,22.0,Aug,2016,Business,Unknown Location,Unknown Location,563.269,Airport/Travel,65.0,51.994.061.538.461.500,Thursday,Afternoon
+,2016-08-25,16.0,36.0,2016-08-25,16.0,56.0,Aug,2016,Business,Unknown Location,Unknown Location,885.137,Airport/Travel,20.0,26.554.109.999.999.900,Thursday,Afternoon
+,2016-08-25,17.0,19.0,2016-08-25,19.0,20.0,Aug,2016,Business,Unknown Location,Unknown Location,81.110.736,Airport/Travel,121.0,4.022.019.966.942.140,Thursday,Afternoon
+,2016-08-25,19.0,25.0,2016-08-25,19.0,57.0,Aug,2016,Business,Unknown Location,Lahore,14.805.927.999.999.900,Airport/Travel,32.0,27.761.114.999.999.900,Thursday,Evening
+,2016-08-25,22.0,58.0,2016-08-25,23.0,16.0,Aug,2016,Business,Lahore,Unknown Location,11.748.182,Airport/Travel,18.0,39.160.606.666.666.600,Thursday,Evening
+,2016-08-26,9.0,6.0,2016-08-26,9.0,20.0,Aug,2016,Business,Unknown Location,Unknown Location,8.0467,Airport/Travel,14.0,34.485.857.142.857.100,Friday,Morning
+,2016-08-26,11.0,14.0,2016-08-26,11.0,26.0,Aug,2016,Business,Unknown Location,Unknown Location,6.115.492,Airport/Travel,12.0,3.057.746,Friday,Morning
+,2016-08-26,12.0,10.0,2016-08-26,12.0,20.0,Aug,2016,Business,Unknown Location,Lahore,6.276.426,Airport/Travel,10.0,37.658.556.000.000.000,Friday,Morning
+,2016-08-26,14.0,10.0,2016-08-26,14.0,33.0,Aug,2016,Business,Lahore,Lahore,11.909.116.000.000.000,Airport/Travel,23.0,31.067.259.130.434.700,Friday,Afternoon
+,2016-08-26,15.0,23.0,2016-08-26,15.0,35.0,Aug,2016,Business,Lahore,Lahore,241.401,Airport/Travel,12.0,1.207.005,Friday,Afternoon
+,2016-08-26,15.0,59.0,2016-08-26,16.0,24.0,Aug,2016,Business,Lahore,Unknown Location,12.713.786,Airport/Travel,25.0,305.130.864,Friday,Afternoon
+,2016-08-26,16.0,55.0,2016-08-26,17.0,12.0,Aug,2016,Business,Unknown Location,Lahore,46.670.859.999.999.900,Airport/Travel,17.0,16.472.068.235.294.100,Friday,Afternoon
+,2016-08-26,18.0,42.0,2016-08-26,18.0,56.0,Aug,2016,Business,Lahore,Lahore,5.471.756,Airport/Travel,14.0,23.450.382.857.142.800,Friday,Afternoon
+,2016-08-26,19.0,31.0,2016-08-26,19.0,54.0,Aug,2016,Business,Lahore,Lahore,6.115.492,Airport/Travel,23.0,15.953.457.391.304.300,Friday,Evening
+,2016-08-26,20.0,6.0,2016-08-26,20.0,16.0,Aug,2016,Business,Lahore,Unknown Location,9.495.106,Airport/Travel,10.0,56.970.636,Friday,Evening
+,2016-08-27,9.0,34.0,2016-08-27,10.0,11.0,Aug,2016,Business,Unknown Location,Lahore,15.449.663.999.999.900,Airport/Travel,37.0,25.053.509.189.189.100,Saturday,Morning
+,2016-08-27,11.0,47.0,2016-08-27,12.0,6.0,Aug,2016,Business,Lahore,Lahore,1.126.538,Airport/Travel,19.0,35.574.884.210.526.300,Saturday,Morning
+,2016-08-27,12.0,12.0,2016-08-27,12.0,17.0,Aug,2016,Business,Lahore,Lahore,1.448.406,Airport/Travel,5.0,17.380.872.000.000.000,Saturday,Morning
+,2016-08-27,14.0,1.0,2016-08-27,15.0,44.0,Aug,2016,Business,Lahore,Unknown Location,139.368.844,Airport/Travel,103.0,81.185.734.368.932.000,Saturday,Afternoon
+,2016-08-27,16.0,15.0,2016-08-27,19.0,13.0,Aug,2016,Business,Unknown Location,Unknown Location,252.505.446,Airport/Travel,178.0,85.114.195.280.898.800,Saturday,Afternoon
+,2016-08-28,9.0,57.0,2016-08-28,10.0,18.0,Aug,2016,Business,Unknown Location,Noorpur Shahan,16.254.334,Airport/Travel,21.0,46.440.954.285.714.200,Sunday,Morning
+,2016-08-28,16.0,39.0,2016-08-28,16.0,55.0,Aug,2016,Business,Noorpur Shahan,Islamabad,99.779.080.000.000.000,Airport/Travel,16.0,37.417.155.000.000.000,Sunday,Afternoon
+,2016-08-28,17.0,37.0,2016-08-28,17.0,55.0,Aug,2016,Business,Islamabad,Islamabad,8.529.501.999.999.990,Airport/Travel,18.0,28.431.673.333.333.300,Sunday,Afternoon
+,2016-08-28,21.0,15.0,2016-08-28,21.0,59.0,Aug,2016,Business,Islamabad,Unknown Location,19.473.014,Airport/Travel,44.0,2.655.411,Sunday,Evening
+,2016-08-29,12.0,2.0,2016-08-29,12.0,31.0,Aug,2016,Business,Unknown Location,Islamabad,17.380.872,Airport/Travel,29.0,35.960.424.827.586.200,Monday,Morning
+,2016-08-29,13.0,38.0,2016-08-29,13.0,48.0,Aug,2016,Business,Islamabad,Islamabad,69.201.619.999.999.900,Airport/Travel,10.0,41.520.972,Monday,Afternoon
+,2016-08-29,14.0,31.0,2016-08-29,14.0,41.0,Aug,2016,Business,Islamabad,Islamabad,402.335,Airport/Travel,10.0,241.401,Monday,Afternoon
+,2016-08-29,14.0,49.0,2016-08-29,15.0,4.0,Aug,2016,Business,Islamabad,Unknown Location,9.173.238,Temporary Site,15.0,36.692.952,Monday,Afternoon
+,2016-08-29,15.0,49.0,2016-08-29,15.0,59.0,Aug,2016,Business,Unknown Location,Islamabad,45.061.519.999.999.900,Temporary Site,10.0,27.036.911.999.999.900,Monday,Afternoon
+,2016-08-29,16.0,6.0,2016-08-29,16.0,21.0,Aug,2016,Business,Islamabad,Unknown Location,643.736,Temporary Site,15.0,2.574.944,Monday,Afternoon
+,2016-08-29,17.0,24.0,2016-08-29,17.0,41.0,Aug,2016,Business,Unknown Location,Islamabad,885.137,Temporary Site,17.0,31.240.129.411.764.700,Monday,Afternoon
+,2016-08-29,18.0,27.0,2016-08-29,18.0,36.0,Aug,2016,Business,Islamabad,Islamabad,4.184.284,Temporary Site,9.0,27.895.226.666.666.600,Monday,Afternoon
+,2016-08-30,11.0,53.0,2016-08-30,12.0,5.0,Aug,2016,Business,Unknown Location,Unknown Location,3.379.614,Temporary Site,12.0,1.689.807,Tuesday,Morning
+,2016-08-30,12.0,46.0,2016-08-30,13.0,9.0,Aug,2016,Business,Unknown Location,Islamabad,14.162.192.000.000.000,Temporary Site,23.0,36.944.848.695.652.100,Tuesday,Morning
+,2016-08-30,13.0,25.0,2016-08-30,13.0,46.0,Aug,2016,Business,Islamabad,Islamabad,70.810.960.000.000.000,Temporary Site,21.0,2.023.170.285.714.280,Tuesday,Afternoon
+,2016-08-30,14.0,0.0,2016-08-30,14.0,20.0,Aug,2016,Business,Islamabad,Unknown Location,8.529.501.999.999.990,Temporary Site,20.0,25.588.506,Tuesday,Afternoon
+,2016-08-30,17.0,27.0,2016-08-30,18.0,9.0,Aug,2016,Business,Unknown Location,Unknown Location,2.092.142,Temporary Site,42.0,29.887.742.857.142.800,Tuesday,Afternoon
+,2016-09-01,11.0,51.0,2016-09-01,12.0,24.0,Sep,2016,Business,Unknown Location,Islamabad,2.092.142,Temporary Site,33.0,38.038.945.454.545.400,Thursday,Morning
+,2016-09-01,17.0,21.0,2016-09-01,17.0,36.0,Sep,2016,Business,Islamabad,Unknown Location,17.059.003.999.999.900,Temporary Site,15.0,68.236.015.999.999.900,Thursday,Afternoon
+,2016-09-01,18.0,49.0,2016-09-01,19.0,8.0,Sep,2016,Business,Unknown Location,Unknown Location,35.405.480.000.000.000,Temporary Site,19.0,11.180.677.894.736.800,Thursday,Afternoon
+,2016-09-02,11.0,37.0,2016-09-02,12.0,24.0,Sep,2016,Business,Unknown Location,Islamabad,14.805.927.999.999.900,Temporary Site,47.0,1.890.118.468.085.100,Friday,Morning
+,2016-09-02,18.0,56.0,2016-09-02,19.0,37.0,Sep,2016,Business,Unknown Location,Unknown Location,20.760.486,Temporary Site,41.0,30.381.199.024.390.200,Friday,Afternoon
+,2016-09-05,10.0,25.0,2016-09-05,10.0,44.0,Sep,2016,Business,Unknown Location,R?walpindi,27.680.647.999.999.900,Temporary Site,19.0,87.412.572.631.578.900,Monday,Morning
+,2016-09-06,17.0,49.0,2016-09-06,17.0,49.0,Sep,2016,Business,Unknown Location,Unknown Location,11.120.539.399.999.900,Temporary Site,0.0,Infinity,Tuesday,Afternoon
+,2016-09-10,10.0,28.0,2016-09-10,10.0,45.0,Sep,2016,Business,Unknown Location,Unknown Location,45.061.519.999.999.900,Temporary Site,17.0,15.904.065.882.352.900,Saturday,Morning
+,2016-09-11,9.0,51.0,2016-09-11,9.0,55.0,Sep,2016,Business,Unknown Location,Unknown Location,13.840.323.999.999.900,Temporary Site,4.0,20.760.485.999.999.900,Sunday,Morning
+,2016-09-11,21.0,40.0,2016-09-11,21.0,42.0,Sep,2016,Business,Unknown Location,Unknown Location,15.771.532,Temporary Site,2.0,47.314.596,Sunday,Evening
+,2016-09-12,8.0,7.0,2016-09-12,8.0,12.0,Sep,2016,Business,Unknown Location,Unknown Location,5.793.624,Temporary Site,5.0,69.523.488.000.000.000,Monday,Morning
+,2016-09-12,11.0,15.0,2016-09-12,11.0,24.0,Sep,2016,Business,Unknown Location,Unknown Location,2.735.878,Temporary Site,9.0,18.239.186.666.666.600,Monday,Morning
+,2016-09-12,13.0,4.0,2016-09-12,13.0,44.0,Sep,2016,Business,Unknown Location,Unknown Location,1.850.741,Temporary Site,40.0,27.761.115,Monday,Afternoon
+,2016-09-13,16.0,56.0,2016-09-13,17.0,2.0,Sep,2016,Business,Unknown Location,Unknown Location,11.265.379.999.999.900,Temporary Site,6.0,11.265.379.999.999.900,Tuesday,Afternoon
+,2016-09-14,11.0,55.0,2016-09-14,11.0,59.0,Sep,2016,Business,Unknown Location,Unknown Location,11.265.379.999.999.900,Temporary Site,4.0,16.898.069.999.999.900,Wednesday,Morning
+,2016-09-15,20.0,33.0,2016-09-15,20.0,38.0,Sep,2016,Business,Unknown Location,Unknown Location,1.448.406,Temporary Site,5.0,17.380.872.000.000.000,Thursday,Evening
+,2016-09-16,7.0,8.0,2016-09-16,7.0,8.0,Sep,2016,Business,Unknown Location,Unknown Location,25.749.440.000.000.000,Temporary Site,0.0,Infinity,Friday,Morning
+,2016-09-18,18.0,7.0,2016-09-18,18.0,11.0,Sep,2016,Business,Unknown Location,Unknown Location,15.127.796,Temporary Site,4.0,22.691.694,Sunday,Afternoon
+,2016-09-19,6.0,18.0,2016-09-19,6.0,49.0,Sep,2016,Business,R?walpindi,Unknown Location,29.289.987.999.999.900,Temporary Site,31.0,566.902.993.548.387,Monday,Night
+,2016-09-19,14.0,40.0,2016-09-19,14.0,56.0,Sep,2016,Business,Unknown Location,Islamabad,1.689.807,Temporary Site,16.0,63.367.762.500.000.000,Monday,Afternoon
+,2016-09-19,16.0,23.0,2016-09-19,16.0,31.0,Sep,2016,Business,Islamabad,Unknown Location,9.173.238,Temporary Site,8.0,68.799.285,Monday,Afternoon
+,2016-09-19,17.0,36.0,2016-09-19,18.0,20.0,Sep,2016,Business,Unknown Location,Unknown Location,2.896.812,Temporary Site,44.0,39.501.981.818.181.800,Monday,Afternoon
+,2016-09-19,19.0,10.0,2016-09-19,19.0,49.0,Sep,2016,Business,Unknown Location,Islamabad,29.450.922.000.000.000,Temporary Site,39.0,4.530.911.076.923.070,Monday,Evening
+,2016-09-20,11.0,29.0,2016-09-20,11.0,48.0,Sep,2016,Business,Islamabad,Unknown Location,2.655.411,Temporary Site,19.0,83.855.084.210.526.300,Tuesday,Morning
+,2016-09-20,20.0,47.0,2016-09-20,22.0,47.0,Sep,2016,Business,Unknown Location,R?walpindi,15.449.663.999.999.900,Temporary Site,120.0,77.248.319.999.999.900,Tuesday,Evening
+,2016-09-23,13.0,15.0,2016-09-23,13.0,40.0,Sep,2016,Business,Karachi,Karachi,46.670.859.999.999.900,Temporary Site,25.0,11.201.006.399.999.900,Friday,Afternoon
+,2016-09-24,14.0,34.0,2016-09-24,15.0,15.0,Sep,2016,Business,Karachi,Unknown Location,13.196.587.999.999.900,Temporary Site,41.0,19.312.079.999.999.900,Saturday,Afternoon
+,2016-09-24,20.0,29.0,2016-09-24,20.0,33.0,Sep,2016,Business,Unknown Location,Unknown Location,38.624.159.999.999.900,Temporary Site,4.0,5.793.624,Saturday,Evening
+,2016-09-27,8.0,33.0,2016-09-27,8.0,35.0,Sep,2016,Business,Unknown Location,Unknown Location,93.341.719.999.999.900,Temporary Site,2.0,28.002.515.999.999.900,Tuesday,Morning
+,2016-09-27,13.0,21.0,2016-09-27,14.0,43.0,Sep,2016,Business,Lahore,Lahore,15.771.532,Temporary Site,82.0,11.540.145.365.853.600,Tuesday,Afternoon
+,2016-09-27,19.0,14.0,2016-09-27,20.0,34.0,Sep,2016,Business,Lahore,Unknown Location,11.748.182,Temporary Site,80.0,88.111.365,Tuesday,Evening
+,2016-09-28,17.0,21.0,2016-09-28,19.0,36.0,Sep,2016,Business,Islamabad,Unknown Location,3.299.147,Temporary Site,135.0,14.662.875.555.555.500,Wednesday,Afternoon
+,2016-09-29,16.0,13.0,2016-09-29,18.0,47.0,Sep,2016,Business,Unknown Location,Islamabad,20.277.684,Temporary Site,154.0,79.003.963.636.363.600,Thursday,Afternoon
+,2016-09-30,17.0,39.0,2016-09-30,20.0,20.0,Sep,2016,Business,Islamabad,Islamabad,60.672.118.000.000.000,Temporary Site,161.0,22.610.727.204.968.900,Friday,Afternoon
+,2016-09-30,20.0,59.0,2016-09-30,22.0,34.0,Sep,2016,Business,Islamabad,Unknown Location,26.875.978,Temporary Site,95.0,16.974.301.894.736.800,Friday,Evening
+,2016-10-03,17.0,9.0,2016-10-03,17.0,12.0,Oct,2016,Business,Unknown Location,Islamabad,1.689.807,Temporary Site,3.0,33.796.139.999.999.900,Monday,Afternoon
+,2016-10-03,18.0,17.0,2016-10-03,18.0,34.0,Oct,2016,Business,Islamabad,Islamabad,45.061.519.999.999.900,Temporary Site,17.0,15.904.065.882.352.900,Monday,Afternoon
+,2016-10-03,18.0,51.0,2016-10-03,19.0,1.0,Oct,2016,Business,Islamabad,Islamabad,25.749.440.000.000.000,Temporary Site,10.0,15.449.664.000.000.000,Monday,Afternoon
+,2016-10-03,22.0,4.0,2016-10-03,22.0,33.0,Oct,2016,Business,Islamabad,Unknown Location,20.438.617.999.999.900,Temporary Site,29.0,42.286.795.862.068.900,Monday,Evening
+,2016-10-04,9.0,50.0,2016-10-04,10.0,52.0,Oct,2016,Business,Unknown Location,Unknown Location,46.027.124,Temporary Site,62.0,44.542.378.064.516.100,Tuesday,Morning
+,2016-10-04,12.0,17.0,2016-10-04,12.0,18.0,Oct,2016,Business,Unknown Location,Unknown Location,24.301.033.999.999.900,Temporary Site,1.0,14.580.620.399.999.900,Tuesday,Morning
+,2016-10-06,8.0,49.0,2016-10-06,11.0,36.0,Oct,2016,Business,Unknown Location,R?walpindi,28.807.185.999.999.900,Temporary Site,167.0,10.349.887.185.628.700,Thursday,Morning
+,2016-10-06,17.0,23.0,2016-10-06,17.0,40.0,Oct,2016,Business,R?walpindi,Unknown Location,181.211.684,Temporary Site,17.0,63.957.064.941.176.400,Thursday,Afternoon
+,2016-10-06,18.0,37.0,2016-10-06,18.0,39.0,Oct,2016,Business,Unknown Location,Unknown Location,29.611.855.999.999.900,Temporary Site,2.0,88.835.567.999.999.900,Thursday,Afternoon
+,2016-10-06,19.0,46.0,2016-10-06,20.0,26.0,Oct,2016,Business,Unknown Location,Unknown Location,22.208.892.000.000.000,Temporary Site,40.0,33.313.338.000.000.000,Thursday,Evening
+,2016-10-07,10.0,56.0,2016-10-07,10.0,59.0,Oct,2016,Business,Unknown Location,Lahore,53.430.088.000.000.000,Temporary Site,3.0,106.860.176,Friday,Morning
+,2016-10-07,11.0,27.0,2016-10-07,11.0,50.0,Oct,2016,Business,Lahore,Lahore,4.184.284,Temporary Site,23.0,10.915.523.478.260.800,Friday,Morning
+,2016-10-07,13.0,52.0,2016-10-07,14.0,8.0,Oct,2016,Business,Lahore,Unknown Location,93.341.719.999.999.900,Temporary Site,16.0,35.003.144.999.999.900,Friday,Afternoon
+,2016-10-07,14.0,29.0,2016-10-07,15.0,11.0,Oct,2016,Business,Unknown Location,Lahore,13.357.522.000.000.000,Temporary Site,42.0,19.082.174.285.714.200,Friday,Afternoon
+,2016-10-07,15.0,47.0,2016-10-07,16.0,2.0,Oct,2016,Business,Lahore,Lahore,38.624.159.999.999.900,Temporary Site,15.0,15.449.663.999.999.900,Friday,Afternoon
+,2016-10-07,18.0,8.0,2016-10-07,18.0,27.0,Oct,2016,Business,Lahore,Lahore,49.889.540.000.000.000,Temporary Site,19.0,15.754.591.578.947.300,Friday,Afternoon
+,2016-10-07,18.0,33.0,2016-10-07,19.0,1.0,Oct,2016,Business,Lahore,Lahore,9.816.974,Temporary Site,28.0,21.036.372.857.142.800,Friday,Afternoon
+,2016-10-08,15.0,3.0,2016-10-08,15.0,3.0,Oct,2016,Business,Karachi,Karachi,5.793.624,Temporary Site,0.0,Infinity,Saturday,Afternoon
+,2016-10-08,18.0,15.0,2016-10-08,18.0,18.0,Oct,2016,Business,Karachi,Unknown Location,1.287.472,Temporary Site,3.0,2.574.944,Saturday,Afternoon
+,2016-10-09,14.0,4.0,2016-10-09,14.0,23.0,Oct,2016,Business,Unknown Location,Unknown Location,12.391.918,Temporary Site,19.0,39.132.372.631.578.900,Sunday,Afternoon
+,2016-10-10,17.0,22.0,2016-10-10,17.0,28.0,Oct,2016,Business,Islamabad,Islamabad,2.735.878,Temporary Site,6.0,2.735.878,Monday,Afternoon
+,2016-10-10,17.0,33.0,2016-10-10,18.0,13.0,Oct,2016,Business,Islamabad,Unknown Location,1.528.873,Temporary Site,40.0,22.933.095,Monday,Afternoon
+,2016-10-11,1.0,27.0,2016-10-11,2.0,8.0,Oct,2016,Business,Unknown Location,R?walpindi,27.519.714,Meeting,41.0,40.272.752.195.121.900,Tuesday,Night
+,2016-10-12,19.0,18.0,2016-10-12,19.0,21.0,Oct,2016,Business,R?walpindi,Unknown Location,29.611.855.999.999.900,Meeting,3.0,59.223.711.999.999.900,Wednesday,Evening
+,2016-10-13,11.0,20.0,2016-10-13,11.0,58.0,Oct,2016,Business,Unknown Location,Islamabad,15.771.532,Meeting,38.0,24.902.418.947.368.400,Thursday,Morning
+,2016-10-13,12.0,8.0,2016-10-13,12.0,14.0,Oct,2016,Business,Islamabad,Islamabad,160.934,Meeting,6.0,160.934,Thursday,Morning
+,2016-10-13,13.0,2.0,2016-10-13,13.0,2.0,Oct,2016,Business,Islamabad,Islamabad,11.265.379.999.999.900,Meeting,0.0,Infinity,Thursday,Afternoon
+,2016-10-13,13.0,37.0,2016-10-13,13.0,46.0,Oct,2016,Business,Islamabad,Islamabad,37.014.819.999.999.900,Meeting,9.0,24.676.546.666.666.600,Thursday,Afternoon
+,2016-10-13,16.0,8.0,2016-10-13,16.0,53.0,Oct,2016,Business,Islamabad,Unknown Location,17.541.806,Meeting,45.0,23.389.074.666.666.600,Thursday,Afternoon
+,2016-10-14,8.0,50.0,2016-10-14,9.0,44.0,Oct,2016,Business,Unknown Location,R?walpindi,20.438.617.999.999.900,Meeting,54.0,22.709.575.555.555.500,Friday,Morning
+,2016-10-14,10.0,16.0,2016-10-14,10.0,52.0,Oct,2016,Business,R?walpindi,Unknown Location,19.955.816.000.000.000,Meeting,36.0,33.259.693.333.333.300,Friday,Morning
+,2016-10-14,15.0,56.0,2016-10-14,16.0,20.0,Oct,2016,Business,Unknown Location,Unknown Location,6.115.492,Meeting,24.0,1.528.873,Friday,Afternoon
+,2016-10-15,22.0,28.0,2016-10-15,22.0,48.0,Oct,2016,Business,Morrisville,Morrisville,99.779.080.000.000.000,Meeting,20.0,29.933.724.000.000.000,Saturday,Evening
+,2016-10-16,0.0,1.0,2016-10-16,0.0,14.0,Oct,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Meeting,13.0,23.025.941.538.461.500,Sunday,Night
+,2016-10-16,12.0,52.0,2016-10-16,13.0,11.0,Oct,2016,Business,Cary,Durham,1.689.807,Meeting,19.0,53.362.326.315.789.400,Sunday,Morning
+,2016-10-16,14.0,40.0,2016-10-16,15.0,1.0,Oct,2016,Business,Durham,Morrisville,13.035.654,Meeting,21.0,37.244.725.714.285.700,Sunday,Afternoon
+,2016-10-16,15.0,10.0,2016-10-16,15.0,19.0,Oct,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Meeting,9.0,33.259.693.333.333.300,Sunday,Afternoon
+,2016-10-16,19.0,27.0,2016-10-16,19.0,33.0,Oct,2016,Business,Whitebridge,Parkway,3.379.614,Meeting,6.0,3.379.614,Sunday,Evening
+,2016-10-16,20.0,30.0,2016-10-16,20.0,39.0,Oct,2016,Business,Cary,Morrisville,69.201.619.999.999.900,Meeting,9.0,46.134.413.333.333.300,Sunday,Evening
+,2016-10-16,21.0,34.0,2016-10-16,21.0,41.0,Oct,2016,Business,Morrisville,Cary,402.335,Meal/Entertain,7.0,34.485.857.142.857.100,Sunday,Evening
+,2016-10-17,15.0,19.0,2016-10-17,15.0,57.0,Oct,2016,Business,Cary,Raleigh,33.152.404.000.000.000,Meal/Entertain,38.0,52.345.901.052.631.500,Monday,Afternoon
+,2016-10-17,16.0,29.0,2016-10-17,17.0,11.0,Oct,2016,Business,Raleigh,Cary,28.324.384.000.000.000,Meal/Entertain,42.0,4.046.340.571.428.570,Monday,Afternoon
+,2016-10-17,18.0,2.0,2016-10-17,18.0,16.0,Oct,2016,Business,Cary,Apex,90.123.039.999.999.900,Meal/Entertain,14.0,38.624.159.999.999.900,Monday,Afternoon
+,2016-10-17,18.0,31.0,2016-10-17,18.0,45.0,Oct,2016,Business,Apex,Apex,5.310.822,Meal/Entertain,14.0,22.760.665.714.285.700,Monday,Afternoon
+,2016-10-17,19.0,8.0,2016-10-17,19.0,25.0,Oct,2016,Business,Apex,Cary,8.529.501.999.999.990,Meal/Entertain,17.0,30.104.124.705.882.300,Monday,Evening
+,2016-10-18,8.0,12.0,2016-10-18,8.0,22.0,Oct,2016,Business,Whitebridge,Edgehill Farms,5.310.822,Meal/Entertain,10.0,31.864.932,Tuesday,Morning
+,2016-10-18,8.0,53.0,2016-10-18,9.0,2.0,Oct,2016,Business,Edgehill Farms,Whitebridge,5.310.822,Meal/Entertain,9.0,35.405.480.000.000.000,Tuesday,Morning
+,2016-10-18,10.0,41.0,2016-10-18,11.0,9.0,Oct,2016,Business,Cary,Morrisville,12.713.786,Temporary Site,28.0,27.243.827.142.857.100,Tuesday,Morning
+,2016-10-18,18.0,12.0,2016-10-18,18.0,33.0,Oct,2016,Business,Oakland,Emeryville,2.092.142,Temporary Site,21.0,59.775.485.714.285.700,Tuesday,Afternoon
+,2016-10-18,19.0,3.0,2016-10-18,19.0,13.0,Oct,2016,Business,Emeryville,Berkeley,482.802,Temporary Site,10.0,28.968.120.000.000.000,Tuesday,Evening
+,2016-10-18,20.0,31.0,2016-10-18,20.0,37.0,Oct,2016,Business,Berkeley,Emeryville,482.802,Temporary Site,6.0,482.802,Tuesday,Evening
+,2016-10-19,9.0,33.0,2016-10-19,9.0,47.0,Oct,2016,Business,Emeryville,Oakland,6.115.492,Temporary Site,14.0,26.209.251.428.571.400,Wednesday,Morning
+,2016-10-19,9.0,54.0,2016-10-19,10.0,21.0,Oct,2016,Business,Oakland,San Francisco,1.528.873,Temporary Site,27.0,33.974.955.555.555.500,Wednesday,Morning
+,2016-10-19,13.0,45.0,2016-10-19,13.0,56.0,Oct,2016,Business,SOMISSPO,French Quarter,2.735.878,Temporary Site,11.0,1.492.297.090.909.090,Wednesday,Afternoon
+,2016-10-19,14.0,2.0,2016-10-19,14.0,31.0,Oct,2016,Business,San Francisco,Berkeley,17.380.872,Temporary Site,29.0,35.960.424.827.586.200,Wednesday,Afternoon
+,2016-10-19,15.0,44.0,2016-10-19,16.0,2.0,Oct,2016,Business,West Berkeley,North Berkeley Hills,65.982.939.999.999.900,Temporary Site,18.0,21.994.313.333.333.300,Wednesday,Afternoon
+,2016-10-19,16.0,6.0,2016-10-19,16.0,19.0,Oct,2016,Business,North Berkeley Hills,Southside,35.405.480.000.000.000,Temporary Site,13.0,16.340.990.769.230.700,Wednesday,Afternoon
+,2016-10-19,16.0,33.0,2016-10-19,17.0,1.0,Oct,2016,Business,Berkeley,Emeryville,7.402.963.999.999.990,Temporary Site,28.0,15.863.494.285.714.200,Wednesday,Afternoon
+,2016-10-20,11.0,26.0,2016-10-20,11.0,34.0,Oct,2016,Business,Emeryville,Berkeley,49.889.540.000.000.000,Temporary Site,8.0,37.417.155.000.000.000,Thursday,Morning
+,2016-10-20,12.0,19.0,2016-10-20,13.0,17.0,Oct,2016,Business,Berkeley,San Jose,76.765.518,Temporary Site,58.0,79.412.604.827.586.200,Thursday,Morning
+,2016-10-20,20.0,44.0,2016-10-20,21.0,37.0,Oct,2016,Business,San Jose,Emeryville,71.776.564.000.000.000,Temporary Site,53.0,81.256.487.547.169.800,Thursday,Evening
+,2016-10-21,10.0,6.0,2016-10-21,10.0,21.0,Oct,2016,Business,Emeryville,Oakland,21.243.288,Temporary Site,15.0,84.973.152,Friday,Morning
+,2016-10-22,0.0,54.0,2016-10-22,1.0,9.0,Oct,2016,Business,Morrisville,Cary,14.001.257.999.999.900,Temporary Site,15.0,56.005.031.999.999.900,Saturday,Night
+,2016-10-22,13.0,26.0,2016-10-22,14.0,3.0,Oct,2016,Business,Cary,Raleigh,27.680.647.999.999.900,Temporary Site,37.0,44.887.537.297.297.200,Saturday,Afternoon
+,2016-10-22,17.0,8.0,2016-10-22,17.0,55.0,Oct,2016,Business,Raleigh,Cary,2.253.076,Temporary Site,47.0,28.762.672.340.425.500,Saturday,Afternoon
+,2016-10-23,9.0,24.0,2016-10-23,10.0,5.0,Oct,2016,Business,Cary,Raleigh,45.222.454,Temporary Site,41.0,6.617.920.097.560.970,Sunday,Morning
+,2016-10-23,12.0,17.0,2016-10-23,12.0,59.0,Oct,2016,Business,Raleigh,Cary,45.383.388,Temporary Site,42.0,64.833.411.428.571.400,Sunday,Morning
+,2016-10-23,19.0,4.0,2016-10-23,19.0,14.0,Oct,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Meal/Entertain,10.0,29.933.724.000.000.000,Sunday,Evening
+,2016-10-23,21.0,10.0,2016-10-23,21.0,25.0,Oct,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Customer Visit,15.0,19.955.816.000.000.000,Sunday,Evening
+,2016-10-24,14.0,57.0,2016-10-24,15.0,26.0,Oct,2016,Business,Cary,Durham,26.393.175.999.999.900,Customer Visit,29.0,54.606.571.034.482.700,Monday,Afternoon
+,2016-10-24,15.0,33.0,2016-10-24,16.0,13.0,Oct,2016,Business,Durham,Morrisville,24.783.836,Customer Visit,40.0,37.175.754.000.000.000,Monday,Afternoon
+,2016-10-24,16.0,34.0,2016-10-24,16.0,41.0,Oct,2016,Business,Morrisville,Cary,35.405.480.000.000.000,Customer Visit,7.0,30.347.554.285.714.200,Monday,Afternoon
+,2016-10-25,13.0,27.0,2016-10-25,14.0,8.0,Oct,2016,Business,Cary,Apex,18.024.607.999.999.900,Customer Visit,41.0,26.377.475.121.951.200,Tuesday,Afternoon
+,2016-10-25,15.0,4.0,2016-10-25,15.0,11.0,Oct,2016,Business,Apex,Eagle Rock,35.405.480.000.000.000,Customer Visit,7.0,30.347.554.285.714.200,Tuesday,Afternoon
+,2016-10-25,15.0,16.0,2016-10-25,15.0,33.0,Oct,2016,Business,Eagle Rock,Cary,5.793.624,Customer Visit,17.0,20.448.084.705.882.300,Tuesday,Afternoon
+,2016-10-25,20.0,0.0,2016-10-25,20.0,11.0,Oct,2016,Business,Whitebridge,Savon Height,5.793.624,Meal/Entertain,11.0,31.601.585.454.545.400,Tuesday,Evening
+,2016-10-25,20.0,54.0,2016-10-25,21.0,3.0,Oct,2016,Business,Savon Height,Parkway,7.885.766,Meal/Entertain,9.0,5.257.177.333.333.330,Tuesday,Evening
+,2016-10-25,22.0,24.0,2016-10-25,22.0,45.0,Oct,2016,Business,Parkway,Whitebridge,14.001.257.999.999.900,Errand/Supplies,21.0,40.003.594.285.714.200,Tuesday,Evening
+,2016-10-26,19.0,25.0,2016-10-26,19.0,31.0,Oct,2016,Business,Whitebridge,Parkway,3.379.614,Meeting,6.0,3.379.614,Wednesday,Evening
+,2016-10-26,20.0,53.0,2016-10-26,21.0,3.0,Oct,2016,Business,Parkway,Whitebridge,3.379.614,Meeting,10.0,20.277.684,Wednesday,Evening
+,2016-10-27,18.0,51.0,2016-10-27,19.0,16.0,Oct,2016,Business,Cary,Morrisville,13.518.456,Meeting,25.0,324.442.944,Thursday,Afternoon
+,2016-10-27,19.0,20.0,2016-10-27,19.0,35.0,Oct,2016,Business,Morrisville,Morrisville,9.495.106,Meeting,15.0,37.980.424,Thursday,Evening
+,2016-10-27,19.0,52.0,2016-10-27,20.0,21.0,Oct,2016,Business,Huntington Woods,Huntington Woods,19.473.014,Meeting,29.0,40.288.994.482.758.600,Thursday,Evening
+,2016-10-27,20.0,47.0,2016-10-27,20.0,54.0,Oct,2016,Business,Huntington Woods,Weston,6.276.426,Meeting,7.0,53.797.937.142.857.100,Thursday,Evening
+,2016-10-27,21.0,26.0,2016-10-27,21.0,48.0,Oct,2016,Business,Morrisville,Cary,99.779.080.000.000.000,Meeting,22.0,2.721.247.636.363.630,Thursday,Evening
+,2016-10-28,11.0,34.0,2016-10-28,11.0,52.0,Oct,2016,Business,Cary,Durham,16.737.136,Meeting,18.0,55.790.453.333.333.300,Friday,Morning
+,2016-10-28,13.0,6.0,2016-10-28,13.0,36.0,Oct,2016,Business,Durham,Cary,15.932.466,Meeting,30.0,31.864.932,Friday,Afternoon
+,2016-10-28,15.0,53.0,2016-10-28,17.0,59.0,Oct,2016,Business,Cary,Winston Salem,17.219.938,Meeting,126.0,81.999.704.761.904.700,Friday,Afternoon
+,2016-10-28,18.0,13.0,2016-10-28,20.0,7.0,Oct,2016,Business,Winston Salem,Asheville,215.007.824,Meeting,114.0,11.316.201.263.157.800,Friday,Afternoon
+,2016-10-28,20.0,13.0,2016-10-28,22.0,0.0,Oct,2016,Business,Asheville,Topton,147.737.412,Meeting,107.0,82.843.408.598.130.800,Friday,Evening
+,2016-10-29,15.0,22.0,2016-10-29,17.0,5.0,Oct,2016,Business,Topton,Hayesville,65.500.138,Meeting,103.0,38.155.420.194.174.700,Saturday,Afternoon
+,2016-10-29,17.0,13.0,2016-10-29,19.0,19.0,Oct,2016,Business,Hayesville,Topton,121.827.038,Meeting,126.0,58.012.875.238.095.200,Saturday,Afternoon
+,2016-10-30,7.0,49.0,2016-10-30,8.0,30.0,Oct,2016,Business,Topton,Bryson City,47.958.332,Meeting,41.0,7.018.292.487.804.870,Sunday,Morning
+,2016-10-30,9.0,7.0,2016-10-30,10.0,9.0,Oct,2016,Business,Bryson City,Bryson City,26.232.242,Meeting,62.0,25.386.040.645.161.200,Sunday,Morning
+,2016-10-30,10.0,11.0,2016-10-30,10.0,38.0,Oct,2016,Business,Bryson City,Bryson City,1.046.071,Meeting,27.0,23.246.022.222.222.200,Sunday,Morning
+,2016-10-30,10.0,51.0,2016-10-30,11.0,21.0,Oct,2016,Business,Bryson City,Bryson City,10.138.842,Meeting,30.0,20.277.684,Sunday,Morning
+,2016-10-30,12.0,24.0,2016-10-30,12.0,35.0,Oct,2016,Business,Bryson City,Almond,10.621.644,Meeting,11.0,57.936.240.000.000.000,Sunday,Morning
+,2016-10-30,12.0,58.0,2016-10-30,13.0,18.0,Oct,2016,Business,Almond,Bryson City,24.461.968,Meeting,20.0,73.385.904,Sunday,Morning
+,2016-10-30,13.0,24.0,2016-10-30,14.0,37.0,Oct,2016,Business,Bryson City,Asheville,110.078.856,Meeting,73.0,90.475.772.054.794.500,Sunday,Afternoon
+,2016-10-30,15.0,22.0,2016-10-30,18.0,23.0,Oct,2016,Business,Asheville,Mebane,315.269.706,Meeting,181.0,10.450.929.480.662.900,Sunday,Afternoon
+,2016-10-30,18.0,26.0,2016-10-30,19.0,39.0,Oct,2016,Business,Mebane,Cary,72.742.168,Meeting,73.0,59.788.083.287.671.200,Sunday,Afternoon
+,2016-10-31,18.0,11.0,2016-10-31,18.0,20.0,Oct,2016,Business,Cary,Morrisville,51.498.880.000.000.000,Meeting,9.0,34.332.586.666.666.600,Monday,Afternoon
+,2016-10-31,18.0,47.0,2016-10-31,19.0,16.0,Oct,2016,Business,Morrisville,Raleigh,16.576.202.000.000.000,Meeting,29.0,34.295.590.344.827.500,Monday,Afternoon
+,2016-10-31,20.0,18.0,2016-10-31,20.0,44.0,Oct,2016,Business,Raleigh,Cary,21.082.354,Meeting,26.0,48.651.586.153.846.100,Monday,Evening
+,2016-10-31,21.0,45.0,2016-10-31,22.0,10.0,Oct,2016,Business,Savon Height,Whitebridge,15.449.663.999.999.900,Errand/Supplies,25.0,37.079.193.599.999.900,Monday,Evening
+,2016-11-01,11.0,50.0,2016-11-01,12.0,27.0,Nov,2016,Business,Cary,Durham,2.655.411,Errand/Supplies,37.0,43.060.718.918.918.900,Tuesday,Morning
+,2016-11-01,16.0,29.0,2016-11-01,17.0,2.0,Nov,2016,Business,Durham,Cary,20.599.552.000.000.000,Errand/Supplies,33.0,37.453.730.909.090.900,Tuesday,Afternoon
+,2016-11-01,17.0,35.0,2016-11-01,17.0,42.0,Nov,2016,Business,Whitebridge,Whitebridge,19.312.079.999.999.900,Errand/Supplies,7.0,16.553.211.428.571.400,Tuesday,Afternoon
+,2016-11-01,19.0,14.0,2016-11-01,19.0,20.0,Nov,2016,Business,Whitebridge,Whitebridge,160.934,Errand/Supplies,6.0,160.934,Tuesday,Evening
+,2016-11-01,19.0,59.0,2016-11-01,20.0,12.0,Nov,2016,Business,Whitebridge,Whitebridge,65.982.939.999.999.900,Errand/Supplies,13.0,30.453.664.615.384.600,Tuesday,Evening
+,2016-11-01,20.0,41.0,2016-11-01,20.0,55.0,Nov,2016,Business,Whitebridge,Whitebridge,6.759.228,Meal/Entertain,14.0,2.896.812,Tuesday,Evening
+,2016-11-02,15.0,10.0,2016-11-02,15.0,18.0,Nov,2016,Business,Whitebridge,Westpark Place,22.530.759.999.999.900,Meal/Entertain,8.0,16.898.069.999.999.900,Wednesday,Afternoon
+,2016-11-02,15.0,45.0,2016-11-02,15.0,52.0,Nov,2016,Business,Westpark Place,Whitebridge,2.896.812,Meal/Entertain,7.0,24.829.817.142.857.100,Wednesday,Afternoon
+,2016-11-02,16.0,46.0,2016-11-02,17.0,11.0,Nov,2016,Business,Cary,Morrisville,1.367.939,Meeting,25.0,32.830.535.999.999.900,Wednesday,Afternoon
+,2016-11-02,17.0,34.0,2016-11-02,17.0,49.0,Nov,2016,Business,Morrisville,Morrisville,8.0467,Meeting,15.0,321.868,Wednesday,Afternoon
+,2016-11-02,17.0,53.0,2016-11-02,18.0,0.0,Nov,2016,Business,Morrisville,Cary,6.115.492,Meeting,7.0,52.418.502.857.142.800,Wednesday,Afternoon
+,2016-11-03,11.0,28.0,2016-11-03,11.0,34.0,Nov,2016,Business,Whitebridge,Hazelwood,402.335,Meeting,6.0,40.233.499.999.999.900,Thursday,Morning
+,2016-11-03,12.0,43.0,2016-11-03,12.0,49.0,Nov,2016,Business,Hazelwood,Whitebridge,38.624.159.999.999.900,Meeting,6.0,38.624.159.999.999.900,Thursday,Morning
+,2016-11-03,13.0,42.0,2016-11-03,13.0,47.0,Nov,2016,Business,Whitebridge,Westpark Place,22.530.759.999.999.900,Meeting,5.0,27.036.911.999.999.900,Thursday,Afternoon
+,2016-11-03,14.0,13.0,2016-11-03,14.0,26.0,Nov,2016,Business,Westpark Place,Whitebridge,2.896.812,Meeting,13.0,13.369.901.538.461.500,Thursday,Afternoon
+,2016-11-03,18.0,51.0,2016-11-03,19.0,8.0,Nov,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Meal/Entertain,17.0,17.608.072.941.176.400,Thursday,Afternoon
+,2016-11-03,22.0,46.0,2016-11-03,22.0,58.0,Nov,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Customer Visit,12.0,24.944.770.000.000.000,Thursday,Evening
+,2016-11-04,10.0,2.0,2016-11-04,10.0,18.0,Nov,2016,Business,Cary,Morrisville,12.713.786,Temporary Site,16.0,476.766.975,Friday,Morning
+,2016-11-04,18.0,14.0,2016-11-04,18.0,21.0,Nov,2016,Business,San Jose,Santa Clara,6.115.492,Temporary Site,7.0,52.418.502.857.142.800,Friday,Afternoon
+,2016-11-04,21.0,4.0,2016-11-04,21.0,20.0,Nov,2016,Business,Agnew,Cory,69.201.619.999.999.900,Temporary Site,16.0,25.950.607.499.999.900,Friday,Evening
+,2016-11-04,22.0,12.0,2016-11-04,22.0,25.0,Nov,2016,Business,Cory,Agnew,6.276.426,Temporary Site,13.0,2.896.812,Friday,Evening
+,2016-11-05,8.0,34.0,2016-11-05,8.0,43.0,Nov,2016,Business,Agnew,Renaissance,35.405.480.000.000.000,Temporary Site,9.0,23.603.653.333.333.300,Saturday,Morning
+,2016-11-05,17.0,29.0,2016-11-05,17.0,40.0,Nov,2016,Business,Renaissance,Agnew,45.061.519.999.999.900,Temporary Site,11.0,24.579.010.909.090.900,Saturday,Afternoon
+,2016-11-05,19.0,20.0,2016-11-05,19.0,28.0,Nov,2016,Business,Agnew,Agnew,35.405.480.000.000.000,Temporary Site,8.0,2.655.411,Saturday,Evening
+,2016-11-06,10.0,50.0,2016-11-06,11.0,4.0,Nov,2016,Business,Agnew,Renaissance,38.624.159.999.999.900,Temporary Site,14.0,16.553.211.428.571.400,Sunday,Morning
+,2016-11-06,16.0,5.0,2016-11-06,16.0,22.0,Nov,2016,Business,Renaissance,Agnew,45.061.519.999.999.900,Meeting,17.0,15.904.065.882.352.900,Sunday,Afternoon
+,2016-11-06,16.0,27.0,2016-11-06,17.0,28.0,Nov,2016,Business,Santa Clara,Berkeley,70.650.026,Customer Visit,61.0,69.491.828.852.459.000,Sunday,Afternoon
+,2016-11-06,19.0,4.0,2016-11-06,19.0,12.0,Nov,2016,Business,Downtown,West Berkeley,2.896.812,Customer Visit,8.0,21.726.090.000.000.000,Sunday,Evening
+,2016-11-06,20.0,6.0,2016-11-06,20.0,21.0,Nov,2016,Business,West Berkeley,Central,5.310.822,Customer Visit,15.0,21.243.288,Sunday,Evening
+,2016-11-07,12.0,28.0,2016-11-07,12.0,57.0,Nov,2016,Business,Berkeley,San Francisco,18.990.212,Between Offices,29.0,39.290.093.793.103.400,Monday,Morning
+,2016-11-07,19.0,17.0,2016-11-07,19.0,57.0,Nov,2016,Business,San Francisco,Berkeley,21.243.288,Between Offices,40.0,31.864.932,Monday,Evening
+,2016-11-08,10.0,29.0,2016-11-08,10.0,57.0,Nov,2016,Business,Berkeley,San Francisco,19.633.948,Between Offices,28.0,42.072.745.714.285.700,Tuesday,Morning
+,2016-11-08,12.0,16.0,2016-11-08,12.0,49.0,Nov,2016,Business,San Francisco,Berkeley,18.185.542,Meeting,33.0,3.306.462.181.818.180,Tuesday,Morning
+,2016-11-08,13.0,41.0,2016-11-08,14.0,1.0,Nov,2016,Business,Berkeley,Emeryville,5.793.624,Meeting,20.0,17.380.872.000.000.000,Tuesday,Afternoon
+,2016-11-08,16.0,21.0,2016-11-08,16.0,34.0,Nov,2016,Business,Emeryville,Berkeley,482.802,Meeting,13.0,22.283.169.230.769.200,Tuesday,Afternoon
+,2016-11-09,13.0,8.0,2016-11-09,13.0,41.0,Nov,2016,Business,Berkeley,San Francisco,18.346.476,Meeting,33.0,33.357.229.090.909.000,Wednesday,Afternoon
+,2016-11-09,15.0,58.0,2016-11-09,16.0,4.0,Nov,2016,Business,NOMA,Downtown,1.448.406,Meeting,6.0,1.448.406,Wednesday,Afternoon
+,2016-11-09,17.0,31.0,2016-11-09,18.0,3.0,Nov,2016,Business,Downtown,Sunnyside,99.779.080.000.000.000,Meeting,32.0,18.708.577.500.000.000,Wednesday,Afternoon
+,2016-11-09,18.0,9.0,2016-11-09,18.0,14.0,Nov,2016,Business,Sunnyside,Ingleside,11.265.379.999.999.900,Meeting,5.0,13.518.455.999.999.900,Wednesday,Afternoon
+,2016-11-09,18.0,21.0,2016-11-09,18.0,35.0,Nov,2016,Business,Ingleside,Potrero Flats,885.137,Meeting,14.0,37.934.442.857.142.800,Wednesday,Afternoon
+,2016-11-09,18.0,40.0,2016-11-09,19.0,17.0,Nov,2016,Business,San Francisco,Oakland,20.438.617.999.999.900,Customer Visit,37.0,33.143.704.864.864.800,Wednesday,Afternoon
+,2016-11-09,20.0,52.0,2016-11-09,21.0,2.0,Nov,2016,Business,Oakland,Berkeley,4.184.284,Customer Visit,10.0,25.105.704,Wednesday,Evening
+,2016-11-09,21.0,56.0,2016-11-09,22.0,2.0,Nov,2016,Business,Central,Central,17.702.740.000.000.000,Customer Visit,6.0,1.770.274,Wednesday,Evening
+,2016-11-10,9.0,46.0,2016-11-10,10.0,15.0,Nov,2016,Business,Berkeley,San Francisco,20.277.684,Temporary Site,29.0,41.953.828.965.517.200,Thursday,Morning
+,2016-11-10,10.0,20.0,2016-11-10,10.0,31.0,Nov,2016,Business,Tenderloin,SOMISSPO,19.312.079.999.999.900,Temporary Site,11.0,10.533.861.818.181.800,Thursday,Morning
+,2016-11-10,14.0,57.0,2016-11-10,15.0,7.0,Nov,2016,Business,SOMISSPO,Tenderloin,17.702.740.000.000.000,Temporary Site,10.0,10.621.644.000.000.000,Thursday,Afternoon
+,2016-11-10,15.0,17.0,2016-11-10,15.0,22.0,Nov,2016,Business,San Francisco,Oakland,15.932.466,Temporary Site,5.0,191.189.592,Thursday,Afternoon
+,2016-11-10,15.0,30.0,2016-11-10,15.0,53.0,Nov,2016,Business,Oakland,Berkeley,965.604,Meeting,23.0,25.189.669.565.217.300,Thursday,Afternoon
+,2016-11-10,19.0,18.0,2016-11-10,19.0,21.0,Nov,2016,Business,West Berkeley,Central,12.874.720.000.000.000,Meeting,3.0,25.749.440.000.000.000,Thursday,Evening
+,2016-11-11,9.0,35.0,2016-11-11,10.0,23.0,Nov,2016,Business,Berkeley,Menlo Park,73.868.706,Customer Visit,48.0,923.358.825,Friday,Morning
+,2016-11-11,12.0,58.0,2016-11-11,13.0,13.0,Nov,2016,Business,Menlo Park,Palo Alto,643.736,Customer Visit,15.0,2.574.944,Friday,Morning
+,2016-11-11,14.0,20.0,2016-11-11,14.0,32.0,Nov,2016,Business,Palo Alto,Menlo Park,402.335,Customer Visit,12.0,20.116.749.999.999.900,Friday,Afternoon
+,2016-11-11,14.0,39.0,2016-11-11,15.0,46.0,Nov,2016,Business,Menlo Park,Berkeley,58.901.844.000.000.000,Customer Visit,67.0,5.274.792,Friday,Afternoon
+,2016-11-11,18.0,30.0,2016-11-11,18.0,43.0,Nov,2016,Business,Central,College Avenue,46.670.859.999.999.900,Customer Visit,13.0,21.540.396.923.076.900,Friday,Afternoon
+,2016-11-11,21.0,8.0,2016-11-11,21.0,18.0,Nov,2016,Business,College Avenue,Central,4.184.284,Customer Visit,10.0,25.105.704,Friday,Evening
+,2016-11-12,10.0,32.0,2016-11-12,10.0,52.0,Nov,2016,Business,Central,South,37.014.819.999.999.900,Customer Visit,20.0,11.104.446,Saturday,Morning
+,2016-11-12,10.0,55.0,2016-11-12,11.0,25.0,Nov,2016,Business,South,Downtown,10.299.776.000.000.000,Customer Visit,30.0,20.599.552.000.000.000,Saturday,Morning
+,2016-11-12,13.0,7.0,2016-11-12,13.0,15.0,Nov,2016,Business,Downtown,Central,22.530.759.999.999.900,Customer Visit,8.0,16.898.069.999.999.900,Saturday,Afternoon
+,2016-11-12,13.0,46.0,2016-11-12,13.0,50.0,Nov,2016,Business,Central,West Berkeley,96.560.399.999.999.900,Customer Visit,4.0,1.448.406,Saturday,Afternoon
+,2016-11-12,14.0,22.0,2016-11-12,14.0,53.0,Nov,2016,Business,West Berkeley,South,9.495.106,Meeting,31.0,18.377.624.516.129.000,Saturday,Afternoon
+,2016-11-12,15.0,14.0,2016-11-12,15.0,21.0,Nov,2016,Business,South,Southwest Berkeley,12.874.720.000.000.000,Meeting,7.0,11.035.474.285.714.200,Saturday,Afternoon
+,2016-11-12,15.0,25.0,2016-11-12,15.0,36.0,Nov,2016,Business,Berkeley,Emeryville,2.092.142,Meeting,11.0,11.411.683.636.363.600,Saturday,Afternoon
+,2016-11-12,15.0,40.0,2016-11-12,15.0,59.0,Nov,2016,Business,Emeryville,Berkeley,59.545.580.000.000.000,Errand/Supplies,19.0,18.803.867.368.421.000,Saturday,Afternoon
+,2016-11-13,8.0,54.0,2016-11-13,9.0,2.0,Nov,2016,Business,Central,Central,37.014.819.999.999.900,Errand/Supplies,8.0,27.761.114.999.999.900,Sunday,Morning
+,2016-11-13,9.0,27.0,2016-11-13,9.0,53.0,Nov,2016,Business,Central,Central,4.184.284,Errand/Supplies,26.0,96.560.399.999.999.900,Sunday,Morning
+,2016-11-13,10.0,31.0,2016-11-13,10.0,37.0,Nov,2016,Business,Central,Southside,3.057.746,Errand/Supplies,6.0,3.057.746,Sunday,Morning
+,2016-11-13,11.0,4.0,2016-11-13,11.0,16.0,Nov,2016,Business,Southside,West Berkeley,3.379.614,Errand/Supplies,12.0,1.689.807,Sunday,Morning
+,2016-11-13,12.0,22.0,2016-11-13,12.0,51.0,Nov,2016,Business,West Berkeley,Southside,643.736,Meeting,29.0,13.318.675.862.068.900,Sunday,Morning
+,2016-11-13,13.0,5.0,2016-11-13,13.0,11.0,Nov,2016,Business,Southside,South Berkeley,1.448.406,Meeting,6.0,1.448.406,Sunday,Afternoon
+,2016-11-13,13.0,14.0,2016-11-13,13.0,18.0,Nov,2016,Business,South Berkeley,Southside,1.448.406,Meeting,4.0,21.726.090.000.000.000,Sunday,Afternoon
+,2016-11-13,14.0,35.0,2016-11-13,14.0,46.0,Nov,2016,Business,Southside,Central,38.624.159.999.999.900,Meeting,11.0,21.067.723.636.363.600,Sunday,Afternoon
+,2016-11-13,15.0,14.0,2016-11-13,15.0,24.0,Nov,2016,Business,Central,Southside,3.057.746,Meeting,10.0,18.346.476,Sunday,Afternoon
+,2016-11-13,15.0,47.0,2016-11-13,15.0,59.0,Nov,2016,Business,Southside,Central,3.057.746,Meeting,12.0,1.528.873,Sunday,Afternoon
+,2016-11-14,11.0,24.0,2016-11-14,12.0,13.0,Nov,2016,Business,Berkeley,Mountain View,71.776.564.000.000.000,Customer Visit,49.0,87.889.670.204.081.600,Monday,Morning
+,2016-11-14,13.0,40.0,2016-11-14,14.0,33.0,Nov,2016,Business,Mountain View,Berkeley,70.167.224,Customer Visit,53.0,79.434.593.207.547.100,Monday,Afternoon
+,2016-11-14,15.0,27.0,2016-11-14,15.0,36.0,Nov,2016,Business,Berkeley,Emeryville,402.335,Customer Visit,9.0,26.822.333.333.333.300,Monday,Afternoon
+,2016-11-14,20.0,19.0,2016-11-14,20.0,30.0,Nov,2016,Business,Emeryville,Berkeley,59.545.580.000.000.000,Errand/Supplies,11.0,32.479.407.272.727.200,Monday,Evening
+,2016-11-15,13.0,59.0,2016-11-15,14.0,6.0,Nov,2016,Business,Berkeley,Oakland,82.076.339.999.999.900,Errand/Supplies,7.0,70.351.148.571.428.500,Tuesday,Afternoon
+,2016-11-15,14.0,9.0,2016-11-15,14.0,26.0,Nov,2016,Business,Oakland,San Francisco,15.610.598,Temporary Site,17.0,5.509.622.823.529.410,Tuesday,Afternoon
+,2016-11-15,20.0,44.0,2016-11-15,21.0,0.0,Nov,2016,Business,San Francisco,Berkeley,18.990.212,Temporary Site,16.0,71.213.295,Tuesday,Evening
+,2016-11-16,20.0,21.0,2016-11-16,20.0,27.0,Nov,2016,Business,Berkeley,El Cerrito,37.014.819.999.999.900,Temporary Site,6.0,37.014.819.999.999.900,Wednesday,Evening
+,2016-11-16,22.0,52.0,2016-11-16,23.0,2.0,Nov,2016,Business,El Cerrito,Berkeley,49.889.540.000.000.000,Meal/Entertain,10.0,29.933.724.000.000.000,Wednesday,Evening
+,2016-11-17,10.0,13.0,2016-11-17,10.0,44.0,Nov,2016,Business,Berkeley,Oakland,26.232.242,Customer Visit,31.0,50.772.081.290.322.500,Thursday,Morning
+,2016-11-18,20.0,9.0,2016-11-18,20.0,19.0,Nov,2016,Business,Cary,Morrisville,49.889.540.000.000.000,Meal/Entertain,10.0,29.933.724.000.000.000,Friday,Evening
+,2016-11-18,21.0,23.0,2016-11-18,21.0,34.0,Nov,2016,Business,Morrisville,Cary,8.368.568,Meal/Entertain,11.0,45.646.734.545.454.500,Friday,Evening
+,2016-11-18,21.0,56.0,2016-11-18,22.0,21.0,Nov,2016,Business,Krendle Woods,Whitebridge,9.816.974,Meeting,25.0,235.607.376,Friday,Evening
+,2016-11-19,13.0,51.0,2016-11-19,14.0,10.0,Nov,2016,Business,Cary,Durham,16.576.202.000.000.000,Meeting,19.0,52.345.901.052.631.500,Saturday,Afternoon
+,2016-11-19,14.0,30.0,2016-11-19,14.0,51.0,Nov,2016,Business,Durham,Cary,1.689.807,Meeting,21.0,48.280.200.000.000.000,Saturday,Afternoon
+,2016-11-19,16.0,1.0,2016-11-19,16.0,6.0,Nov,2016,Business,Cary,Cary,241.401,Meeting,5.0,28.968.120.000.000.000,Saturday,Afternoon
+,2016-11-19,16.0,27.0,2016-11-19,16.0,41.0,Nov,2016,Business,Cary,Cary,2.896.812,Meeting,14.0,12.414.908.571.428.500,Saturday,Afternoon
+,2016-11-19,17.0,41.0,2016-11-19,17.0,54.0,Nov,2016,Business,Cary,Apex,8.690.436,Errand/Supplies,13.0,40.109.704.615.384.600,Saturday,Afternoon
+,2016-11-19,21.0,14.0,2016-11-19,21.0,35.0,Nov,2016,Business,Apex,Cary,8.690.436,Customer Visit,21.0,24.829.817.142.857.100,Saturday,Evening
+,2016-11-20,10.0,27.0,2016-11-20,11.0,32.0,Nov,2016,Business,Cary,Cary,63.086.128,Between Offices,65.0,58.233.348.923.076.900,Sunday,Morning
+,2016-11-20,11.0,58.0,2016-11-20,12.0,28.0,Nov,2016,Business,Cary,Cary,10.299.776.000.000.000,Customer Visit,30.0,20.599.552.000.000.000,Sunday,Morning
+,2016-11-20,14.0,58.0,2016-11-20,15.0,7.0,Nov,2016,Business,Cary,Cary,4.345.218,Meeting,9.0,28.968.120.000.000.000,Sunday,Afternoon
+,2016-11-20,17.0,45.0,2016-11-20,18.0,37.0,Nov,2016,Business,Cary,Cary,2.977.279,Errand/Supplies,52.0,34.353.219.230.769.200,Sunday,Afternoon
+,2016-11-21,13.0,37.0,2016-11-21,13.0,49.0,Nov,2016,Business,Cary,Cary,402.335,Meal/Entertain,12.0,20.116.749.999.999.900,Monday,Afternoon
+,2016-11-21,14.0,34.0,2016-11-21,14.0,44.0,Nov,2016,Business,Cary,Cary,3.379.614,Meal/Entertain,10.0,20.277.684,Monday,Afternoon
+,2016-11-21,17.0,50.0,2016-11-21,18.0,4.0,Nov,2016,Business,Cary,Unknown Location,10.782.578,Errand/Supplies,14.0,46.211.048.571.428.500,Monday,Afternoon
+,2016-11-21,18.0,18.0,2016-11-21,18.0,27.0,Nov,2016,Business,Unknown Location,Morrisville,563.269,Meal/Entertain,9.0,3.755.126.666.666.660,Monday,Afternoon
+,2016-11-21,18.0,43.0,2016-11-21,18.0,51.0,Nov,2016,Business,Morrisville,Cary,5.471.756,Errand/Supplies,8.0,4.103.817,Monday,Afternoon
+,2016-11-22,15.0,12.0,2016-11-22,15.0,27.0,Nov,2016,Business,Cary,Cary,885.137,Meeting,15.0,3.540.548,Tuesday,Afternoon
+,2016-11-22,15.0,31.0,2016-11-22,15.0,44.0,Nov,2016,Business,Cary,Cary,65.982.939.999.999.900,Meeting,13.0,30.453.664.615.384.600,Tuesday,Afternoon
+,2016-11-22,15.0,51.0,2016-11-22,16.0,43.0,Nov,2016,Business,Cary,Cary,20.438.617.999.999.900,Customer Visit,52.0,23.583.020.769.230.700,Tuesday,Afternoon
+,2016-11-22,18.0,18.0,2016-11-22,18.0,28.0,Nov,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,10.0,28.968.120.000.000.000,Tuesday,Afternoon
+,2016-11-22,21.0,2.0,2016-11-22,21.0,14.0,Nov,2016,Business,Morrisville,Cary,563.269,Customer Visit,12.0,2.816.345,Tuesday,Evening
+,2016-11-23,15.0,34.0,2016-11-23,15.0,50.0,Nov,2016,Business,Cary,Cary,9.495.106,Meal/Entertain,16.0,356.066.475,Wednesday,Afternoon
+,2016-11-23,16.0,18.0,2016-11-23,16.0,29.0,Nov,2016,Business,Cary,Cary,3.057.746,Meal/Entertain,11.0,16.678.614.545.454.500,Wednesday,Afternoon
+,2016-11-23,16.0,49.0,2016-11-23,17.0,0.0,Nov,2016,Business,Cary,Cary,5.310.822,Meal/Entertain,11.0,28.968.120.000.000.000,Wednesday,Afternoon
+,2016-11-23,18.0,37.0,2016-11-23,18.0,47.0,Nov,2016,Business,Cary,Cary,2.092.142,Meal/Entertain,10.0,12.552.852,Wednesday,Afternoon
+,2016-11-25,11.0,47.0,2016-11-25,12.0,4.0,Nov,2016,Business,Cary,Durham,16.576.202.000.000.000,Meeting,17.0,58.504.242.352.941.100,Friday,Morning
+,2016-11-25,13.0,13.0,2016-11-25,13.0,31.0,Nov,2016,Business,Durham,Cary,17.863.674,Meeting,18.0,5.954.558,Friday,Afternoon
+,2016-11-26,15.0,54.0,2016-11-26,15.0,59.0,Nov,2016,Business,Cary,Cary,22.530.759.999.999.900,Meeting,5.0,27.036.911.999.999.900,Saturday,Afternoon
+,2016-11-26,17.0,0.0,2016-11-26,17.0,12.0,Nov,2016,Business,Cary,Apex,82.076.339.999.999.900,Meeting,12.0,41.038.169.999.999.900,Saturday,Afternoon
+,2016-11-26,17.0,36.0,2016-11-26,17.0,56.0,Nov,2016,Business,Apex,Holly Springs,1.448.406,Meeting,20.0,4.345.218,Saturday,Afternoon
+,2016-11-26,18.0,29.0,2016-11-26,19.0,4.0,Nov,2016,Business,Holly Springs,Cary,21.404.222,Between Offices,35.0,36.692.952,Saturday,Afternoon
+,2016-11-26,19.0,47.0,2016-11-26,19.0,54.0,Nov,2016,Business,Cary,Cary,402.335,Errand/Supplies,7.0,34.485.857.142.857.100,Saturday,Evening
+,2016-11-27,15.0,59.0,2016-11-27,16.0,6.0,Nov,2016,Business,Cary,Morrisville,5.310.822,Meal/Entertain,7.0,45.521.331.428.571.400,Sunday,Afternoon
+,2016-11-27,18.0,55.0,2016-11-27,19.0,9.0,Nov,2016,Business,Morrisville,Cary,46.670.859.999.999.900,Meal/Entertain,14.0,20.001.797.142.857.100,Sunday,Afternoon
+,2016-11-30,11.0,3.0,2016-11-30,11.0,34.0,Nov,2016,Business,Cary,Raleigh,1.367.939,Customer Visit,31.0,26.476.238.709.677.400,Wednesday,Morning
+,2016-11-30,11.0,53.0,2016-11-30,12.0,35.0,Nov,2016,Business,Raleigh,Morrisville,10.782.578,Temporary Site,42.0,1.540.368.285.714.280,Wednesday,Morning
+,2016-11-30,12.0,43.0,2016-11-30,12.0,53.0,Nov,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Temporary Site,10.0,29.933.724.000.000.000,Wednesday,Morning
+,2016-12-01,7.0,44.0,2016-12-01,7.0,59.0,Dec,2016,Business,Cary,Cary,885.137,Meeting,15.0,3.540.548,Thursday,Morning
+,2016-12-01,8.0,37.0,2016-12-01,8.0,53.0,Dec,2016,Business,Cary,Cary,885.137,Errand/Supplies,16.0,331.926.375,Thursday,Morning
+,2016-12-01,18.0,0.0,2016-12-01,18.0,12.0,Dec,2016,Business,Cary,Morrisville,46.670.859.999.999.900,Meal/Entertain,12.0,23.335.429.999.999.900,Thursday,Afternoon
+,2016-12-01,20.0,36.0,2016-12-01,20.0,46.0,Dec,2016,Business,Morrisville,Cary,46.670.859.999.999.900,Customer Visit,10.0,28.002.515.999.999.900,Thursday,Evening
+,2016-12-02,12.0,12.0,2016-12-02,12.0,23.0,Dec,2016,Business,Cary,Apex,82.076.339.999.999.900,Meal/Entertain,11.0,44.768.912.727.272.700,Friday,Morning
+,2016-12-02,13.0,7.0,2016-12-02,13.0,22.0,Dec,2016,Business,Apex,Cary,8.529.501.999.999.990,Customer Visit,15.0,34.118.007.999.999.900,Friday,Afternoon
+,2016-12-02,20.0,41.0,2016-12-02,20.0,48.0,Dec,2016,Business,Cary,Morrisville,5.310.822,Meal/Entertain,7.0,45.521.331.428.571.400,Friday,Evening
+,2016-12-02,22.0,59.0,2016-12-02,23.0,7.0,Dec,2016,Business,Morrisville,Cary,482.802,Customer Visit,8.0,36.210.150.000.000.000,Friday,Evening
+,2016-12-03,18.0,35.0,2016-12-03,18.0,56.0,Dec,2016,Business,Cary,Wake Co.,10.621.644,Errand/Supplies,21.0,30.347.554.285.714.200,Saturday,Afternoon
+,2016-12-03,19.0,8.0,2016-12-03,19.0,15.0,Dec,2016,Business,Wake Co.,Morrisville,2.896.812,Errand/Supplies,7.0,24.829.817.142.857.100,Saturday,Evening
+,2016-12-03,20.0,31.0,2016-12-03,20.0,41.0,Dec,2016,Business,Morrisville,Cary,482.802,Customer Visit,10.0,28.968.120.000.000.000,Saturday,Evening
+,2016-12-04,18.0,56.0,2016-12-04,19.0,3.0,Dec,2016,Business,Cary,Morrisville,46.670.859.999.999.900,Meal/Entertain,7.0,40.003.594.285.714.200,Sunday,Afternoon
+,2016-12-04,20.0,23.0,2016-12-04,20.0,34.0,Dec,2016,Business,Morrisville,Cary,5.471.756,Customer Visit,11.0,29.845.941.818.181.800,Sunday,Evening
+,2016-12-05,18.0,4.0,2016-12-05,18.0,17.0,Dec,2016,Business,Cary,Cary,65.982.939.999.999.900,Customer Visit,13.0,30.453.664.615.384.600,Monday,Afternoon
+,2016-12-05,19.0,22.0,2016-12-05,19.0,37.0,Dec,2016,Business,Cary,Cary,6.115.492,Meal/Entertain,15.0,24.461.968,Monday,Evening
+,2016-12-07,12.0,3.0,2016-12-07,12.0,32.0,Dec,2016,Business,Cary,Cary,10.621.644,Meeting,29.0,21.975.815.172.413.700,Wednesday,Morning
+,2016-12-07,12.0,35.0,2016-12-07,12.0,46.0,Dec,2016,Business,Cary,Cary,643.736,Meeting,11.0,3.511.287.272.727.270,Wednesday,Morning
+,2016-12-07,19.0,53.0,2016-12-07,20.0,13.0,Dec,2016,Business,Cary,Cary,1.126.538,Customer Visit,20.0,3.379.614,Wednesday,Evening
+,2016-12-07,21.0,13.0,2016-12-07,21.0,50.0,Dec,2016,Business,Cary,Cary,11.104.446.000.000.000,Meal/Entertain,37.0,1.800.720.972.972.970,Wednesday,Evening
+,2016-12-08,14.0,19.0,2016-12-08,14.0,32.0,Dec,2016,Business,Cary,Cary,5.471.756,Errand/Supplies,13.0,25.254.258.461.538.400,Thursday,Afternoon
+,2016-12-08,14.0,53.0,2016-12-08,15.0,2.0,Dec,2016,Business,Cary,Cary,5.471.756,Errand/Supplies,9.0,36.478.373.333.333.300,Thursday,Afternoon
+,2016-12-08,19.0,22.0,2016-12-08,19.0,27.0,Dec,2016,Business,Cary,Cary,321.868,Meeting,5.0,3.862.416,Thursday,Evening
+,2016-12-08,21.0,26.0,2016-12-08,21.0,31.0,Dec,2016,Business,Cary,Cary,321.868,Errand/Supplies,5.0,3.862.416,Thursday,Evening
+,2016-12-09,12.0,9.0,2016-12-09,12.0,24.0,Dec,2016,Business,Cary,Apex,82.076.339.999.999.900,Errand/Supplies,15.0,32.830.535.999.999.900,Friday,Morning
+,2016-12-09,13.0,15.0,2016-12-09,13.0,43.0,Dec,2016,Business,Apex,Cary,14.162.192.000.000.000,Temporary Site,28.0,30.347.554.285.714.200,Friday,Afternoon
+,2016-12-09,20.0,11.0,2016-12-09,20.0,34.0,Dec,2016,Business,Cary,Cary,90.123.039.999.999.900,Meeting,23.0,23.510.358.260.869.500,Friday,Evening
+,2016-12-09,22.0,3.0,2016-12-09,22.0,57.0,Dec,2016,Business,Cary,Cary,30.416.525.999.999.900,Customer Visit,54.0,33.796.139.999.999.900,Friday,Evening
+,2016-12-10,12.0,43.0,2016-12-10,13.0,16.0,Dec,2016,Business,Cary,Fuquay-Varina,25.105.704,Meeting,33.0,45.646.734.545.454.500,Saturday,Morning
+,2016-12-10,14.0,42.0,2016-12-10,15.0,18.0,Dec,2016,Business,Fuquay-Varina,Cary,25.105.704,Errand/Supplies,36.0,4.184.284,Saturday,Afternoon
+,2016-12-10,18.0,17.0,2016-12-10,18.0,27.0,Dec,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,10.0,28.968.120.000.000.000,Saturday,Afternoon
+,2016-12-10,22.0,9.0,2016-12-10,22.0,21.0,Dec,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Customer Visit,12.0,24.944.770.000.000.000,Saturday,Evening
+,2016-12-11,16.0,6.0,2016-12-11,16.0,16.0,Dec,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,10.0,28.968.120.000.000.000,Sunday,Afternoon
+,2016-12-11,19.0,5.0,2016-12-11,19.0,15.0,Dec,2016,Business,Morrisville,Cary,77.248.319.999.999.900,Errand/Supplies,10.0,46.348.991.999.999.900,Sunday,Evening
+,2016-12-11,21.0,48.0,2016-12-11,21.0,56.0,Dec,2016,Business,Cary,Cary,3.379.614,Errand/Supplies,8.0,25.347.105.000.000.000,Sunday,Evening
+,2016-12-12,13.0,22.0,2016-12-12,13.0,32.0,Dec,2016,Business,Cary,Cary,49.889.540.000.000.000,Errand/Supplies,10.0,29.933.724.000.000.000,Monday,Afternoon
+,2016-12-12,13.0,36.0,2016-12-12,13.0,51.0,Dec,2016,Business,Cary,Apex,70.810.960.000.000.000,Meal/Entertain,15.0,28.324.384.000.000.000,Monday,Afternoon
+,2016-12-12,14.0,26.0,2016-12-12,14.0,39.0,Dec,2016,Business,Apex,Cary,7.563.898,Customer Visit,13.0,3.491.029.846.153.840,Monday,Afternoon
+,2016-12-12,17.0,51.0,2016-12-12,18.0,1.0,Dec,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,10.0,28.968.120.000.000.000,Monday,Afternoon
+,2016-12-12,20.0,48.0,2016-12-12,20.0,57.0,Dec,2016,Business,Morrisville,Cary,482.802,Customer Visit,9.0,32.186.800.000.000.000,Monday,Evening
+,2016-12-13,18.0,19.0,2016-12-13,18.0,29.0,Dec,2016,Business,Cary,Cary,6.759.228,Errand/Supplies,10.0,40.555.368,Tuesday,Afternoon
+,2016-12-13,20.0,20.0,2016-12-13,20.0,29.0,Dec,2016,Business,Cary,Cary,65.982.939.999.999.900,Meal/Entertain,9.0,43.988.626.666.666.600,Tuesday,Evening
+,2016-12-14,16.0,52.0,2016-12-14,17.0,10.0,Dec,2016,Business,Cary,Cary,5.471.756,Meal/Entertain,18.0,18.239.186.666.666.600,Wednesday,Afternoon
+,2016-12-14,17.0,22.0,2016-12-14,17.0,34.0,Dec,2016,Business,Cary,Cary,5.310.822,Meal/Entertain,12.0,26.554.109.999.999.900,Wednesday,Afternoon
+,2016-12-14,17.0,50.0,2016-12-14,18.0,0.0,Dec,2016,Business,Cary,Morrisville,482.802,Meal/Entertain,10.0,28.968.120.000.000.000,Wednesday,Afternoon
+,2016-12-14,20.0,24.0,2016-12-14,20.0,40.0,Dec,2016,Business,Morrisville,Cary,49.889.540.000.000.000,Customer Visit,16.0,18.708.577.500.000.000,Wednesday,Evening
+,2016-12-15,14.0,20.0,2016-12-15,14.0,54.0,Dec,2016,Business,Cary,Morrisville,17.059.003.999.999.900,Meeting,34.0,30.104.124.705.882.300,Thursday,Afternoon
+,2016-12-17,15.0,38.0,2016-12-17,16.0,12.0,Dec,2016,Business,Unknown Location,Unknown Location,77.248.319.999.999.900,Airport/Travel,34.0,13.632.056.470.588.200,Saturday,Afternoon
+,2016-12-17,17.0,19.0,2016-12-17,17.0,59.0,Dec,2016,Business,Unknown Location,Unknown Location,8.529.501.999.999.990,Temporary Site,40.0,12.794.253,Saturday,Afternoon
+,2016-12-18,13.0,3.0,2016-12-18,13.0,41.0,Dec,2016,Business,Unknown Location,Unknown Location,7.885.766,Errand/Supplies,38.0,12.451.209.473.684.200,Sunday,Afternoon
+,2016-12-18,16.0,38.0,2016-12-18,17.0,25.0,Dec,2016,Business,Unknown Location,Unknown Location,16.415.267.999.999.900,Errand/Supplies,47.0,20.955.661.276.595.700,Sunday,Afternoon
+,2016-12-18,20.0,35.0,2016-12-18,21.0,4.0,Dec,2016,Business,Unknown Location,Unknown Location,14.805.927.999.999.900,Errand/Supplies,29.0,30.632.954.482.758.600,Sunday,Evening
+,2016-12-19,9.0,8.0,2016-12-19,9.0,36.0,Dec,2016,Business,Unknown Location,Islamabad,12.391.918,Errand/Supplies,28.0,2.655.411,Monday,Morning
+,2016-12-19,10.0,15.0,2016-12-19,10.0,34.0,Dec,2016,Business,Islamabad,Rawalpindi,9.495.106,Temporary Site,19.0,29.984.545.263.157.800,Monday,Morning
+,2016-12-19,13.0,4.0,2016-12-19,13.0,8.0,Dec,2016,Business,Rawalpindi,Unknown Location,11.265.379.999.999.900,Errand/Supplies,4.0,16.898.069.999.999.900,Monday,Afternoon
+,2016-12-19,13.0,24.0,2016-12-19,13.0,35.0,Dec,2016,Business,Unknown Location,Unknown Location,2.092.142,Errand/Supplies,11.0,11.411.683.636.363.600,Monday,Afternoon
+,2016-12-19,14.0,7.0,2016-12-19,14.0,15.0,Dec,2016,Business,Unknown Location,Unknown Location,402.335,Errand/Supplies,8.0,30.175.124.999.999.900,Monday,Afternoon
+,2016-12-19,14.0,18.0,2016-12-19,14.0,32.0,Dec,2016,Business,Unknown Location,Unknown Location,8.529.501.999.999.990,Errand/Supplies,14.0,36.555.008.571.428.500,Monday,Afternoon
+,2016-12-19,14.0,37.0,2016-12-19,14.0,50.0,Dec,2016,Business,Unknown Location,Unknown Location,8.690.436,Errand/Supplies,13.0,40.109.704.615.384.600,Monday,Afternoon
+,2016-12-19,15.0,9.0,2016-12-19,15.0,38.0,Dec,2016,Business,Unknown Location,Rawalpindi,16.415.267.999.999.900,Customer Visit,29.0,33.962.623.448.275.800,Monday,Afternoon
+,2016-12-19,16.0,50.0,2016-12-19,17.0,9.0,Dec,2016,Business,Rawalpindi,Islamabad,11.587.248,Customer Visit,19.0,36.591.309.473.684.200,Monday,Afternoon
+,2016-12-19,19.0,5.0,2016-12-19,19.0,17.0,Dec,2016,Business,Islamabad,Unknown Location,35.405.480.000.000.000,Customer Visit,12.0,1.770.274,Monday,Evening
+,2016-12-19,19.0,55.0,2016-12-19,20.0,30.0,Dec,2016,Business,Unknown Location,Unknown Location,1.770.274,Meeting,35.0,30.347.554.285.714.200,Monday,Evening
+,2016-12-20,8.0,49.0,2016-12-20,9.0,24.0,Dec,2016,Business,Unknown Location,Rawalpindi,1.931.208,Meeting,35.0,3.310.642.285.714.280,Tuesday,Morning
+,2016-12-20,10.0,30.0,2016-12-20,10.0,48.0,Dec,2016,Business,Rawalpindi,Rawalpindi,5.310.822,Errand/Supplies,18.0,17.702.740.000.000.000,Tuesday,Morning
+,2016-12-20,11.0,30.0,2016-12-20,12.0,17.0,Dec,2016,Business,Rawalpindi,Unknown Location,31.221.196,Meeting,47.0,39.856.845.957.446.800,Tuesday,Morning
+,2016-12-20,13.0,14.0,2016-12-20,13.0,20.0,Dec,2016,Business,Unknown Location,Unknown Location,2.735.878,Errand/Supplies,6.0,2.735.878,Tuesday,Afternoon
+,2016-12-20,13.0,54.0,2016-12-20,14.0,17.0,Dec,2016,Business,Unknown Location,Islamabad,9.173.238,Temporary Site,23.0,23.930.186.086.956.500,Tuesday,Afternoon
+,2016-12-20,16.0,14.0,2016-12-20,16.0,24.0,Dec,2016,Business,Islamabad,Islamabad,2.896.812,Errand/Supplies,10.0,17.380.872.000.000.000,Tuesday,Afternoon
+,2016-12-20,16.0,56.0,2016-12-20,17.0,7.0,Dec,2016,Business,Islamabad,Islamabad,22.530.759.999.999.900,Errand/Supplies,11.0,12.289.505.454.545.400,Tuesday,Afternoon
+,2016-12-20,18.0,47.0,2016-12-20,19.0,21.0,Dec,2016,Business,Islamabad,Unknown Location,16.576.202.000.000.000,Customer Visit,34.0,29.252.121.176.470.500,Tuesday,Afternoon
+,2016-12-21,7.0,42.0,2016-12-21,8.0,10.0,Dec,2016,Business,Unknown Location,Unknown Location,1.850.741,Meeting,28.0,39.658.735.714.285.700,Wednesday,Morning
+,2016-12-21,10.0,14.0,2016-12-21,10.0,30.0,Dec,2016,Business,Unknown Location,Islamabad,7.885.766,Errand/Supplies,16.0,295.716.225,Wednesday,Morning
+,2016-12-21,11.0,35.0,2016-12-21,11.0,49.0,Dec,2016,Business,Islamabad,Unknown Location,563.269,Meal/Entertain,14.0,241.401,Wednesday,Morning
+,2016-12-21,12.0,51.0,2016-12-21,13.0,33.0,Dec,2016,Business,Unknown Location,Unknown Location,26.071.308,Meeting,42.0,37.244.725.714.285.700,Wednesday,Morning
+,2016-12-21,15.0,38.0,2016-12-21,15.0,49.0,Dec,2016,Business,Unknown Location,Unknown Location,321.868,Errand/Supplies,11.0,17.556.436.363.636.300,Wednesday,Afternoon
+,2016-12-21,15.0,55.0,2016-12-21,16.0,5.0,Dec,2016,Business,Unknown Location,Islamabad,3.379.614,Errand/Supplies,10.0,20.277.684,Wednesday,Afternoon
+,2016-12-21,17.0,45.0,2016-12-21,17.0,54.0,Dec,2016,Business,Islamabad,Islamabad,3.379.614,Meeting,9.0,2.253.076,Wednesday,Afternoon
+,2016-12-21,17.0,59.0,2016-12-21,18.0,31.0,Dec,2016,Business,Islamabad,Unknown Location,11.587.248,Customer Visit,32.0,21.726.090.000.000.000,Wednesday,Afternoon
+,2016-12-21,19.0,49.0,2016-12-21,20.0,35.0,Dec,2016,Business,Unknown Location,Rawalpindi,1.931.208,Meeting,46.0,25.189.669.565.217.300,Wednesday,Evening
+,2016-12-21,20.0,56.0,2016-12-21,23.0,42.0,Dec,2016,Business,Rawalpindi,Unknown Location,16.576.202,Meeting,166.0,59.913.983.132.530.100,Wednesday,Evening
+,2016-12-22,15.0,40.0,2016-12-22,16.0,38.0,Dec,2016,Business,Unknown Location,Unknown Location,51.981.681.999.999.900,Meeting,58.0,53.774.153.793.103.400,Thursday,Afternoon
+,2016-12-22,17.0,4.0,2016-12-22,17.0,20.0,Dec,2016,Business,Unknown Location,Unknown Location,8.529.501.999.999.990,Customer Visit,16.0,31.985.632.499.999.900,Thursday,Afternoon
+,2016-12-22,17.0,27.0,2016-12-22,17.0,53.0,Dec,2016,Business,Unknown Location,Unknown Location,18.668.343.999.999.900,Meeting,26.0,43.080.793.846.153.800,Thursday,Afternoon
+,2016-12-22,17.0,56.0,2016-12-22,18.0,29.0,Dec,2016,Business,Unknown Location,Unknown Location,37.336.687.999.999.900,Meeting,33.0,67.884.887.272.727.200,Thursday,Afternoon
+,2016-12-22,18.0,31.0,2016-12-22,18.0,37.0,Dec,2016,Business,Unknown Location,Unknown Location,51.498.880.000.000.000,Errand/Supplies,6.0,51.498.880.000.000.000,Thursday,Afternoon
+,2016-12-22,18.0,38.0,2016-12-22,18.0,47.0,Dec,2016,Business,Unknown Location,Unknown Location,19.794.882,Temporary Site,9.0,13.196.588.000.000.000,Thursday,Afternoon
+,2016-12-22,19.0,4.0,2016-12-22,19.0,50.0,Dec,2016,Business,Unknown Location,Lahore,2.253.076,Meeting,46.0,29.387.947.826.086.900,Thursday,Evening
+,2016-12-22,21.0,41.0,2016-12-22,21.0,53.0,Dec,2016,Business,Lahore,Lahore,3.379.614,Meal/Entertain,12.0,1.689.807,Thursday,Evening
+,2016-12-22,23.0,27.0,2016-12-22,23.0,32.0,Dec,2016,Business,Lahore,Lahore,3.379.614,Customer Visit,5.0,40.555.368,Thursday,Evening
+,2016-12-23,9.0,21.0,2016-12-23,9.0,41.0,Dec,2016,Business,Lahore,Lahore,482.802,Meeting,20.0,14.484.060.000.000.000,Friday,Morning
+,2016-12-23,11.0,33.0,2016-12-23,11.0,58.0,Dec,2016,Business,Lahore,Unknown Location,99.779.080.000.000.000,Meeting,25.0,239.469.792,Friday,Morning
+,2016-12-23,14.0,15.0,2016-12-23,15.0,25.0,Dec,2016,Business,Unknown Location,Unknown Location,15.449.663.999.999.900,Meeting,70.0,13.242.569.142.857.100,Friday,Afternoon
+,2016-12-23,16.0,23.0,2016-12-23,16.0,34.0,Dec,2016,Business,Unknown Location,Unknown Location,2.092.142,Errand/Supplies,11.0,11.411.683.636.363.600,Friday,Afternoon
+,2016-12-23,17.0,34.0,2016-12-23,18.0,27.0,Dec,2016,Business,Unknown Location,Lahore,11.426.314,Meal/Entertain,53.0,12.935.449.811.320.700,Friday,Afternoon
+,2016-12-24,7.0,43.0,2016-12-24,8.0,4.0,Dec,2016,Business,Lahore,Unknown Location,10.138.842,Meal/Entertain,21.0,28.968.120.000.000.000,Saturday,Morning
+,2016-12-24,9.0,19.0,2016-12-24,9.0,55.0,Dec,2016,Business,Unknown Location,Lahore,17.219.938,Meal/Entertain,36.0,28.699.896.666.666.600,Saturday,Morning
+,2016-12-24,10.0,34.0,2016-12-24,10.0,53.0,Dec,2016,Business,Lahore,Lahore,8.529.501.999.999.990,Meal/Entertain,19.0,26.935.269.473.684.200,Saturday,Morning
+,2016-12-24,12.0,51.0,2016-12-24,12.0,53.0,Dec,2016,Business,Lahore,Lahore,25.749.440.000.000.000,Errand/Supplies,2.0,7.724.832,Saturday,Morning
+,2016-12-24,13.0,8.0,2016-12-24,13.0,29.0,Dec,2016,Business,Lahore,Lahore,5.793.624,Errand/Supplies,21.0,1.655.321.142.857.140,Saturday,Afternoon
+,2016-12-24,17.0,12.0,2016-12-24,17.0,27.0,Dec,2016,Business,Lahore,Lahore,2.735.878,Errand/Supplies,15.0,10.943.512,Saturday,Afternoon
+,2016-12-24,19.0,12.0,2016-12-24,19.0,27.0,Dec,2016,Business,Lahore,Lahore,46.670.859.999.999.900,Meal/Entertain,15.0,18.668.343.999.999.900,Saturday,Evening
+,2016-12-24,22.0,4.0,2016-12-24,22.0,9.0,Dec,2016,Business,Lahore,Lahore,96.560.399.999.999.900,Errand/Supplies,5.0,11.587.247.999.999.900,Saturday,Evening
+,2016-12-25,0.0,10.0,2016-12-25,0.0,14.0,Dec,2016,Business,Lahore,Lahore,96.560.399.999.999.900,Errand/Supplies,4.0,1.448.406,Sunday,Night
+,2016-12-25,19.0,15.0,2016-12-25,19.0,26.0,Dec,2016,Business,Lahore,Lahore,37.014.819.999.999.900,Meal/Entertain,11.0,20.189.901.818.181.800,Sunday,Evening
+,2016-12-25,21.0,58.0,2016-12-25,22.0,4.0,Dec,2016,Business,Lahore,Lahore,37.014.819.999.999.900,Meal/Entertain,6.0,37.014.819.999.999.900,Sunday,Evening
+,2016-12-26,8.0,30.0,2016-12-26,8.0,41.0,Dec,2016,Business,Lahore,Lahore,51.498.880.000.000.000,Meal/Entertain,11.0,28.090.298.181.818.100,Monday,Morning
+,2016-12-26,9.0,5.0,2016-12-26,9.0,19.0,Dec,2016,Business,Lahore,Lahore,99.779.080.000.000.000,Customer Visit,14.0,42.762.462.857.142.800,Monday,Morning
+,2016-12-26,10.0,15.0,2016-12-26,10.0,36.0,Dec,2016,Business,Lahore,Lahore,12.391.918,Customer Visit,21.0,35.405.480.000.000.000,Monday,Morning
+,2016-12-26,11.0,29.0,2016-12-26,11.0,42.0,Dec,2016,Business,Lahore,Lahore,6.115.492,Customer Visit,13.0,2.822.534.769.230.760,Monday,Morning
+,2016-12-26,13.0,9.0,2016-12-26,13.0,43.0,Dec,2016,Business,Lahore,Unknown Location,12.713.786,Meeting,34.0,22.436.092.941.176.400,Monday,Afternoon
+,2016-12-27,7.0,2.0,2016-12-27,7.0,14.0,Dec,2016,Business,Kar?chi,Kar?chi,7.885.766,Temporary Site,12.0,3.942.883,Tuesday,Morning
+,2016-12-27,8.0,37.0,2016-12-27,8.0,59.0,Dec,2016,Business,Kar?chi,Kar?chi,8.0467,Meal/Entertain,22.0,21.945.545.454.545.400,Tuesday,Morning
+,2016-12-27,12.0,53.0,2016-12-27,12.0,57.0,Dec,2016,Business,Kar?chi,Kar?chi,96.560.399.999.999.900,Meal/Entertain,4.0,1.448.406,Tuesday,Morning
+,2016-12-27,14.0,49.0,2016-12-27,15.0,3.0,Dec,2016,Business,Kar?chi,Unknown Location,49.889.540.000.000.000,Customer Visit,14.0,21.381.231.428.571.400,Tuesday,Afternoon
+,2016-12-27,16.0,34.0,2016-12-27,16.0,58.0,Dec,2016,Business,Unknown Location,Kar?chi,12.713.786,Meeting,24.0,31.784.465,Tuesday,Afternoon
+,2016-12-27,19.0,19.0,2016-12-27,19.0,50.0,Dec,2016,Business,Kar?chi,Kar?chi,885.137,Customer Visit,31.0,17.131.683.870.967.700,Tuesday,Evening
+,2016-12-28,8.0,34.0,2016-12-28,9.0,6.0,Dec,2016,Business,Kar?chi,Unknown Location,16.576.202.000.000.000,Meal/Entertain,32.0,31.080.378.750.000.000,Wednesday,Morning
+,2016-12-28,11.0,42.0,2016-12-28,12.0,12.0,Dec,2016,Business,Unknown Location,Kar?chi,16.737.136,Errand/Supplies,30.0,33.474.272,Wednesday,Morning
+,2016-12-28,13.0,53.0,2016-12-28,14.0,1.0,Dec,2016,Business,Kar?chi,Kar?chi,321.868,Errand/Supplies,8.0,241.401,Wednesday,Afternoon
+,2016-12-28,15.0,4.0,2016-12-28,15.0,39.0,Dec,2016,Business,Kar?chi,Unknown Location,1.367.939,Meal/Entertain,35.0,23.450.382.857.142.800,Wednesday,Afternoon
+,2016-12-28,17.0,2.0,2016-12-28,17.0,16.0,Dec,2016,Business,Unknown Location,Kar?chi,70.810.960.000.000.000,Errand/Supplies,14.0,30.347.554.285.714.200,Wednesday,Afternoon
+,2016-12-28,18.0,33.0,2016-12-28,18.0,56.0,Dec,2016,Business,Kar?chi,Kar?chi,6.115.492,Errand/Supplies,23.0,15.953.457.391.304.300,Wednesday,Afternoon
+,2016-12-28,22.0,44.0,2016-12-28,23.0,18.0,Dec,2016,Business,Kar?chi,Kar?chi,82.076.339.999.999.900,Errand/Supplies,34.0,14.484.059.999.999.900,Wednesday,Evening
+,2016-12-29,0.0,49.0,2016-12-29,1.0,6.0,Dec,2016,Business,Kar?chi,Kar?chi,6.115.492,Errand/Supplies,17.0,21.584.089.411.764.700,Thursday,Night
+,2016-12-29,9.0,44.0,2016-12-29,10.0,7.0,Dec,2016,Business,Kar?chi,Unknown Location,18.668.343.999.999.900,Meal/Entertain,23.0,48.700.027.826.086.900,Thursday,Morning
+,2016-12-29,11.0,28.0,2016-12-29,12.0,0.0,Dec,2016,Business,Unknown Location,Kar?chi,19.151.146,Meal/Entertain,32.0,3.590.839.875,Thursday,Morning
+,2016-12-29,12.0,25.0,2016-12-29,12.0,33.0,Dec,2016,Business,Kar?chi,Kar?chi,22.530.759.999.999.900,Errand/Supplies,8.0,16.898.069.999.999.900,Thursday,Morning
+,2016-12-29,13.0,17.0,2016-12-29,13.0,24.0,Dec,2016,Business,Kar?chi,Kar?chi,17.702.740.000.000.000,Errand/Supplies,7.0,15.173.777.142.857.100,Thursday,Afternoon
+,2016-12-29,13.0,56.0,2016-12-29,14.0,11.0,Dec,2016,Business,Kar?chi,Kar?chi,65.982.939.999.999.900,Airport/Travel,15.0,26.393.175.999.999.900,Thursday,Afternoon
+,2016-12-29,14.0,42.0,2016-12-29,14.0,58.0,Dec,2016,Business,Kar?chi,Kar?chi,9.816.974,Between Offices,16.0,368.136.525,Thursday,Afternoon
+,2016-12-29,15.0,5.0,2016-12-29,15.0,16.0,Dec,2016,Business,Kar?chi,Kar?chi,2.092.142,Errand/Supplies,11.0,11.411.683.636.363.600,Thursday,Afternoon
+,2016-12-29,18.0,59.0,2016-12-29,19.0,14.0,Dec,2016,Business,Kar?chi,Unknown Location,482.802,Meal/Entertain,15.0,1.931.208,Thursday,Afternoon
+,2016-12-29,19.0,50.0,2016-12-29,20.0,10.0,Dec,2016,Business,Unknown Location,Kar?chi,65.982.939.999.999.900,Customer Visit,20.0,19.794.881.999.999.900,Thursday,Evening
+,2016-12-29,20.0,15.0,2016-12-29,20.0,45.0,Dec,2016,Business,Kar?chi,Kar?chi,11.587.248,Meeting,30.0,23.174.496,Thursday,Evening
+,2016-12-29,20.0,53.0,2016-12-29,21.0,42.0,Dec,2016,Business,Kar?chi,Unknown Location,10.299.776.000.000.000,Meeting,49.0,126.119.706.122.449,Thursday,Evening
+,2016-12-29,23.0,14.0,2016-12-29,23.0,47.0,Dec,2016,Business,Unknown Location,Kar?chi,20.760.486,Meeting,33.0,37.746.338.181.818.100,Thursday,Evening
+,2016-12-30,10.0,15.0,2016-12-30,10.0,33.0,Dec,2016,Business,Kar?chi,Kar?chi,45.061.519.999.999.900,Errand/Supplies,18.0,15.020.506.666.666.600,Friday,Morning
+,2016-12-30,11.0,31.0,2016-12-30,11.0,56.0,Dec,2016,Business,Kar?chi,Kar?chi,46.670.859.999.999.900,Errand/Supplies,25.0,11.201.006.399.999.900,Friday,Morning
+,2016-12-30,15.0,41.0,2016-12-30,16.0,3.0,Dec,2016,Business,Kar?chi,Kar?chi,7.402.963.999.999.990,Errand/Supplies,22.0,20.189.901.818.181.800,Friday,Afternoon
+,2016-12-30,16.0,45.0,2016-12-30,17.0,8.0,Dec,2016,Business,Kar?chi,Kar?chi,7.402.963.999.999.990,Meeting,23.0,19.312.079.999.999.900,Friday,Afternoon
+,2016-12-30,23.0,6.0,2016-12-30,23.0,10.0,Dec,2016,Business,Kar?chi,Kar?chi,12.874.720.000.000.000,Customer Visit,4.0,1.931.208,Friday,Evening
+,2016-12-31,1.0,7.0,2016-12-31,1.0,14.0,Dec,2016,Business,Kar?chi,Kar?chi,11.265.379.999.999.900,Meeting,7.0,96.560.399.999.999.900,Saturday,Night
+,2016-12-31,13.0,24.0,2016-12-31,13.0,42.0,Dec,2016,Business,Kar?chi,Unknown Location,6.276.426,Temporary Site,18.0,2.092.142,Saturday,Afternoon
+,2016-12-31,15.0,3.0,2016-12-31,15.0,38.0,Dec,2016,Business,Unknown Location,Unknown Location,26.071.308,Meeting,35.0,44.693.670.857.142.800,Saturday,Afternoon
+,2016-12-31,21.0,32.0,2016-12-31,21.0,50.0,Dec,2016,Business,Katunayake,Gampaha,10.299.776.000.000.000,Temporary Site,18.0,34.332.586.666.666.600,Saturday,Evening
+,2016-12-31,22.0,8.0,2016-12-31,23.0,51.0,Dec,2016,Business,Gampaha,Ilukwatta,77.570.188,Temporary Site,103.0,451.865.172.815.534,Saturday,Evening
